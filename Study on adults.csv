@@ -1,0 +1,474 @@
+,A1_Score,A2_Score,A3_Score,A4_Score,A5_Score,A6_Score,A7_Score,A8_Score,A9_Score,A10_Score,Gender,Ethnicity,Jaundice,Family_mem_with_ASD,Who completed the test,Class/ASD Traits,Qchat-10-Score,Probable_case,age-group
+0,1,1,1,1,0,0,1,1,0,0,f,White-European,no,no,Self,NO,6,yes,Adults(Young)
+1,1,1,0,1,0,0,0,1,0,1,m,Latino,no,yes,Self,NO,5,yes,Youth
+2,1,1,0,1,1,0,1,1,1,1,m,Latino,yes,yes,Parent,YES,8,yes,Adults(Young)
+3,1,1,0,1,0,0,1,1,0,1,f,White-European,no,yes,Self,NO,6,yes,Adults(Young)
+5,1,1,1,1,1,0,1,1,1,1,m,Others,yes,no,Self,YES,9,yes,Adults(Mid)
+7,1,1,1,1,0,0,0,0,1,0,m,White-European,no,no,Parent,NO,5,yes,Seniors
+8,1,1,0,0,1,0,0,1,1,1,m,White-European,no,no,Self,NO,6,yes,Adults(Young)
+9,1,1,1,1,0,1,1,1,1,0,m,Asian,yes,yes,Health care professional,YES,8,yes,Teens
+10,1,1,1,1,1,1,1,1,1,1,m,White-European,no,no,Relative,YES,10,yes,Adults(Young)
+11,0,1,0,1,1,1,1,0,0,1,f,Middle Eastern ,no,no,Parent,NO,6,yes,Youth
+12,0,1,1,1,1,1,0,0,1,0,f,Others,no,no,Self,NO,6,yes,Teens
+13,1,0,0,0,0,0,1,1,0,1,m,Others,no,no,Self,NO,4,yes,Teens
+14,1,0,0,0,0,0,1,1,0,1,f,Others,no,no,Self,NO,4,yes,Teens
+15,1,1,0,1,1,0,0,1,0,1,m,Middle Eastern ,no,yes,Parent,NO,6,yes,Youth
+16,1,0,0,0,0,0,1,1,1,1,m,Middle Eastern ,no,no,Self,NO,5,yes,Adults(Young)
+22,0,0,0,1,0,0,1,1,1,1,m,Middle Eastern ,no,no,Self,NO,5,yes,Adults(Young)
+24,1,1,1,1,0,0,0,1,0,0,m,Others,no,no,Self,NO,5,yes,Adults(Mid)
+29,0,1,1,0,0,0,0,0,1,1,m,Middle Eastern ,no,no,Self,NO,4,yes,Adults(Young)
+31,1,0,0,1,1,1,1,1,0,1,f,White-European,no,yes,Self,YES,7,yes,Adults(Mid)
+32,1,1,0,0,0,0,1,0,0,1,f,Others,no,no,Self,NO,4,yes,Adults(Seniors)
+33,1,1,1,1,1,1,1,1,1,1,f,White-European,yes,no,Self,YES,10,yes,Youth
+34,1,1,1,1,1,1,1,1,1,1,f,White-European,no,no,Self,YES,10,yes,Youth
+36,0,1,1,0,1,0,0,1,1,1,m,Middle Eastern ,no,no,Self,NO,6,yes,Adults(Mid)
+37,1,0,1,1,1,1,0,0,1,0,f,White-European,no,no,Self,NO,6,yes,Adults(Young)
+38,1,0,0,1,1,1,1,0,1,1,f,White-European,no,no,Self,YES,7,yes,Adults(Seniors)
+39,1,0,1,1,0,1,1,1,1,1,f,White-European,no,yes,Self,YES,8,yes,Adults(Young)
+40,1,0,1,1,1,0,1,1,0,1,f,Latino,yes,no,Self,YES,7,yes,Youth
+43,0,1,1,1,0,0,0,0,0,1,f,White-European,yes,yes,Self,NO,4,yes,Adults(Mid)
+44,1,1,1,1,1,1,0,1,0,1,f,White-European,no,no,Self,YES,8,yes,Adults(Young)
+45,1,0,1,1,1,1,0,1,1,0,f,White-European,no,no,Relative,YES,7,yes,Adults(Seniors)
+46,1,1,1,1,0,1,0,0,0,0,f,Pasifika,no,no,Relative,NO,5,yes,Youth
+47,0,0,1,1,1,0,1,0,0,0,m,Pasifika,no,no,Relative,NO,4,yes,Youth
+49,1,1,0,0,0,1,1,1,0,1,f,Asian,no,no,Self,NO,6,yes,Adults(Young)
+51,1,1,1,1,1,1,1,1,1,1,f,Black,no,no,Parent,YES,10,yes,Adults(Young)
+52,1,0,1,1,1,1,1,1,0,1,m,Latino,no,yes,Self,YES,8,yes,Youth
+53,1,1,1,1,1,1,1,1,1,1,m,White-European,no,no,Self,YES,10,yes,Adults(Mid)
+54,1,1,1,1,1,1,0,1,1,1,f,Asian,no,no,Self,YES,9,yes,Adults(Young)
+55,1,0,1,1,1,1,0,1,1,1,f,White-European,no,no,Self,YES,8,yes,Adults(Young)
+56,1,1,1,1,1,1,0,1,1,1,f,White-European,no,no,Self,YES,9,yes,Adults(Mid)
+58,1,1,1,1,0,0,0,1,0,0,f,White-European,no,no,Self,NO,5,yes,Adults(Mid)
+59,1,0,1,1,1,1,1,1,0,1,f,Others,no,no,Self,YES,8,yes,Youth
+60,1,0,1,1,0,1,1,1,0,1,f,Others,no,no,Self,YES,7,yes,Youth
+62,1,0,0,1,1,0,0,1,1,0,m,White-European,no,no,Parent,NO,5,yes,Youth
+63,1,1,1,1,1,1,1,1,0,1,f,White-European,no,no,Self,YES,9,yes,Adults(Young)
+66,1,0,1,0,1,1,1,1,0,0,m,Hispanic,no,no,Self,NO,6,yes,Youth
+67,1,0,0,0,1,0,1,0,0,1,m,Middle Eastern ,no,no,Self,NO,4,yes,Adults(Young)
+69,1,1,0,0,0,0,1,1,0,1,f,South Asian,no,no,Self,NO,5,yes,Adults(Young)
+71,1,0,1,1,0,0,1,1,0,1,m,Others,no,no,Self,NO,6,yes,Youth
+72,1,1,1,0,0,0,0,1,1,1,m,Others,no,no,Self,NO,6,yes,Youth
+73,0,0,1,1,1,0,0,1,1,1,f,White-European,no,yes,Self,NO,6,yes,Adults(Mid)
+74,1,1,0,1,1,1,1,1,0,0,m,Hispanic,no,no,Self,YES,7,yes,Youth
+76,1,1,0,1,1,1,1,1,1,0,f,Black,no,yes,Self,YES,8,yes,Adults(Young)
+77,1,0,0,1,1,0,0,0,0,1,m,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+79,0,0,1,1,0,0,1,1,0,1,m,Others,yes,yes,Self,NO,5,yes,Adults(Young)
+81,1,1,1,1,1,1,1,1,1,1,f,White-European,no,yes,Self,YES,10,yes,Adults(Young)
+82,0,0,1,0,1,0,0,1,0,1,f,Middle Eastern ,no,no,Self,NO,4,yes,Adults(Mid)
+85,1,0,0,1,1,1,1,1,1,1,f,Middle Eastern ,no,yes,Parent,YES,8,yes,Adults(Young)
+87,1,0,0,0,0,0,0,1,1,1,f,White-European,no,yes,Self,NO,4,yes,Adults(Young)
+88,1,1,1,1,1,1,0,1,1,1,f,White-European,no,no,Self,YES,9,yes,Adults(Young)
+89,1,0,1,1,0,0,0,0,0,1,f,White-European,no,yes,Self,NO,4,yes,Teens
+90,0,1,0,0,1,0,1,0,0,1,f,Others,no,no,Self,NO,4,yes,Adults(Young)
+91,0,0,0,1,1,1,0,1,0,1,f,Pasifika,no,no,Self,NO,5,yes,Youth
+92,1,1,1,0,1,1,1,0,1,1,f,Latino,no,yes,Self,YES,8,yes,Youth
+93,1,1,1,1,1,0,0,1,1,1,f,White-European,no,yes,Self,YES,8,yes,Adults(Mid)
+94,1,1,0,0,0,0,0,1,0,1,f,White-European,no,no,Self,NO,4,yes,Adults(Mid)
+95,1,0,0,0,1,0,1,1,0,0,f,White-European,no,no,Self,NO,4,yes,Adults(Young)
+96,1,0,0,1,1,0,1,0,0,0,m,Others,no,no,Self,NO,4,yes,Youth
+102,1,1,0,0,1,0,1,1,0,0,m,Asian,no,no,Self,NO,5,yes,Adults(Young)
+103,0,0,0,0,1,1,0,1,0,1,m,South Asian,no,no,Self,NO,4,yes,Youth
+105,0,0,1,0,1,1,1,1,0,1,m,South Asian,no,no,Self,NO,6,yes,Adults(Young)
+106,1,1,0,1,1,0,1,1,0,1,f,White-European,no,no,Self,YES,7,yes,Adults(Young)
+107,1,0,0,1,1,1,1,0,0,0,f,Asian,no,no,Parent,NO,5,yes,Youth
+109,1,0,1,1,1,1,1,1,1,1,f,White-European,no,yes,Self,YES,9,yes,Youth
+110,0,0,1,1,0,1,0,1,1,1,m,White-European,no,no,Self,NO,6,yes,Youth
+112,0,1,0,0,0,0,0,1,1,1,m,Asian,no,no,Self,NO,4,yes,Adults(Young)
+113,1,1,0,1,1,1,1,1,0,1,f,Middle Eastern ,no,no,Self,YES,8,yes,Adults(Young)
+114,1,0,1,1,1,1,0,1,1,0,f,White-European,no,no,Parent,YES,7,yes,Adults(Mid)
+115,1,1,1,1,1,1,0,1,0,1,f,White-European,no,no,Self,YES,8,yes,Youth
+116,1,1,1,0,1,0,1,1,0,0,m,White-European,no,no,Self,NO,6,yes,Adults(Young)
+117,1,1,1,1,1,1,0,1,1,1,f,White-European,no,no,Self,YES,9,yes,Adults(Young)
+118,1,1,1,1,1,1,0,0,1,0,m,White-European,no,no,Self,YES,7,yes,Adults(Mid)
+119,1,1,1,1,1,1,0,1,1,1,m,White-European,no,no,Self,YES,9,yes,Youth
+120,1,0,1,1,1,1,1,1,1,1,f,White-European,no,no,Self,YES,9,yes,Teens
+122,1,0,0,1,1,1,1,1,0,1,m,Asian,yes,no,Self,YES,7,yes,Adults(Young)
+123,1,0,1,1,1,1,1,1,1,1,f,White-European,no,yes,Self,YES,9,yes,Adults(Young)
+124,1,1,0,0,1,1,1,1,0,1,f,White-European,no,no,Self,YES,7,yes,Adults(Young)
+126,1,0,0,1,1,1,0,1,0,1,m,Middle Eastern ,no,yes,Self,NO,6,yes,Adults(Young)
+127,1,0,1,1,0,0,1,0,0,1,f,White-European,no,no,Self,NO,5,yes,Adults(Mid)
+128,1,0,0,0,1,0,0,0,1,1,f,White-European,no,yes,Relative,NO,4,yes,Adults(Mid)
+132,1,0,1,1,0,0,0,1,0,1,m,Asian,no,no,Self,NO,5,yes,Youth
+133,0,1,0,0,1,1,0,1,1,0,m,Asian,no,no,Self,NO,5,yes,Youth
+134,1,0,1,1,0,0,0,1,1,1,m,Asian,no,no,Self,NO,6,yes,Adults(Young)
+135,0,1,1,0,0,1,0,0,1,1,m,Asian,no,no,Self,NO,5,yes,Youth
+139,0,0,1,1,0,0,0,1,0,1,m,Asian,no,no,Self,NO,4,yes,Youth
+142,1,0,0,1,1,0,0,1,0,0,m,Asian,no,no,Self,NO,4,yes,Adults(Young)
+144,1,0,0,1,1,1,1,1,1,1,m,White-European,no,no,Parent,YES,8,yes,Adults(Young)
+145,1,0,1,1,1,1,1,1,1,1,m,White-European,no,no,Self,YES,9,yes,Youth
+146,1,1,1,1,1,1,1,1,1,1,f,White-European,no,no,Self,YES,10,yes,Youth
+147,1,1,0,0,1,1,1,1,0,1,f,Others,no,no,Self,YES,7,yes,Adults(Mid)
+148,1,1,1,1,1,0,1,1,1,0,m,White-European,yes,yes,Self,YES,8,yes,Adults(Young)
+150,0,1,1,1,1,0,1,1,0,1,m,Asian,no,no,Self,YES,7,yes,Youth
+151,1,1,0,0,1,0,0,0,0,1,f,South Asian,no,no,Self,NO,4,yes,Adults(Young)
+152,0,0,1,0,1,0,1,0,1,1,m,Asian,no,no,Self,NO,5,yes,Adults(Young)
+153,1,0,0,0,1,0,1,0,0,1,m,Asian,no,no,Self,NO,4,yes,Adults(Young)
+155,1,0,0,0,0,1,0,1,0,1,f,Asian,no,no,Self,NO,4,yes,Adults(Young)
+156,0,1,0,0,1,0,0,1,0,1,f,South Asian,no,no,Self,NO,4,yes,Adults(Young)
+157,1,0,0,1,0,0,0,0,1,1,f,Asian,no,no,Self,NO,4,yes,Adults(Young)
+163,1,0,1,0,1,0,1,1,0,1,f,Asian,no,no,Self,NO,6,yes,Youth
+164,1,0,0,0,1,0,1,1,0,1,m,Asian,no,no,Self,NO,5,yes,Adults(Mid)
+165,0,0,1,0,0,0,0,1,1,1,f,Others,no,no,Self,NO,4,yes,Adults(Young)
+166,1,0,0,0,1,0,1,1,0,0,f,Asian,no,no,Self,NO,4,yes,Adults(Young)
+167,0,0,1,1,1,0,0,1,1,1,f,Latino,no,yes,Self,NO,6,yes,Adults(Mid)
+168,1,1,1,1,1,0,0,1,1,1,f,Latino,no,yes,Self,YES,8,yes,Adults(Mid)
+169,1,0,1,1,0,0,1,1,0,1,m,Hispanic,no,no,Self,NO,6,yes,Adults(Seniors)
+170,1,1,0,1,0,0,1,0,0,0,f,Asian,no,no,Self,NO,4,yes,Youth
+171,0,0,1,1,1,0,0,0,0,1,f,Asian,no,no,Self,NO,4,yes,Youth
+174,1,1,0,0,0,0,1,1,1,1,f,Black,no,no,Self,NO,6,yes,Adults(Mid)
+175,1,1,1,1,1,1,0,1,1,1,f,Black,no,no,Self,YES,9,yes,Adults(Mid)
+176,0,0,1,1,1,0,0,1,1,1,m,Middle Eastern ,no,no,Self,NO,6,yes,Adults(Young)
+177,1,0,1,0,1,0,0,1,0,1,m,Middle Eastern ,no,no,Self,NO,5,yes,Adults(Young)
+178,1,0,1,0,1,0,1,0,0,0,m,White-European,no,no,Self,NO,4,yes,Adults(Mid)
+179,1,0,0,0,1,0,1,0,0,1,f,White-European,no,no,Self,NO,4,yes,Adults(Mid)
+180,1,1,1,1,1,0,0,0,0,0,f,Asian,no,no,Self,NO,5,yes,Youth
+181,0,1,0,1,1,1,0,1,0,1,m,White-European,no,no,Others,NO,6,yes,Adults(Young)
+182,0,0,1,1,1,0,0,0,0,1,m,Asian,no,no,Self,NO,4,yes,Adults(Young)
+183,0,0,1,1,1,0,1,0,0,1,m,White-European,no,no,Self,NO,5,yes,Youth
+184,1,0,1,1,1,1,1,0,1,0,m,South Asian,no,no,Self,YES,7,yes,Adults(Young)
+185,1,0,0,0,0,0,1,1,0,1,m,Others,no,yes,Self,NO,4,yes,Adults(Mid)
+186,1,0,0,0,0,0,1,1,0,1,f,White-European,no,no,Self,NO,4,yes,Adults(Young)
+187,1,1,0,1,1,1,0,1,1,1,f,White-European,no,yes,Self,YES,8,yes,Adults(Seniors)
+188,1,1,1,0,1,0,1,0,0,0,m,White-European,no,no,Self,NO,5,yes,Adults(Young)
+189,1,1,1,1,1,1,0,1,1,1,m,White-European,no,no,Self,YES,9,yes,Adults(Mid)
+190,1,1,0,1,0,0,0,1,0,1,m,Latino,yes,yes,Parent,NO,5,yes,Adults(Mid)
+194,1,0,1,1,1,1,1,1,1,1,f,White-European,no,no,Self,YES,9,yes,Adults(Seniors)
+195,1,1,1,1,1,1,1,1,1,1,m,White-European,no,no,Self,YES,10,yes,Adults(Young)
+196,1,0,1,1,1,1,1,1,1,1,m,White-European,no,no,Self,YES,9,yes,Adults(Mid)
+197,1,1,1,0,1,1,0,1,1,0,m,White-European,no,no,Self,YES,7,yes,Adults(Young)
+198,1,1,1,1,0,0,0,0,0,0,f,Pasifika,no,yes,Self,NO,4,yes,Adults(Young)
+199,1,1,1,1,1,0,1,1,1,1,f,White-European,no,no,Self,YES,9,yes,Youth
+200,1,1,0,1,1,0,0,0,1,1,f,White-European,no,no,Self,NO,6,yes,Youth
+201,1,1,0,1,1,0,0,1,1,1,f,White-European,no,no,Self,YES,7,yes,Youth
+202,1,1,1,1,1,1,1,0,1,1,f,White-European,no,yes,Relative,YES,9,yes,Adults(Seniors)
+204,1,1,1,1,1,1,1,1,1,1,m,White-European,no,no,Self,YES,10,yes,Adults(Seniors)
+205,1,1,1,1,1,1,1,1,1,1,m,Middle Eastern ,no,yes,Parent,YES,10,yes,Youth
+206,1,1,1,0,1,0,0,1,1,1,f,White-European,no,no,Self,YES,7,yes,Youth
+207,1,1,1,1,0,0,1,1,0,0,m,White-European,no,no,Self,NO,6,yes,Adults(Mid)
+208,1,0,0,1,1,1,1,1,1,1,f,White-European,no,no,Self,YES,8,yes,Adults(Young)
+209,1,0,1,1,1,1,1,1,1,1,f,White-European,no,yes,Self,YES,9,yes,Adults(Mid)
+210,0,0,0,1,0,1,0,1,1,1,m,Asian,no,yes,Self,NO,5,yes,Adults(Young)
+211,1,1,0,0,0,1,1,1,0,1,f,White-European,no,no,Self,NO,6,yes,Adults(Young)
+212,1,0,1,1,0,0,0,0,0,1,f,White-European,no,no,Self,NO,4,yes,Adults(Young)
+213,1,1,1,1,0,0,0,0,0,1,m,White-European,no,no,Self,NO,5,yes,Adults(Mid)
+214,1,1,0,0,1,1,1,1,1,1,f,Black,no,no,Self,YES,8,yes,Youth
+215,1,0,0,0,0,0,1,1,0,1,f,Others,yes,no,Self,NO,4,yes,Adults(Mid)
+216,1,1,0,0,0,0,0,1,0,1,m,White-European,no,yes,Parent,NO,4,yes,Adults(Mid)
+217,1,1,0,1,1,0,1,1,0,1,m,White-European,no,no,Self,YES,7,yes,Youth
+221,1,1,1,1,1,0,0,1,0,0,m,White-European,no,no,Self,NO,6,yes,Youth
+222,1,0,1,1,0,1,1,1,1,1,m,White-European,no,no,Self,YES,8,yes,Youth
+223,1,1,1,1,1,1,1,0,1,1,f,White-European,no,no,Self,YES,9,yes,Youth
+224,0,1,0,1,0,0,0,1,0,1,f,White-European,no,no,Self,NO,4,yes,Adults(Young)
+225,1,1,1,1,1,1,1,0,1,1,m,Asian,yes,no,Relative,YES,9,yes,Teens
+227,0,0,0,1,1,0,1,1,0,1,m,Latino,no,no,Self,NO,5,yes,Youth
+228,1,1,1,1,1,1,1,1,1,1,f,Asian,no,no,Self,YES,10,yes,Adults(Young)
+232,0,1,0,0,0,0,0,1,1,1,m,White-European,no,no,Self,NO,4,yes,Youth
+235,1,0,0,0,1,1,1,1,0,1,m,Asian,no,no,Self,NO,6,yes,Youth
+239,1,0,0,1,1,0,1,1,0,0,m,Asian,no,no,Self,NO,5,yes,Youth
+240,1,0,0,0,1,0,1,1,1,1,m,Others,no,no,Self,NO,6,yes,Youth
+241,1,0,0,0,1,0,0,1,0,1,f,Asian,no,no,Self,NO,4,yes,Youth
+242,0,0,1,0,1,1,0,0,1,1,m,Others,no,no,Self,NO,5,yes,Adults(Young)
+243,1,0,1,0,1,0,1,1,0,1,m,Asian,no,no,Self,NO,6,yes,Adults(Young)
+244,1,0,0,0,0,0,1,1,0,1,f,Asian,no,no,Self,NO,4,yes,Adults(Young)
+245,1,0,0,1,1,0,1,1,0,0,m,Pasifika,no,no,Self,NO,5,yes,Youth
+246,0,0,1,1,0,1,0,1,1,1,m,White-European,no,no,Self,NO,6,yes,Youth
+248,1,0,0,1,1,1,1,1,1,1,m,South Asian,no,no,Self,YES,8,yes,Youth
+250,1,0,0,1,0,0,1,1,0,0,m,Asian,no,no,Self,NO,4,yes,Youth
+254,1,1,0,0,1,0,0,1,0,0,m,Turkish,no,no,Self,NO,4,yes,Adults(Young)
+255,1,0,0,0,0,1,0,1,1,1,m,South Asian,no,no,Self,NO,5,yes,Youth
+256,0,1,1,0,1,0,0,1,0,0,m,Others,no,no,Self,NO,4,yes,Youth
+257,1,0,0,0,1,1,0,1,0,1,m,Asian,no,no,Self,NO,5,yes,Youth
+258,1,0,0,0,0,0,1,1,1,1,m,Asian,no,no,Self,NO,5,yes,Youth
+260,1,0,1,0,1,0,0,1,0,1,f,South Asian,no,no,Self,NO,5,yes,Adults(Young)
+263,1,0,0,0,1,0,0,1,1,0,f,Asian,no,no,Self,NO,4,yes,Youth
+264,1,1,1,0,1,0,1,1,0,1,m,Asian,no,no,Self,YES,7,yes,Adults(Young)
+267,1,0,1,1,1,0,0,1,0,0,f,White-European,no,no,Self,NO,5,yes,Adults(Young)
+268,1,0,0,1,1,0,1,1,0,1,f,Asian,no,no,Self,NO,6,yes,Youth
+269,1,0,1,1,1,1,0,0,1,1,f,Others,no,yes,Self,YES,7,yes,Youth
+270,1,1,1,1,0,0,0,1,1,1,f,Black,no,yes,Parent,YES,7,yes,Adults(Young)
+271,1,1,1,1,1,1,1,1,1,1,m,White-European,no,no,Self,YES,10,yes,Adults(Mid)
+273,1,1,1,0,0,0,0,1,0,0,f,White-European,no,yes,Self,NO,4,yes,Adults(Mid)
+274,0,1,1,1,0,0,0,0,1,0,m,Asian,no,no,Others,NO,4,yes,Adults(Young)
+277,1,0,1,1,1,1,1,1,1,1,f,White-European,no,no,Self,YES,9,yes,Adults(Mid)
+280,1,1,1,1,1,0,0,1,1,1,m,White-European,no,no,Self,YES,8,yes,Adults(Young)
+281,0,1,1,0,1,1,1,0,1,1,f,Black,no,no,Parent,YES,7,yes,Adults(Young)
+282,1,1,1,1,1,1,1,1,1,1,f,White-European,no,no,Self,YES,10,yes,Adults(Mid)
+284,0,0,0,1,1,1,1,0,1,1,f,Others,no,no,Self,NO,6,yes,Adults(Young)
+286,1,0,0,1,1,0,0,1,0,1,m,White-European,no,no,Self,NO,5,yes,Adults(Mid)
+288,1,1,1,0,1,1,1,0,1,1,m,White-European,yes,no,Self,YES,8,yes,Adults(Seniors)
+289,1,1,1,0,1,1,1,0,1,1,f,White-European,no,no,Self,YES,8,yes,Youth
+290,1,1,0,1,1,0,0,1,1,1,f,Black,no,no,Self,YES,7,yes,Adults(Young)
+291,0,1,1,1,0,0,0,1,0,1,m,White-European,no,yes,Self,NO,5,yes,Adults(Young)
+292,1,0,0,0,1,0,1,0,0,1,f,White-European,no,yes,Self,NO,4,yes,Adults(Young)
+294,1,0,1,1,1,1,0,0,1,1,f,White-European,no,no,Self,YES,7,yes,Adults(Mid)
+295,1,1,1,1,1,1,0,0,1,1,f,White-European,yes,no,Parent,YES,8,yes,Youth
+296,1,1,1,1,0,1,0,1,1,1,m,White-European,no,yes,Others,YES,8,yes,Adults(Seniors)
+297,1,0,0,1,0,0,1,1,0,1,f,White-European,yes,no,Self,NO,5,yes,Adults(Young)
+298,1,1,1,1,1,1,1,0,1,1,f,White-European,yes,no,Self,YES,9,yes,Youth
+300,1,1,1,1,1,1,1,1,1,1,f,White-European,yes,no,Self,YES,10,yes,Adults(Young)
+301,0,0,1,1,1,1,1,1,0,0,f,White-European,no,no,Self,NO,6,yes,Adults(Mid)
+303,1,1,1,1,1,0,0,0,1,0,m,Asian,no,no,Self,NO,6,yes,Adults(Young)
+304,1,1,0,1,0,0,0,0,0,1,f,White-European,no,no,Self,NO,4,yes,Adults(Mid)
+305,1,0,0,1,1,0,1,1,1,1,f,Others,no,no,Self,YES,7,yes,Adults(Young)
+306,1,0,0,1,1,1,1,1,1,1,f,White-European,no,no,Self,YES,8,yes,Youth
+307,1,1,1,1,1,1,0,0,1,1,f,Others,no,no,Self,YES,8,yes,Youth
+308,1,1,1,1,1,1,0,1,0,0,f,Middle Eastern ,no,no,Self,YES,7,yes,Adults(Seniors)
+310,0,0,1,1,1,0,0,1,0,0,m,White-European,yes,no,Self,NO,4,yes,Adults(Mid)
+311,1,0,1,0,1,1,1,1,1,0,m,Hispanic,no,no,Self,YES,7,yes,Youth
+312,1,0,1,1,1,1,0,1,1,0,m,Hispanic,no,no,Self,YES,7,yes,Youth
+313,1,0,0,1,1,0,0,1,0,1,f,White-European,no,no,Self,NO,5,yes,Youth
+315,0,1,0,0,0,0,1,1,0,1,f,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+316,0,0,0,1,1,0,0,1,1,0,m,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+317,1,1,1,0,1,0,0,1,0,1,m,Others,no,no,Self,NO,6,yes,Youth
+320,0,1,1,0,0,0,0,1,0,1,f,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+321,1,1,1,0,1,1,1,1,0,1,m,Middle Eastern ,no,no,Self,YES,8,yes,Youth
+322,1,1,0,1,1,0,0,0,0,0,f,South Asian,no,yes,Self,NO,4,yes,Youth
+324,1,1,1,0,1,0,0,1,0,0,m,Middle Eastern ,no,no,Relative,NO,5,yes,Youth
+325,1,1,1,0,1,0,0,1,0,0,m,Middle Eastern ,no,no,Relative,NO,5,yes,Youth
+327,1,1,1,0,0,0,0,1,0,0,m,Middle Eastern ,no,no,Relative,NO,4,yes,Youth
+329,1,1,1,0,0,0,0,1,0,0,m,Middle Eastern ,no,no,Relative,NO,4,yes,Youth
+330,1,1,1,1,1,1,1,1,1,1,m,White-European,no,no,Self,YES,10,yes,Youth
+331,1,0,0,1,1,1,1,0,1,1,m,White-European,no,no,Self,YES,7,yes,Adults(Seniors)
+332,1,0,0,0,0,1,1,0,1,1,f,Asian,no,no,Parent,NO,5,yes,Adults(Young)
+333,1,1,0,1,0,0,1,1,0,0,m,White-European,yes,no,Self,NO,5,yes,Adults(Mid)
+334,1,1,1,1,0,0,1,1,0,0,m,White-European,no,no,Self,NO,6,yes,Adults(Mid)
+335,1,0,0,1,1,1,0,0,0,0,m,Middle Eastern ,no,no,Self,NO,4,yes,Adults(Mid)
+337,1,0,1,0,0,0,1,1,0,0,f,Others,no,no,Self,NO,4,yes,Youth
+339,1,0,1,1,0,0,1,1,1,0,f,Others,no,no,Self,NO,6,yes,Youth
+340,1,1,1,1,1,0,0,1,0,0,m,Others,no,no,Self,NO,6,yes,Youth
+343,0,1,0,1,0,1,0,1,0,1,f,Others,no,no,Self,NO,5,yes,Youth
+345,1,0,0,0,1,0,1,1,1,0,m,Others,no,no,Self,NO,5,yes,Youth
+347,1,0,1,1,0,1,1,1,1,1,f,Others,no,no,Self,YES,8,yes,Youth
+348,1,1,1,0,0,0,0,1,0,1,f,Others,no,no,Self,NO,5,yes,Youth
+349,1,1,1,0,1,0,1,1,1,1,m,Others,no,no,Self,YES,8,yes,Youth
+350,1,1,0,0,0,0,1,1,0,0,m,Others,no,no,Self,NO,4,yes,Youth
+355,1,0,0,1,0,0,0,1,0,1,m,Middle Eastern ,no,no,Parent,NO,4,yes,Youth
+357,1,0,0,1,0,0,1,0,0,1,m,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+359,1,0,1,0,1,0,0,1,0,0,m,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+363,0,1,1,0,0,0,0,1,0,1,m,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+364,1,0,0,0,0,1,0,1,0,1,m,Others,no,no,Self,NO,4,yes,Youth
+365,1,0,1,0,1,0,0,1,0,1,m,Middle Eastern ,no,yes,Self,NO,5,yes,Youth
+366,0,0,1,1,0,0,1,0,0,1,m,Others,no,no,Self,NO,4,yes,Youth
+367,1,0,1,0,1,0,0,1,0,1,m,Middle Eastern ,no,no,Self,NO,5,yes,Youth
+370,1,0,0,1,1,0,0,1,0,1,f,Asian,no,no,Self,NO,5,yes,Youth
+373,1,0,0,1,1,0,1,0,0,1,m,Middle Eastern ,no,no,Self,NO,5,yes,Youth
+376,1,0,0,0,0,1,1,1,0,1,m,Middle Eastern ,no,no,Self,NO,5,yes,Youth
+381,1,1,1,1,1,0,1,0,1,1,f,Others,no,no,Self,YES,8,yes,Youth
+382,1,0,0,0,0,0,1,1,0,1,m,Others,no,no,Self,NO,4,yes,Youth
+386,1,0,1,1,1,0,1,1,0,0,f,Others,yes,no,Self,NO,6,yes,Youth
+387,1,1,0,0,1,0,0,1,0,0,f,Others,no,no,Self,NO,4,yes,Youth
+390,1,0,1,1,1,0,0,0,1,1,m,Middle Eastern ,no,no,Self,NO,6,yes,Youth
+391,0,1,0,0,0,1,0,1,0,1,f,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+393,1,0,0,0,1,1,0,1,0,1,f,Black,no,no,Self,NO,5,yes,Youth
+394,0,1,1,1,0,1,0,1,0,0,f,Others,no,no,Self,NO,5,yes,Youth
+395,1,1,1,0,1,0,0,0,0,0,f,Asian,no,no,Self,NO,4,yes,Youth
+399,1,0,0,1,0,0,1,1,0,1,f,Others,no,no,Self,NO,5,yes,Youth
+401,1,0,0,1,0,0,1,0,0,1,f,Black,no,no,Self,NO,4,yes,Youth
+402,1,0,0,1,0,0,1,0,0,1,f,Others,no,no,Self,NO,4,yes,Adults(Young)
+405,0,1,0,0,1,0,1,1,0,1,f,Black,no,no,Self,NO,5,yes,Youth
+406,1,0,1,1,1,1,1,1,1,0,m,Asian,no,no,Self,YES,8,yes,Youth
+407,1,0,0,1,1,0,0,1,0,1,f,South Asian,no,no,Self,NO,5,yes,Youth
+409,1,1,0,1,0,0,0,0,0,1,f,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+411,0,0,1,1,1,0,0,1,0,0,f,Others,no,no,Self,NO,4,yes,Youth
+412,0,0,1,1,1,0,0,0,0,1,f,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+413,1,0,1,1,1,0,1,1,0,1,f,Middle Eastern ,no,no,Self,YES,7,yes,Youth
+415,1,0,0,0,0,0,1,1,0,1,m,Middle Eastern ,yes,no,Self,NO,4,yes,Adults(Young)
+416,1,1,0,1,0,0,1,1,0,0,m,Middle Eastern ,no,no,Self,NO,5,yes,Youth
+417,1,0,0,0,0,0,1,0,1,1,f,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+418,1,0,0,0,1,0,1,0,0,1,m,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+419,1,0,1,0,1,0,1,1,0,1,f,Middle Eastern ,no,no,Self,NO,6,yes,Adults(Young)
+421,1,0,1,0,0,1,0,1,0,0,f,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+423,1,1,1,1,0,0,1,0,0,0,m,Middle Eastern ,no,no,Self,NO,5,yes,Youth
+424,1,0,0,0,0,0,1,1,0,1,m,Turkish,no,no,Others,NO,4,yes,Youth
+425,1,0,1,1,1,1,0,1,1,1,m,Asian,no,yes,Self,YES,8,yes,Youth
+426,1,0,0,1,0,0,1,1,0,0,m,Others,no,no,Self,NO,4,yes,Youth
+428,1,0,1,0,1,0,1,1,1,0,m,Others,no,no,Self,NO,6,yes,Youth
+429,1,1,1,1,1,1,1,0,1,1,f,Black,no,no,Parent,YES,9,yes,Adults(Young)
+430,1,1,1,1,1,1,1,1,1,1,m,White-European,yes,yes,Self,YES,10,yes,Seniors
+432,1,1,1,1,1,1,0,1,1,0,f,White-European,no,no,Self,YES,8,yes,Adults(Young)
+435,1,1,1,1,0,0,0,0,0,1,f,White-European,no,no,Self,NO,5,yes,Youth
+436,1,1,0,0,1,1,0,1,0,1,f,Others,no,no,Parent,NO,6,yes,Adults(Mid)
+437,1,1,0,0,0,0,0,1,0,1,f,Others,no,no,Self,NO,4,yes,Youth
+439,1,0,1,1,1,0,1,0,0,1,m,Black,no,no,Relative,NO,6,yes,Teens
+441,0,1,1,1,1,0,1,0,0,1,m,White-European,no,yes,Relative,NO,6,yes,Adults(Young)
+442,1,1,1,1,1,0,0,1,0,1,f,Asian,no,no,Self,YES,7,yes,Youth
+443,0,1,1,1,1,1,0,1,0,1,f,White-European,no,yes,Self,YES,7,yes,Adults(Young)
+445,1,0,0,1,1,0,1,1,1,1,f,White-European,no,no,Self,YES,7,yes,Youth
+447,1,1,1,1,1,1,1,0,1,1,m,White-European,no,no,Self,YES,9,yes,Adults(Seniors)
+448,1,1,1,0,0,0,0,1,0,1,f,White-European,no,no,Self,NO,5,yes,Youth
+451,1,1,1,1,1,0,0,1,1,0,f,White-European,no,no,Self,YES,7,yes,Adults(Mid)
+452,0,0,1,1,1,0,0,0,0,1,f,Others,yes,no,Self,NO,4,yes,Youth
+455,1,1,0,1,1,0,0,0,0,0,m,Middle Eastern ,no,no,Self,NO,4,yes,Youth
+457,0,1,1,1,1,1,0,1,1,1,m,Middle Eastern ,yes,no,Self,YES,8,yes,Youth
+458,1,1,1,1,1,0,0,1,0,0,m,Latino,no,no,Self,NO,6,yes,Adults(Young)
+461,0,1,1,1,1,1,0,0,1,0,f,Others,no,no,Health care professional,NO,6,yes,Youth
+463,1,1,0,1,1,1,1,1,0,1,f,White-European,yes,no,Self,YES,8,yes,Adults(Young)
+465,0,0,1,1,0,1,1,1,1,1,m,White-European,no,no,Relative,YES,7,yes,Youth
+466,1,0,1,1,0,1,0,0,0,1,m,White-European,no,no,Relative,NO,5,yes,Teens
+467,1,1,1,1,1,1,1,1,1,1,f,Asian,no,no,Self,YES,10,yes,Adults(Young)
+470,1,1,1,1,1,0,1,1,0,0,m,Latino,no,no,Self,YES,7,yes,Youth
+471,1,0,1,1,1,0,0,0,0,0,f,South Asian,no,no,Self,NO,4,yes,Youth
+473,1,0,0,1,1,0,1,0,0,0,f,Asian,no,no,Self,NO,4,yes,Adults(Young)
+477,1,0,0,0,1,0,0,1,0,1,f,Asian,no,no,Self,NO,4,yes,Adults(Young)
+479,1,0,0,0,1,0,1,1,0,0,f,Asian,no,no,Self,NO,4,yes,Adults(Young)
+482,1,1,1,1,0,0,1,1,0,0,m,South Asian,no,no,Self,NO,6,yes,Youth
+483,1,0,1,1,0,0,1,1,0,0,m,Others,no,no,Self,NO,5,yes,Youth
+485,1,1,1,1,1,1,1,0,1,1,m,White-European,no,no,Self,YES,9,yes,Adults(Mid)
+486,1,1,0,1,1,1,0,0,1,1,f,White-European,no,no,Self,YES,7,yes,Adults(Young)
+487,0,1,1,0,0,0,1,0,0,1,m,Black,no,no,Self,NO,4,yes,Youth
+488,1,1,1,1,0,0,0,1,0,0,f,White-European,no,no,Self,NO,5,yes,Youth
+489,1,1,1,1,0,0,1,1,1,0,m,Others,no,no,Self,YES,7,yes,Adults(Young)
+491,1,0,0,0,1,0,1,1,0,1,m,Latino,no,no,Self,NO,5,yes,Adults(Young)
+492,1,1,1,1,1,1,1,1,1,1,m,Latino,no,no,Self,YES,10,yes,Adults(Young)
+493,1,1,1,1,0,0,1,0,0,1,m,White-European,no,no,Self,NO,6,yes,Adults(Young)
+496,0,1,1,1,1,1,1,0,1,1,m,Asian,no,no,Self,YES,8,yes,Adults(Young)
+497,1,1,1,1,1,0,1,1,0,1,f,Black,no,no,Self,YES,8,yes,Adults(Mid)
+499,0,1,1,1,1,0,0,0,1,0,f,Black,no,yes,Parent,NO,5,yes,Adults(Mid)
+500,1,1,0,1,1,1,0,1,1,1,f,Latino,yes,no,Self,YES,8,yes,Adults(Mid)
+501,0,1,0,0,1,0,1,1,0,0,m,White-European,no,no,Self,NO,4,yes,Adults(Mid)
+502,1,0,1,1,1,0,0,1,0,1,f,White-European,no,yes,Self,NO,6,yes,Youth
+503,1,0,1,1,1,0,1,1,1,1,m,White-European,no,yes,Relative,YES,8,yes,Youth
+504,1,0,1,0,1,0,1,1,0,1,m,Others,yes,yes,Self,NO,6,yes,Adults(Mid)
+505,1,0,1,0,0,0,1,0,0,1,m,Asian,no,no,Self,NO,4,yes,Adults(Mid)
+506,0,1,1,0,1,0,0,1,0,0,m,White-European,no,no,Self,NO,4,yes,Adults(Young)
+507,1,1,1,1,1,1,1,1,1,1,f,White-European,yes,yes,Self,YES,10,yes,Adults(Mid)
+509,0,1,1,1,1,1,1,1,0,1,f,White-European,no,no,Self,YES,8,yes,Youth
+510,1,1,1,1,1,1,1,0,1,1,m,White-European,no,no,Self,YES,9,yes,Adults(Mid)
+511,1,1,1,0,0,0,0,0,0,1,f,Asian,no,no,Self,NO,4,yes,Youth
+513,1,1,1,1,1,0,1,1,1,1,f,White-European,no,no,Self,YES,9,yes,Adults(Young)
+514,1,1,1,1,1,1,0,1,1,1,m,White-European,no,no,Self,YES,9,yes,Adults(Mid)
+515,1,1,0,1,0,0,1,0,0,0,f,White-European,no,yes,Parent,NO,4,yes,Adults(Young)
+516,1,0,1,1,1,0,1,0,1,1,m,Black,no,no,Self,YES,7,yes,Adults(Mid)
+519,1,1,1,1,1,0,0,1,1,1,f,White-European,no,yes,Self,YES,8,yes,Adults(Young)
+520,1,1,1,1,1,0,0,1,0,1,f,White-European,no,no,Self,YES,7,yes,Adults(Young)
+521,1,1,1,1,1,0,1,0,1,0,f,White-European,yes,yes,Self,YES,7,yes,Adults(Mid)
+522,1,1,0,1,1,1,0,0,0,1,m,Black,yes,yes,Parent,NO,6,yes,Youth
+523,1,1,1,1,0,1,0,1,1,1,m,White-European,no,no,Self,YES,8,yes,Adults(Mid)
+524,1,0,0,0,0,0,1,1,0,1,f,Others,no,no,Self,NO,4,yes,Youth
+525,0,0,0,1,0,0,1,1,0,1,m,Asian,no,no,Self,NO,4,yes,Adults(Young)
+527,1,1,1,1,1,1,1,1,1,1,f,White-European,yes,yes,Self,YES,10,yes,Adults(Mid)
+530,1,1,0,0,0,0,1,1,0,0,f,Latino,no,no,Relative,NO,4,yes,Adults(Young)
+531,0,1,1,1,0,0,0,0,0,1,f,White-European,yes,no,Self,NO,4,yes,Adults(Young)
+532,0,1,1,1,1,1,1,1,1,1,m,White-European,no,no,Self,YES,9,yes,Youth
+533,0,0,0,1,1,0,1,0,0,1,f,Others,no,no,Self,NO,4,yes,Youth
+536,0,1,0,0,1,1,0,0,1,1,m,Others,no,no,Self,NO,5,yes,Adults(Seniors)
+537,1,0,1,0,0,1,0,1,0,0,f,White-European,no,no,Self,NO,4,yes,Adults(Young)
+538,0,1,1,1,1,1,0,0,0,1,m,White-European,no,no,Relative,NO,6,yes,Youth
+539,1,1,1,1,1,1,0,1,1,1,m,White-European,no,no,Relative,YES,9,yes,Youth
+541,0,1,1,1,1,1,1,1,1,1,f,Asian,no,no,Self,YES,9,yes,Adults(Young)
+542,0,1,1,1,1,1,1,1,1,1,f,Asian,no,yes,Self,YES,9,yes,Adults(Young)
+543,1,0,1,1,1,1,1,1,1,1,f,White-European,yes,no,Self,YES,9,yes,Adults(Young)
+544,1,0,1,1,1,1,1,0,0,1,f,White-European,yes,no,Self,YES,7,yes,Adults(Young)
+545,1,0,1,1,0,0,0,0,0,1,f,White-European,no,yes,Self,NO,4,yes,Adults(Mid)
+546,0,1,1,1,0,0,0,1,0,1,m,White-European,no,no,Self,NO,5,yes,Adults(Mid)
+547,1,1,1,1,0,0,1,0,0,1,m,White-European,no,no,Self,NO,6,yes,Adults(Seniors)
+548,1,1,1,1,1,1,1,1,1,1,m,White-European,no,yes,Self,YES,10,yes,Adults(Mid)
+552,1,1,1,0,1,0,1,0,1,1,m,Middle Eastern ,no,no,Self,YES,7,yes,Youth
+553,1,1,1,1,1,1,0,1,1,1,m,White-European,no,no,Relative,YES,9,yes,Adults(Mid)
+554,1,0,0,1,1,0,0,1,0,0,f,Latino,no,yes,Self,NO,4,yes,Youth
+556,1,1,0,1,1,0,0,0,0,0,m,Turkish,no,no,Self,NO,4,yes,Adults(Young)
+557,1,1,1,1,1,1,1,1,0,1,f,White-European,no,no,Self,YES,9,yes,Youth
+558,0,1,1,1,1,1,0,0,0,1,f,White-European,yes,no,Self,NO,6,yes,Youth
+559,1,1,1,1,1,1,1,0,1,1,f,White-European,no,yes,Self,YES,9,yes,Adults(Mid)
+560,1,0,0,1,1,1,1,1,1,1,m,Black,no,no,Self,YES,8,yes,Teens
+561,0,1,0,1,0,1,1,0,1,1,f,Middle Eastern ,no,no,Parent,NO,6,yes,Youth
+562,1,0,0,0,0,0,1,1,1,0,m,White-European,no,no,Parent,NO,4,yes,Youth
+563,0,1,0,0,1,1,0,0,1,0,m,Others,no,no,Self,NO,4,yes,Youth
+565,0,1,0,1,0,1,0,0,0,1,m,Asian,no,no,Self,NO,4,yes,Adults(Young)
+566,1,1,0,0,0,0,1,1,0,0,m,White-European,no,no,Self,NO,4,yes,Adults(Mid)
+567,1,1,1,1,1,1,0,1,1,1,f,White-European,yes,yes,Self,YES,9,yes,Adults(Young)
+569,1,1,0,1,0,0,0,0,0,1,m,White-European,no,no,Self,NO,4,yes,Adults(Young)
+572,1,1,1,1,1,1,1,1,1,1,m,White-European,no,yes,Self,YES,10,yes,Adults(Mid)
+573,1,0,0,0,1,0,1,1,0,0,f,White-European,no,no,Self,NO,4,yes,Youth
+574,1,0,0,0,1,0,1,1,0,0,f,White-European,no,no,Self,NO,4,yes,Youth
+575,1,1,0,0,1,1,1,1,1,1,m,White-European,no,no,Self,YES,8,yes,Youth
+576,1,1,1,1,1,0,1,1,1,1,m,White-European,yes,no,Self,YES,9,yes,Adults(Mid)
+577,1,1,1,1,1,0,0,1,1,1,f,White-European,no,yes,Self,YES,8,yes,Adults(Mid)
+580,1,1,0,0,1,0,0,0,0,1,f,Black,no,no,Parent,NO,4,yes,Adults(Mid)
+581,1,1,0,0,1,1,0,1,1,0,f,Black,yes,no,Relative,NO,6,yes,Adults(Mid)
+582,1,1,0,1,1,1,0,1,1,0,f,Black,yes,yes,Relative,YES,7,yes,Adults(Mid)
+583,1,1,1,1,1,0,0,1,0,1,m,Others,no,no,Self,YES,7,yes,Adults(Young)
+584,1,0,1,1,0,0,1,0,0,1,f,White-European,no,no,Self,NO,5,yes,Adults(Mid)
+585,1,1,1,1,1,1,1,1,1,1,m,Black,no,no,Self,YES,10,yes,Youth
+586,1,1,1,1,1,1,0,1,1,1,m,Black,no,no,Self,YES,9,yes,Youth
+587,1,0,1,1,1,1,1,1,1,1,f,Others,no,no,Self,YES,9,yes,Adults(Young)
+589,0,1,1,1,0,0,0,1,1,0,f,Asian,no,no,Self,NO,5,yes,Adults(Young)
+590,0,1,1,1,1,0,1,0,1,0,m,Middle Eastern ,no,no,Self,NO,6,yes,Youth
+591,1,1,1,1,1,1,1,1,1,1,m,White-European,yes,no,Self,YES,10,yes,Adults(Seniors)
+593,1,0,0,0,1,0,0,0,1,1,m,Asian,no,no,Self,NO,4,yes,Adults(Young)
+595,1,1,0,0,0,0,0,1,0,1,m,Asian,no,no,Self,NO,4,yes,Youth
+596,1,0,0,0,1,0,1,1,0,1,m,Asian,no,no,Self,NO,5,yes,Youth
+598,1,0,1,1,0,0,0,1,1,1,f,Asian,no,no,Parent,NO,6,yes,Adults(Young)
+604,1,0,0,0,1,1,0,1,0,0,f,South Asian,no,no,Self,NO,4,yes,Youth
+608,1,0,0,1,0,0,1,1,0,0,m,Asian,no,no,Self,NO,4,yes,Youth
+609,0,0,1,0,1,1,0,1,0,1,m,Asian,no,no,Self,NO,5,yes,Youth
+610,1,0,0,0,1,0,1,1,0,0,m,Asian,no,no,Self,NO,4,yes,Youth
+611,1,1,1,1,0,0,0,0,0,1,f,South Asian,no,no,Self,NO,5,yes,Adults(Young)
+613,1,1,0,1,0,0,0,1,0,1,f,South Asian,no,no,Self,NO,5,yes,Youth
+614,1,0,1,1,0,1,0,1,0,1,f,South Asian,no,no,Self,NO,6,yes,Adults(Young)
+616,0,0,0,1,1,0,0,1,0,1,m,Asian,no,no,Self,NO,4,yes,Youth
+618,1,0,0,1,0,0,0,1,0,1,m,Asian,no,no,Self,NO,4,yes,Adults(Young)
+619,0,1,0,0,1,0,1,1,0,0,m,Asian,no,no,Self,NO,4,yes,Adults(Young)
+620,1,0,1,1,1,0,1,1,1,0,f,South Asian,no,no,Self,YES,7,yes,Youth
+621,1,0,0,0,1,0,1,1,0,0,f,Asian,no,no,Self,NO,4,yes,Youth
+622,1,0,0,1,1,0,1,1,1,1,m,Asian,no,no,Self,YES,7,yes,Youth
+624,1,0,1,0,1,0,1,1,0,1,f,Asian,no,no,Self,NO,6,yes,Youth
+627,1,0,0,0,1,0,1,1,0,1,f,Others,no,no,Self,NO,5,yes,Youth
+628,1,0,0,0,1,0,1,1,1,1,f,Asian,no,no,Self,NO,6,yes,Youth
+629,1,1,0,1,1,0,1,1,0,0,m,Asian,no,no,Self,NO,6,yes,Adults(Young)
+632,1,1,0,0,1,0,0,1,1,1,f,Middle Eastern ,no,no,Self,NO,6,yes,Youth
+633,1,0,1,0,1,0,1,1,1,1,m,Black,no,no,Self,YES,7,yes,Youth
+634,0,1,1,0,0,0,1,0,0,1,m,White-European,no,no,Self,NO,4,yes,Adults(Mid)
+636,1,1,1,1,1,1,1,1,1,1,f,White-European,no,no,Self,YES,10,yes,Youth
+637,1,1,0,1,1,0,0,1,0,0,m,Black,no,no,Self,NO,5,yes,Youth
+638,1,0,0,0,1,1,1,1,1,1,m,Black,no,no,Parent,YES,7,yes,Adults(Mid)
+639,1,1,1,0,0,0,0,1,0,0,m,Asian,no,no,Self,NO,4,yes,Youth
+640,1,0,1,1,1,0,1,1,1,0,m,Latino,no,no,Self,YES,7,yes,Adults(Young)
+643,1,0,1,1,1,0,0,1,0,1,m,Middle Eastern ,yes,no,Parent,NO,6,yes,Teens
+644,1,0,1,1,0,0,1,1,1,1,m,Others,no,yes,Self,YES,7,yes,Teens
+645,1,1,1,1,0,0,0,0,0,0,f,Middle Eastern ,no,no,Self,NO,4,yes,Adults(Mid)
+646,1,0,1,0,0,1,0,1,0,1,m,White-European,yes,no,Parent,NO,5,yes,Youth
+647,1,0,1,1,1,0,0,0,0,0,f,Middle Eastern ,no,no,Self,NO,4,yes,Adults(Young)
+652,1,1,1,1,1,1,1,1,1,1,f,White-European,no,yes,Self,YES,10,yes,Adults(Young)
+653,1,1,1,1,1,0,1,1,1,1,m,Asian,no,no,Self,YES,9,yes,Adults(Young)
+654,1,0,0,1,1,0,1,0,0,1,f,White-European,no,yes,Self,NO,5,yes,Adults(Mid)
+655,1,0,0,0,1,0,1,0,1,1,m,Asian,no,no,Self,NO,5,yes,Youth
+656,1,1,0,0,1,0,1,0,1,0,m,Others,no,no,Self,NO,5,yes,Adults(Mid)
+658,1,1,1,1,1,1,0,0,1,1,m,Others,no,no,Self,YES,8,yes,Adults(Mid)
+659,1,1,1,0,1,1,0,1,1,1,f,White-European,no,no,Self,YES,8,yes,Youth
+660,1,1,1,1,1,1,0,1,1,1,f,Others,yes,yes,Self,YES,9,yes,Adults(Mid)
+661,1,0,0,1,1,1,0,0,1,0,m,White-European,no,no,Self,NO,5,yes,Youth
+662,1,0,0,0,0,0,1,1,0,1,m,White-European,no,no,Self,NO,4,yes,Adults(Young)
+664,1,1,1,1,1,1,1,0,1,1,m,White-European,no,no,Self,YES,9,yes,Adults(Young)
+667,1,0,0,0,0,0,1,1,0,1,m,White-European,no,no,Self,NO,4,yes,Adults(Mid)
+668,1,1,1,1,1,1,1,1,1,1,m,White-European,no,no,Self,YES,10,yes,Adults(Mid)
+669,1,1,1,1,1,0,1,1,1,1,m,Others,no,no,Self,YES,9,yes,Adults(Young)
+670,1,1,1,1,1,0,0,1,0,1,m,Hispanic,no,no,Self,YES,7,yes,Youth
+671,1,1,1,1,1,0,1,1,0,1,m,White-European,no,no,Self,YES,8,yes,Youth
+672,1,1,1,0,1,0,1,1,1,1,m,Latino,no,no,Self,YES,8,yes,Adults(Young)
+673,1,1,0,0,1,1,0,1,0,1,f,White-European,yes,no,Self,NO,6,yes,Adults(Young)
+674,1,1,1,1,0,0,0,0,1,0,f,White-European,yes,no,Self,NO,5,yes,Youth
+675,1,1,0,0,0,0,1,0,0,1,m,White-European,yes,no,Parent,NO,4,yes,Adults(Young)
+677,1,1,1,1,1,0,0,1,1,1,f,Black,no,no,Self,YES,8,yes,Adults(Mid)
+678,1,1,1,1,1,1,1,1,1,1,m,White-European,no,yes,Self,YES,10,yes,Adults(Mid)
+679,1,1,1,1,1,1,1,1,1,1,m,White-European,yes,yes,Parent,YES,10,yes,Adults(Mid)
+680,1,1,0,1,1,1,1,1,1,1,f,Hispanic,no,no,Self,YES,9,yes,Adults(Mid)
+682,1,1,0,0,0,0,0,1,1,0,f,White-European,yes,yes,Self,NO,4,yes,Adults(Young)
+683,1,0,1,0,0,0,0,1,0,1,m,Hispanic,no,no,Relative,NO,4,yes,Adults(Seniors)
+684,1,0,1,1,1,0,0,1,1,1,m,White-European,no,yes,Self,YES,7,yes,Adults(Mid)
+685,1,0,0,0,1,0,1,1,0,1,m,White-European,no,no,Self,NO,5,yes,Adults(Young)
+686,1,1,1,0,1,1,1,1,1,1,m,White-European,no,no,Self,YES,9,yes,Adults(Young)
+687,1,0,1,1,1,1,1,0,1,1,m,Black,no,no,Self,YES,8,yes,Adults(Young)
+688,1,0,0,0,1,1,1,1,1,1,f,White-European,no,no,Self,YES,7,yes,Adults(Mid)
+690,1,0,0,1,0,0,1,1,0,0,m,Black,no,no,Self,NO,4,yes,Youth
+691,1,1,1,0,1,1,1,1,0,1,m,White-European,no,no,Self,YES,8,yes,Adults(Young)
+692,1,0,0,1,0,0,0,1,0,1,f,White-European,no,no,Self,NO,4,yes,Adults(Young)
+693,1,1,1,1,1,0,0,1,0,1,m,White-European,yes,no,Self,YES,7,yes,Adults(Young)
+694,1,0,1,1,0,0,1,1,0,0,m,Latino,no,no,Parent,NO,5,yes,Adults(Young)
+695,1,1,1,1,1,1,0,1,1,1,m,Turkish,no,yes,Self,YES,9,yes,Adults(Young)
+696,1,1,1,1,1,0,0,0,0,1,f,Asian,no,no,Self,NO,6,yes,Adults(Mid)
+697,1,1,1,1,1,1,1,1,1,1,f,Pasifika,no,no,Self,YES,10,yes,Adults(Young)
+698,0,1,0,1,1,0,1,1,1,1,f,White-European,no,no,Self,YES,7,yes,Youth
+700,1,0,1,1,1,0,1,1,0,1,f,Others,no,no,Self,YES,7,yes,Youth
+701,1,0,0,1,1,0,1,0,1,1,m,South Asian,no,no,Self,NO,6,yes,Adults(Young)
+702,1,0,1,1,1,0,1,1,1,1,f,White-European,no,no,Self,YES,8,yes,Adults(Young)
