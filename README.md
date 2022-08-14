@@ -38,7 +38,7 @@ controls in behaviour science.
 
 Q-Chat-10
 Q-CHAT-10 Quantitative Checklist for Autism in Toddlers
-A quick referral guide for parents to complete about their toddler (18 – 24 months) with concerns about autism
+A quick referral guide for parents to complete about their toddler (18 – 24 months) with concerns about autism.
 
 
 For each item, please circle the response which best applies to your child:
