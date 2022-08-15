@@ -4,7 +4,7 @@
 2,1,1,0,1,1,0,1,1,1,1,m,Latino,yes,yes,Parent,YES,8,yes,Adults(Young)
 3,1,1,0,1,0,0,1,1,0,1,f,White-European,no,yes,Self,NO,6,yes,Adults(Young)
 5,1,1,1,1,1,0,1,1,1,1,m,Others,yes,no,Self,YES,9,yes,Adults(Mid)
-7,1,1,1,1,0,0,0,0,1,0,m,White-European,no,no,Parent,NO,5,yes,Seniors
+7,1,1,1,1,0,0,0,0,1,0,m,White-European,no,no,Parent,NO,5,yes,Adults(Seniors)
 8,1,1,0,0,1,0,0,1,1,1,m,White-European,no,no,Self,NO,6,yes,Adults(Young)
 9,1,1,1,1,0,1,1,1,1,0,m,Asian,yes,yes,Health care professional,YES,8,yes,Teens
 10,1,1,1,1,1,1,1,1,1,1,m,White-European,no,no,Relative,YES,10,yes,Adults(Young)
@@ -284,7 +284,7 @@
 426,1,0,0,1,0,0,1,1,0,0,m,Others,no,no,Self,NO,4,yes,Youth
 428,1,0,1,0,1,0,1,1,1,0,m,Others,no,no,Self,NO,6,yes,Youth
 429,1,1,1,1,1,1,1,0,1,1,f,Black,no,no,Parent,YES,9,yes,Adults(Young)
-430,1,1,1,1,1,1,1,1,1,1,m,White-European,yes,yes,Self,YES,10,yes,Seniors
+430,1,1,1,1,1,1,1,1,1,1,m,White-European,yes,yes,Self,YES,10,yes,Adults(Seniors)
 432,1,1,1,1,1,1,0,1,1,0,f,White-European,no,no,Self,YES,8,yes,Adults(Young)
 435,1,1,1,1,0,0,0,0,0,1,f,White-European,no,no,Self,NO,5,yes,Youth
 436,1,1,0,0,1,1,0,1,0,1,f,Others,no,no,Parent,NO,6,yes,Adults(Mid)
