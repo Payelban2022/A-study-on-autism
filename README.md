@@ -100,6 +100,41 @@ be noted that the class variable was assigned automatically based on the score o
 the screening process using the ASDTests app
 
 
+Autism spectrum quotient (AQ-10) test
+The autism spectrum quotient (AQ-10) tool is recommended for use with adults with possible autism who do not have a 
+moderate or severe learning disability. This may help identify whether an individual should be referred for a 
+comprehensive autism assessment.
+
+For each item, please circle the response which best applies :
+Definitely Agree, Slightly Agree,Slightly Disagree,Definitely Disagree
+
+1.I often notice small sounds when others do not
+
+2.I usually concentrate more on the whole picture, rather than the small details
+
+3.I find it easy to do more than one thing at once
+
+4.If there is an interruption, I can switch back to what I was doing very quickly
+
+5.I find it easy to ‘read between the lines’ when someone is talking to me
+
+6.I know how to tell if someone listening to me is getting bored
+
+7.When I’m reading a story I find it difficult to work out the characters’ intentions
+
+8.I like to collect information about categories of things (e.g. types of car, types of bird, types of train, 
+types of plant etc)
+
+9.I find it easy to work out what someone is thinking or feeling just by looking at their face
+
+10.I find it difficult to work out people’s intentions
+
+SCORING: Only 1 point can be scored for each question. Score 1 point for Definitely or Slightly Agree on each of items 
+1, 7, 8, and 10. Score 1 point for Definitely or Slightly Disagree on each of items 2, 3, 4, 5, 6, and 9. If the 
+individual scores more than 6 out of 10, consider referring them for a specialist diagnostic assessment.
+
+We will analyze 2 datasets relating to datasets on toddlers and adults.
+
 
 
 
