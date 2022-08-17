@@ -1,1202 +1,1408 @@
 ,A1,A2,A3,A4,A5,A6,A7,A8,A9,A10,Mom_age,Qchat-10-Score,Gender,Ethnicity,Jaundice,Family_mem_with_ASD,Who completed the test,traits,age-group
-0,1,1,0,0,0,1,1,0,0,0,36,4,m,White European,1,0,family member,1,Toddlers
-1,1,0,0,0,0,0,1,1,0,1,36,4,m,Middle Eastern ,1,0,family member,1,Toddlers
-2,1,1,1,1,1,1,1,1,1,1,24,10,m,Hispanic or Latino,0,0,family member,1,Toddlers
-3,1,1,0,1,1,1,1,1,1,1,20,9,f,White European,0,1,family member,1,Toddlers
-4,1,1,0,0,1,1,1,1,1,1,21,8,m,Black,0,0,family member,1,Toddlers
-5,1,0,0,1,1,1,0,0,1,0,33,5,m,Asian,1,0,family member,1,Toddlers
-6,0,1,0,0,1,0,1,1,1,1,33,6,m,Asian,1,0,family member,1,Toddlers
-7,1,1,1,0,1,1,0,1,1,1,22,8,m,Asian,0,0,Health care professional,1,Toddlers
-8,1,0,0,1,0,1,1,0,1,1,36,6,m,Hispanic or Latino,1,1,family member,1,Toddlers
-9,1,1,1,1,0,1,1,1,0,1,17,8,m,Middle Eastern ,1,0,family member,1,Toddlers
-10,1,1,1,1,0,0,1,0,1,1,15,7,f,Middle Eastern ,1,0,family member,1,Toddlers
-11,1,1,1,0,1,0,1,1,0,1,12,7,m,Black,0,0,family member,1,Toddlers
-12,1,1,1,0,1,1,1,1,0,1,12,8,f,Middle Eastern ,1,0,family member,1,Toddlers
-13,1,1,1,0,1,0,1,1,0,1,12,7,f,Black,0,0,family member,1,Toddlers
-14,1,0,0,1,1,1,1,1,1,0,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-15,1,0,1,1,1,1,1,0,1,0,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-16,1,0,1,1,0,1,0,1,1,1,36,7,m,Native Indian,1,1,Health care professional,1,Toddlers
-17,1,1,1,0,1,1,0,1,1,0,36,7,m,Middle Eastern ,1,1,family member,1,Toddlers
-18,1,1,1,1,1,1,1,1,1,0,22,9,m,White European,0,0,family member,1,Toddlers
-19,1,1,0,1,1,1,1,1,0,1,36,8,m,Middle Eastern ,0,0,family member,1,Toddlers
-20,1,1,1,1,1,1,1,1,1,1,35,10,m,Others,1,0,family member,1,Toddlers
-21,0,0,1,1,1,0,1,1,1,1,36,7,m,Middle Eastern ,0,1,family member,1,Toddlers
-22,1,1,1,1,1,1,1,1,1,1,15,10,f,Middle Eastern ,0,0,family member,1,Toddlers
-23,1,1,1,1,1,1,1,1,1,1,12,10,f,Middle Eastern ,0,0,family member,1,Toddlers
-24,0,0,1,1,0,1,1,0,1,1,36,6,f,White European,0,0,family member,1,Toddlers
-25,1,0,0,0,0,1,1,0,1,1,32,5,f,Asian,0,0,family member,1,Toddlers
-26,0,0,0,1,1,1,1,1,1,0,25,6,m,Asian,0,0,family member,1,Toddlers
-27,1,1,0,0,1,1,1,1,1,1,36,8,m,White European,1,0,family member,1,Toddlers
-28,0,0,1,1,1,1,1,0,0,0,30,5,m,White European,0,0,family member,1,Toddlers
-29,1,1,1,1,1,1,1,0,1,1,12,9,f,White European,0,1,family member,1,Toddlers
-30,0,0,0,0,1,0,1,1,0,1,36,4,f,Middle Eastern ,1,0,family member,1,Toddlers
-31,1,0,1,1,1,1,1,0,1,1,18,8,f,Asian,1,1,family member,1,Toddlers
-32,1,1,0,0,1,1,1,1,0,0,34,6,m,Others,0,0,family member,1,Toddlers
-33,0,0,1,1,1,1,1,0,1,1,34,7,m,Asian,0,0,family member,1,Toddlers
-34,1,1,1,1,1,1,1,1,1,1,21,10,f,White European,0,0,family member,1,Toddlers
-35,1,1,0,0,1,0,1,0,0,0,26,4,m,Asian,0,0,family member,1,Toddlers
-36,1,0,0,1,1,1,1,1,1,0,19,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-37,1,0,1,1,0,1,1,1,1,0,29,7,m,Asian,0,0,family member,1,Toddlers
-38,1,1,0,1,1,1,1,1,0,1,36,8,f,White European,1,0,family member,1,Toddlers
-39,1,0,1,1,0,1,1,1,1,0,30,7,m,Asian,0,0,family member,1,Toddlers
-40,1,1,0,1,0,1,1,0,0,1,30,6,m,Middle Eastern ,0,0,family member,1,Toddlers
-41,0,0,0,1,1,1,0,0,1,1,23,5,m,White European,1,1,family member,1,Toddlers
-42,1,0,0,0,1,0,1,0,1,0,34,4,m,Asian,0,0,family member,1,Toddlers
-43,1,1,1,1,1,1,1,1,1,0,34,9,m,Asian,0,0,family member,1,Toddlers
-44,1,1,0,0,1,1,1,1,1,0,32,7,m,Asian,0,0,family member,1,Toddlers
-45,0,0,0,1,0,0,1,1,1,1,33,5,m,Asian,0,0,family member,1,Toddlers
-46,1,0,1,1,1,1,1,0,1,1,24,8,f,Asian,0,0,family member,1,Toddlers
-47,1,0,0,0,1,0,1,1,1,1,34,6,m,Asian,0,0,family member,1,Toddlers
-48,0,0,0,0,0,1,1,1,0,1,31,4,f,Middle Eastern ,0,1,family member,1,Toddlers
-49,1,0,0,1,0,1,1,0,0,1,31,5,f,Middle Eastern ,1,0,family member,1,Toddlers
-50,1,1,0,0,0,0,0,1,1,0,36,4,m,Middle Eastern ,0,0,family member,1,Toddlers
-51,1,1,0,0,0,1,0,0,0,1,31,4,f,Middle Eastern ,1,0,family member,1,Toddlers
-52,1,1,1,1,1,1,1,1,1,0,25,9,m,Middle Eastern ,0,0,family member,1,Toddlers
-53,1,1,0,0,1,1,0,1,0,1,24,6,m,Middle Eastern ,0,0,family member,1,Toddlers
-54,1,1,0,0,1,1,1,1,0,1,36,7,f,Middle Eastern ,0,0,family member,1,Toddlers
-55,0,1,0,0,0,0,1,1,0,1,36,4,m,Asian,0,0,family member,1,Toddlers
-56,1,1,0,0,1,1,1,0,1,1,30,7,m,White European,1,1,family member,1,Toddlers
-57,0,0,1,1,1,1,1,1,1,1,32,8,m,Asian,0,0,family member,1,Toddlers
-58,0,0,1,1,0,0,1,0,0,1,32,4,m,Asian,0,0,family member,1,Toddlers
-59,1,1,1,1,1,1,1,1,1,1,29,10,m,White European,0,0,family member,1,Toddlers
-60,1,1,0,1,1,1,0,0,0,1,18,6,m,Hispanic or Latino,1,1,family member,1,Toddlers
-61,0,1,0,1,1,0,1,0,0,1,27,5,m,Asian,0,0,family member,1,Toddlers
-62,0,1,0,0,0,1,1,1,0,1,27,5,f,White European,0,1,family member,1,Toddlers
-63,1,1,0,1,1,1,1,0,1,1,19,8,m,White European,0,0,family member,1,Toddlers
-64,1,0,0,0,1,0,1,1,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
-65,0,0,1,1,1,1,1,0,0,1,17,6,f,White European,1,0,family member,1,Toddlers
-66,1,1,0,1,1,1,1,0,0,1,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-67,1,1,1,0,1,1,1,0,0,1,36,7,f,Asian,0,0,family member,1,Toddlers
-68,1,0,1,1,1,0,0,1,1,1,20,7,m,Asian,0,0,family member,1,Toddlers
-69,1,1,0,0,1,0,0,1,0,0,33,4,f,Asian,1,1,family member,1,Toddlers
-70,1,1,1,1,1,1,1,1,1,1,24,10,m,Middle Eastern ,1,0,family member,1,Toddlers
-71,0,0,1,1,1,0,0,0,1,0,36,4,m,Asian,1,0,family member,1,Toddlers
-72,1,1,1,1,1,1,1,1,1,0,35,9,m,Asian,0,0,family member,1,Toddlers
-73,1,1,0,0,0,0,0,1,1,0,26,4,f,Asian,1,0,family member,1,Toddlers
-74,1,1,1,1,1,1,1,1,1,0,23,9,m,Asian,0,0,family member,1,Toddlers
-75,1,1,0,1,1,0,1,0,1,1,24,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-76,1,1,0,0,0,1,0,1,0,1,36,5,f,White European,0,0,family member,1,Toddlers
-77,1,1,1,1,1,1,1,1,1,0,23,9,m,Asian,0,0,family member,1,Toddlers
-78,1,1,0,1,1,1,0,1,1,0,23,7,m,Asian,0,0,family member,1,Toddlers
-79,0,1,0,1,0,0,1,0,0,1,33,4,m,Asian,0,0,family member,1,Toddlers
-80,1,1,1,1,1,1,1,1,1,0,26,9,m,White European,0,0,family member,1,Toddlers
-81,1,1,0,1,0,0,1,0,0,1,33,5,m,Asian,0,0,family member,1,Toddlers
-82,1,1,0,1,1,1,1,1,1,1,36,9,m,Middle Eastern ,0,0,family member,1,Toddlers
-83,1,1,1,1,1,1,1,0,1,1,24,9,f,White European,0,1,family member,1,Toddlers
-84,0,0,1,1,1,1,0,1,1,0,28,6,m,Middle Eastern ,0,0,family member,1,Toddlers
-85,0,1,1,1,0,1,0,1,0,1,36,6,m,Asian,0,0,family member,1,Toddlers
-86,0,1,1,1,0,1,1,1,1,1,30,8,m,Asian,0,0,family member,1,Toddlers
-87,0,1,0,1,1,1,1,1,1,1,23,8,m,White European,0,0,family member,1,Toddlers
-88,1,0,1,1,1,1,0,0,1,0,12,6,m,White European,1,0,family member,1,Toddlers
-89,1,1,1,1,1,1,1,0,1,1,29,9,m,White European,1,0,family member,1,Toddlers
-90,0,1,1,1,1,0,1,0,1,1,23,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-91,1,0,0,0,1,1,0,1,0,1,33,5,m,Asian,0,1,family member,1,Toddlers
-92,0,1,0,1,0,1,1,1,0,0,12,5,f,White European,0,0,family member,1,Toddlers
-93,1,0,1,1,1,1,1,1,1,1,35,9,m,Asian,0,0,family member,1,Toddlers
-94,0,0,0,0,1,0,1,0,1,1,12,4,f,White European,1,0,family member,1,Toddlers
-95,1,0,1,1,1,1,1,1,1,1,30,9,m,Asian,1,0,family member,1,Toddlers
-96,1,0,0,0,1,1,1,0,0,1,24,5,m,White European,0,1,family member,1,Toddlers
-97,1,1,0,0,0,0,1,0,0,1,27,4,f,Asian,0,0,family member,1,Toddlers
-98,1,1,1,1,0,1,1,0,1,1,36,8,f,Asian,1,0,family member,1,Toddlers
-99,1,1,0,1,0,1,1,0,1,0,36,6,f,Asian,1,0,family member,1,Toddlers
-100,1,1,0,0,0,1,1,1,1,1,20,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-101,1,0,1,1,1,1,1,0,1,1,20,8,m,Asian,0,0,family member,1,Toddlers
-102,0,1,1,0,1,0,1,0,0,1,35,5,m,Middle Eastern ,0,1,family member,1,Toddlers
-103,1,1,1,1,1,1,1,1,0,1,36,9,f,Asian,0,0,family member,1,Toddlers
-104,1,1,1,1,0,1,1,1,1,1,30,9,f,Black,0,0,family member,1,Toddlers
-105,1,0,1,1,1,1,1,0,0,1,30,7,f,Black,0,0,family member,1,Toddlers
-106,1,0,0,0,0,0,1,1,0,1,34,4,m,White European,1,1,family member,1,Toddlers
-107,1,1,1,1,0,1,1,1,0,0,36,7,m,Hispanic or Latino,1,0,family member,1,Toddlers
-108,1,1,0,0,0,0,1,0,0,1,15,4,m,Middle Eastern ,1,0,family member,1,Toddlers
-109,1,1,1,1,1,1,1,0,1,1,36,9,m,White European,0,1,family member,1,Toddlers
-110,0,0,0,1,1,1,1,1,0,0,36,5,m,White European,0,0,family member,1,Toddlers
-111,1,1,0,0,1,1,1,1,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
-112,0,1,0,0,1,1,1,1,1,1,36,7,f,Middle Eastern ,0,0,family member,1,Toddlers
-113,1,1,1,1,1,1,1,1,1,1,16,10,f,White European,1,0,family member,1,Toddlers
-114,0,0,0,0,0,0,1,1,1,1,25,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
-115,1,1,1,1,1,1,1,0,1,1,25,9,f,White European,0,1,family member,1,Toddlers
-116,0,1,0,1,1,1,1,1,0,1,22,7,m,Black,0,0,family member,1,Toddlers
-117,0,1,1,1,1,1,1,1,0,1,23,8,m,Black,0,0,family member,1,Toddlers
-118,1,1,1,1,0,0,1,0,1,0,36,6,f,White European,0,0,family member,1,Toddlers
-119,1,1,0,0,0,0,0,1,0,1,36,4,m,White European,0,0,family member,1,Toddlers
-120,1,1,1,1,1,1,1,1,1,0,21,9,m,Middle Eastern ,1,0,family member,1,Toddlers
-121,1,1,1,1,1,1,1,1,0,1,22,9,m,Black,0,0,family member,1,Toddlers
-122,0,0,0,0,1,0,1,1,0,1,30,4,f,Asian,0,1,family member,1,Toddlers
-123,1,1,0,1,0,0,1,1,1,1,13,7,m,Black,1,1,family member,1,Toddlers
-124,1,0,0,1,1,0,1,1,1,1,20,7,f,Middle Eastern ,0,0,family member,1,Toddlers
-125,1,1,0,1,1,1,1,1,1,1,22,9,f,Asian,0,0,family member,1,Toddlers
-126,1,0,0,0,1,1,1,0,1,0,33,5,m,Asian,0,0,Health care professional,1,Toddlers
-127,1,0,0,0,0,1,1,0,1,1,33,5,m,Asian,0,0,family member,1,Toddlers
-128,1,0,1,1,1,1,1,1,1,1,36,9,m,Asian,0,0,family member,1,Toddlers
-129,1,1,1,1,1,1,1,1,1,1,20,10,m,Middle Eastern ,0,1,family member,1,Toddlers
-130,0,1,0,1,1,0,0,0,1,0,36,4,m,Asian,1,0,family member,1,Toddlers
-131,0,0,0,1,1,1,1,1,0,1,36,6,m,Asian,1,0,family member,1,Toddlers
-132,1,1,1,1,0,0,1,1,0,1,36,7,m,Asian,0,0,family member,1,Toddlers
-133,1,0,0,0,1,1,1,1,0,0,31,5,m,White European,1,0,family member,1,Toddlers
-134,1,1,1,1,1,1,1,1,1,1,15,10,f,Middle Eastern ,0,0,family member,1,Toddlers
-135,0,1,1,1,1,1,0,1,1,0,19,7,f,Middle Eastern ,0,0,family member,1,Toddlers
-136,1,0,1,1,1,1,0,1,1,0,19,7,f,Middle Eastern ,0,0,family member,1,Toddlers
-137,1,1,1,0,1,1,0,0,1,0,24,6,m,White European,1,0,family member,1,Toddlers
-138,0,1,1,1,1,0,1,1,1,1,28,8,m,Asian,1,0,family member,1,Toddlers
-139,1,0,0,1,1,1,0,0,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
-140,1,1,1,0,0,1,1,1,1,1,28,8,m,Middle Eastern ,0,1,family member,1,Toddlers
-141,1,1,1,1,1,1,1,1,1,1,18,10,m,White European,1,0,family member,1,Toddlers
-142,1,1,0,1,1,1,1,1,1,1,36,9,m,Black,0,1,Health care professional,1,Toddlers
-143,0,0,0,0,1,0,1,1,1,0,23,4,f,Asian,0,0,family member,1,Toddlers
-144,0,0,0,1,1,1,1,1,1,1,36,7,m,White European,0,0,family member,1,Toddlers
-145,1,1,1,1,1,1,1,1,0,0,36,8,m,Asian,0,0,family member,1,Toddlers
-146,1,1,1,1,1,1,1,1,0,1,31,9,m,White European,0,0,family member,1,Toddlers
-147,1,1,1,1,1,1,1,1,0,1,31,9,m,White European,0,0,family member,1,Toddlers
-148,1,0,1,1,1,0,1,1,1,1,35,8,m,White European,0,1,family member,1,Toddlers
-149,1,1,0,0,1,1,1,0,1,1,23,7,m,White European,1,0,family member,1,Toddlers
-150,1,1,1,0,0,1,1,0,1,1,33,7,f,Others,0,0,family member,1,Toddlers
-151,1,1,1,1,1,1,1,1,1,0,36,9,m,White European,1,1,family member,1,Toddlers
-152,1,0,1,1,0,1,0,0,1,0,30,5,f,Middle Eastern ,0,0,family member,1,Toddlers
-153,1,0,1,1,0,1,0,0,0,0,30,4,m,Middle Eastern ,0,0,family member,1,Toddlers
-154,0,0,1,1,1,1,1,1,1,0,16,7,f,Asian,0,0,family member,1,Toddlers
-155,0,1,0,0,1,1,1,1,0,1,36,6,m,Asian,0,0,family member,1,Toddlers
-156,0,0,0,1,1,1,1,1,0,0,36,5,m,Hispanic or Latino,0,0,family member,1,Toddlers
-157,1,0,1,1,0,1,1,1,1,1,30,8,m,White European,0,0,family member,1,Toddlers
-158,1,1,0,1,0,0,1,0,0,1,29,5,m,Black,0,0,family member,1,Toddlers
-159,1,1,0,1,1,1,1,0,1,1,32,8,m,Asian,1,0,family member,1,Toddlers
-160,1,1,0,0,0,1,1,0,1,0,32,5,m,Asian,0,0,family member,1,Toddlers
-161,0,1,0,1,1,1,1,1,1,0,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-162,0,1,0,1,1,1,0,1,1,1,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-163,1,1,1,1,1,1,1,1,1,0,12,9,m,White European,1,0,family member,1,Toddlers
-164,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Toddlers
-165,1,1,1,1,1,1,1,1,1,0,27,9,m,White European,0,0,family member,1,Toddlers
-166,1,1,0,1,1,1,1,0,0,1,15,7,f,White European,1,0,family member,1,Toddlers
-167,1,1,1,1,1,1,1,0,1,1,36,9,f,White European,1,0,family member,1,Toddlers
-168,1,1,0,0,1,1,1,1,1,1,28,8,m,White European,0,0,family member,1,Toddlers
-169,0,0,0,0,1,1,1,0,0,1,31,4,m,Hispanic or Latino,1,0,family member,1,Toddlers
-170,0,0,1,1,1,1,1,0,1,1,23,7,m,Asian,0,1,family member,1,Toddlers
-171,1,1,0,0,0,0,1,0,1,0,36,4,m,White European,1,0,family member,1,Toddlers
-172,1,1,0,0,0,1,1,0,0,1,26,5,m,White European,1,0,family member,1,Toddlers
-173,1,0,0,1,1,0,1,0,1,1,20,6,m,Middle Eastern ,0,0,family member,1,Toddlers
-174,0,0,0,1,0,1,1,0,1,0,20,4,m,Middle Eastern ,0,0,family member,1,Toddlers
-175,1,1,0,0,0,1,1,1,1,0,31,6,f,Asian,1,0,family member,1,Toddlers
-176,0,1,0,0,1,1,1,0,0,1,12,5,f,Hispanic or Latino,1,1,family member,1,Toddlers
-177,1,1,1,1,0,1,1,1,1,0,36,8,m,Middle Eastern ,1,1,family member,1,Toddlers
-178,1,1,1,1,1,1,1,0,1,1,17,9,m,Hispanic or Latino,1,1,family member,1,Toddlers
-179,1,1,1,1,0,1,1,1,0,1,24,8,f,Hispanic or Latino,0,1,family member,1,Toddlers
-180,1,1,0,1,1,0,1,1,1,1,18,8,f,White European,0,0,family member,1,Toddlers
-181,1,0,1,1,1,1,1,1,1,1,26,9,m,Others,0,1,family member,1,Toddlers
-182,1,1,0,1,1,0,1,1,1,0,23,7,m,Asian,0,0,family member,1,Toddlers
-183,1,1,1,1,1,1,1,0,1,0,21,8,m,Asian,0,0,family member,1,Toddlers
-184,1,0,1,1,0,1,1,1,1,0,36,7,m,White European,0,0,family member,1,Toddlers
-185,0,0,0,0,1,1,1,0,1,1,33,5,m,White European,1,0,family member,1,Toddlers
-186,1,1,1,1,1,1,1,1,1,1,33,10,m,Asian,1,0,family member,1,Toddlers
-187,1,1,0,0,1,1,1,0,0,0,36,5,m,White European,0,0,family member,1,Toddlers
-188,1,1,1,0,1,0,0,0,1,0,36,5,m,Asian,1,1,Health care professional,1,Toddlers
-189,0,0,0,0,1,1,1,1,1,1,36,6,m,White European,0,0,family member,1,Toddlers
-190,1,0,0,0,1,1,1,0,1,0,32,5,f,Asian,1,0,family member,1,Toddlers
-191,1,1,1,1,1,1,1,1,1,1,26,10,m,Asian,0,0,family member,1,Toddlers
-192,0,0,1,0,1,1,1,1,1,0,26,6,m,Asian,0,0,family member,1,Toddlers
-193,0,0,1,0,1,0,1,1,1,1,26,6,m,Asian,0,0,family member,1,Toddlers
-194,0,0,1,1,1,1,1,0,1,1,14,7,m,White European,1,0,family member,1,Toddlers
-195,0,1,0,1,0,1,1,1,1,1,16,7,m,Middle Eastern ,1,1,family member,1,Toddlers
-196,1,1,0,1,0,0,0,1,0,1,28,5,m,White European,1,0,family member,1,Toddlers
-197,0,1,0,0,1,1,1,0,1,0,30,5,m,Asian,0,0,family member,1,Toddlers
-198,1,1,1,1,1,1,1,1,1,1,12,10,f,Asian,0,0,family member,1,Toddlers
-199,1,1,1,1,1,1,1,1,1,1,32,10,m,White European,1,0,family member,1,Toddlers
-200,1,1,0,0,1,0,1,0,0,0,31,4,m,White European,1,0,family member,1,Toddlers
-201,1,1,0,0,0,1,1,0,1,0,23,5,m,White European,1,0,family member,1,Toddlers
-202,0,1,1,1,1,1,0,1,1,0,12,7,m,Black,1,0,family member,1,Toddlers
-203,1,0,1,1,1,0,1,0,0,0,23,5,m,Asian,0,0,family member,1,Toddlers
-204,0,0,1,1,1,1,1,1,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
-205,1,1,1,1,1,0,0,0,0,1,36,6,f,White European,1,0,family member,1,Toddlers
-206,0,1,1,1,1,0,1,0,1,0,26,6,m,Asian,0,0,family member,1,Toddlers
-207,1,0,0,0,0,1,1,1,0,1,36,5,f,White European,1,0,family member,1,Toddlers
-208,0,1,1,1,0,0,0,1,0,0,36,4,m,Asian,0,0,family member,1,Toddlers
-209,1,1,1,1,1,1,1,1,1,1,33,10,m,White European,0,1,family member,1,Toddlers
-210,1,0,1,1,1,1,1,1,1,1,36,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
-211,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,1,0,family member,1,Toddlers
-212,1,1,0,0,1,1,0,1,1,1,36,7,f,White European,0,0,family member,1,Toddlers
-213,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Toddlers
-214,1,1,1,1,1,0,1,1,1,1,12,9,m,Asian,0,0,family member,1,Toddlers
-215,0,1,0,0,1,1,1,1,1,0,36,6,m,Asian,0,0,family member,1,Toddlers
-216,0,0,0,0,1,1,1,1,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
-217,1,1,0,0,1,0,1,1,0,0,36,5,m,Black,1,0,family member,1,Toddlers
-218,1,1,0,0,1,0,1,1,1,0,36,6,m,Asian,0,0,family member,1,Toddlers
-219,0,1,0,0,0,1,1,0,1,0,36,4,m,Asian,1,0,family member,1,Toddlers
-220,1,0,1,1,1,1,0,1,0,0,34,6,m,Asian,0,0,family member,1,Toddlers
-221,1,1,1,1,1,1,1,1,0,0,24,8,m,Black,1,1,Health care professional,1,Toddlers
-222,1,1,0,0,1,1,1,0,1,1,14,7,m,Asian,0,0,family member,1,Toddlers
-223,1,1,0,1,1,1,1,0,1,0,14,7,m,Asian,0,0,family member,1,Toddlers
-224,1,1,1,1,1,1,1,1,1,1,36,10,m,White European,0,0,Health care professional,1,Toddlers
-225,0,0,0,1,1,1,1,0,0,0,34,4,m,Black,1,0,family member,1,Toddlers
-226,1,1,1,0,1,1,1,1,1,0,36,8,m,Asian,0,0,family member,1,Toddlers
-227,1,0,1,1,1,0,0,0,1,0,32,5,f,Hispanic or Latino,0,1,family member,1,Toddlers
-228,1,1,0,0,1,1,1,1,0,1,36,7,m,Asian,0,0,Health care professional,1,Toddlers
-229,1,1,1,1,1,1,1,1,0,1,36,9,m,Hispanic or Latino,1,0,family member,1,Toddlers
-230,1,1,1,1,1,1,0,1,1,1,36,9,m,Asian,0,0,family member,1,Toddlers
-231,1,1,1,1,1,1,0,1,1,1,36,9,m,Asian,0,0,family member,1,Toddlers
-232,1,1,0,0,0,1,1,1,1,1,36,7,f,Asian,1,0,family member,1,Toddlers
-233,1,1,0,1,0,1,1,0,0,1,27,6,f,Asian,0,0,family member,1,Toddlers
-234,1,1,1,1,1,1,1,1,1,1,36,10,m,Asian,0,0,family member,1,Toddlers
-235,1,1,1,1,0,1,1,0,1,0,17,7,f,White European,0,0,family member,1,Toddlers
-236,0,0,1,1,1,0,1,0,1,0,35,5,m,Middle Eastern ,1,0,family member,1,Toddlers
-237,0,0,1,1,1,1,0,0,1,0,30,5,m,Asian,0,0,family member,1,Toddlers
-238,0,0,0,1,1,0,1,0,0,1,30,4,m,Asian,0,0,Health care professional,1,Toddlers
-239,1,1,1,1,0,1,1,1,0,1,36,8,f,Middle Eastern ,0,0,family member,1,Toddlers
-240,1,0,0,1,1,1,1,0,1,0,30,6,m,Asian,0,0,family member,1,Toddlers
-241,0,0,0,1,0,0,1,0,1,1,30,4,m,Asian,0,0,family member,1,Toddlers
-242,1,0,0,0,0,1,1,0,0,1,30,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
-243,1,1,1,1,0,1,1,1,1,0,24,8,m,Black,1,0,family member,1,Toddlers
-244,0,0,0,1,0,1,1,0,0,1,28,4,f,Middle Eastern ,0,0,family member,1,Toddlers
-245,1,1,0,0,1,1,0,1,1,1,26,7,m,White European,1,1,family member,1,Toddlers
-246,0,0,1,1,0,0,0,1,0,1,36,4,m,Asian,0,0,family member,1,Toddlers
-247,1,1,1,1,1,0,1,1,1,1,32,9,m,Asian,0,0,family member,1,Toddlers
-248,1,1,0,0,0,0,1,1,0,1,36,5,m,Asian,0,0,family member,1,Toddlers
-249,1,1,0,1,1,1,1,0,0,1,36,7,m,Asian,0,0,family member,1,Toddlers
-250,0,0,0,0,0,1,1,1,0,1,36,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
-251,1,1,0,1,1,1,1,1,1,1,36,9,m,White European,0,1,family member,1,Toddlers
-252,0,1,1,0,0,1,0,0,1,1,20,5,m,Black,0,1,family member,1,Toddlers
-253,1,0,0,0,1,1,0,1,0,1,26,5,m,White European,0,0,family member,1,Toddlers
-254,0,0,0,0,1,1,1,0,0,1,32,4,m,White European,1,0,family member,1,Toddlers
-255,1,0,0,1,1,1,1,0,1,1,24,7,f,Asian,0,0,family member,1,Toddlers
-256,1,1,1,1,1,1,1,1,0,1,35,9,m,White European,0,1,family member,1,Toddlers
-257,1,1,0,1,1,1,1,0,1,0,24,7,f,Asian,0,0,family member,1,Toddlers
-258,1,1,1,1,1,1,0,1,1,1,24,9,f,Asian,0,0,family member,1,Toddlers
-259,0,0,1,1,1,1,1,1,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
-260,0,0,1,1,1,1,1,1,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
-261,1,0,1,0,1,1,0,1,1,0,36,6,m,Asian,0,0,family member,1,Toddlers
-262,0,0,0,1,0,0,1,1,0,1,33,4,m,White European,1,0,family member,1,Toddlers
-263,1,1,1,1,1,1,1,0,1,0,36,8,m,Asian,0,0,family member,1,Toddlers
-264,1,1,1,1,1,1,1,1,1,0,27,9,m,White European,0,0,family member,1,Toddlers
-265,0,0,0,0,1,1,1,1,0,0,29,4,m,Others,0,0,family member,1,Toddlers
-266,1,1,1,0,0,1,1,0,0,1,36,6,m,White European,0,0,family member,1,Toddlers
-267,1,1,0,0,0,0,0,1,0,1,33,4,m,Asian,0,0,Health care professional,1,Toddlers
-268,0,1,1,1,1,1,1,0,1,1,12,8,m,Asian,0,1,family member,1,Toddlers
-269,1,0,0,0,1,1,1,1,0,0,30,5,f,Asian,0,0,family member,1,Toddlers
-270,1,1,0,0,1,1,1,1,1,1,36,8,m,Others,1,0,family member,1,Toddlers
-271,1,0,0,1,1,1,0,0,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
-272,0,0,0,1,0,1,1,1,1,0,30,5,m,Asian,0,0,family member,1,Toddlers
-273,1,1,0,1,0,0,1,1,1,1,15,7,m,White European,0,0,family member,1,Toddlers
-274,1,1,1,1,0,1,1,0,1,0,18,7,f,White European,0,0,family member,1,Toddlers
-275,1,0,0,0,0,1,1,1,0,1,36,5,m,Asian,0,0,family member,1,Toddlers
-276,1,0,0,0,0,0,1,0,1,1,12,4,m,Asian,0,0,family member,1,Toddlers
-277,0,0,1,1,0,0,1,0,1,0,26,4,m,Asian,1,0,family member,1,Toddlers
-278,1,1,0,1,1,1,1,1,1,1,36,9,m,White European,0,0,family member,1,Toddlers
-279,1,1,1,1,0,1,1,1,1,1,36,9,m,Middle Eastern ,0,0,family member,1,Toddlers
-280,1,1,1,1,0,1,0,1,1,1,36,8,m,White European,0,0,family member,1,Toddlers
-281,1,0,0,0,0,0,1,1,1,1,36,5,f,Asian,0,0,family member,1,Toddlers
-282,1,1,0,0,0,1,0,0,1,0,30,4,m,Asian,1,0,family member,1,Toddlers
-283,0,0,1,1,0,0,1,1,0,1,25,5,m,Asian,0,0,family member,1,Toddlers
-284,1,1,0,1,0,1,1,0,0,1,14,6,f,White European,0,0,family member,1,Toddlers
-285,1,1,0,1,0,1,1,0,1,1,14,7,f,White European,0,0,family member,1,Toddlers
-286,1,1,0,1,0,1,1,0,1,1,26,7,f,White European,0,0,family member,1,Toddlers
-287,1,1,0,0,1,1,1,1,1,1,36,8,f,Others,1,0,family member,1,Toddlers
-288,1,0,0,0,1,0,1,1,1,1,35,6,f,Asian,0,1,family member,1,Toddlers
-289,1,1,0,1,1,0,1,0,0,0,28,5,m,Middle Eastern ,0,1,family member,1,Toddlers
-290,1,1,0,1,1,1,1,0,0,0,28,6,m,Middle Eastern ,0,1,family member,1,Toddlers
-291,1,1,1,1,1,1,1,1,1,1,12,10,m,Pacifica,0,0,family member,1,Toddlers
-292,1,1,0,0,1,1,1,0,0,1,36,6,m,White European,1,0,family member,1,Toddlers
-293,1,0,1,1,1,1,0,1,1,0,19,7,m,Asian,0,0,family member,1,Toddlers
-294,0,0,1,1,1,1,1,1,1,1,24,8,f,White European,0,0,family member,1,Toddlers
-295,1,0,0,0,1,1,1,0,0,0,30,4,f,Asian,1,0,family member,1,Toddlers
-296,1,1,0,0,1,1,1,0,1,1,32,7,m,Asian,1,1,family member,1,Toddlers
-297,1,0,0,1,1,1,1,1,1,1,35,8,m,Asian,0,0,family member,1,Toddlers
-298,1,0,1,1,1,1,0,1,1,1,29,8,m,Middle Eastern ,0,0,family member,1,Toddlers
-299,1,0,1,0,0,1,0,1,0,0,36,4,m,Asian,0,1,family member,1,Toddlers
-300,0,0,0,1,0,0,1,0,1,1,15,4,f,Middle Eastern ,1,0,family member,1,Toddlers
-301,1,1,1,1,1,1,1,0,1,0,19,8,m,Asian,0,0,family member,1,Toddlers
-302,0,0,1,0,0,1,1,1,1,1,24,6,m,Hispanic or Latino,0,1,family member,1,Toddlers
-303,1,1,0,1,1,1,1,0,0,1,36,7,m,Hispanic or Latino,0,1,family member,1,Toddlers
-304,0,0,1,1,1,0,1,1,1,1,13,7,m,White European,1,1,family member,1,Toddlers
-305,1,1,1,1,1,1,1,1,1,1,13,10,m,White European,1,1,family member,1,Toddlers
-306,1,1,0,1,1,0,1,0,0,1,36,6,m,White European,0,0,Others,1,Toddlers
-307,1,1,0,1,0,0,1,0,0,0,36,4,m,White European,0,0,family member,1,Toddlers
-308,1,1,1,1,0,1,1,1,1,1,36,9,f,White European,1,0,family member,1,Toddlers
-309,0,0,1,1,0,1,0,0,1,0,17,4,m,Asian,0,0,family member,1,Toddlers
-310,1,0,1,1,1,1,1,1,1,1,22,9,f,White European,0,0,family member,1,Toddlers
-311,0,0,1,1,1,0,1,1,0,0,20,5,m,White European,1,0,family member,1,Toddlers
-312,1,1,0,0,0,1,0,0,0,1,36,4,m,White European,1,0,Health care professional,1,Toddlers
-313,1,1,1,1,1,1,1,1,1,0,36,9,f,Asian,1,0,family member,1,Toddlers
-314,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Toddlers
-315,1,0,0,0,1,1,1,1,1,1,30,7,f,Asian,1,0,family member,1,Toddlers
-316,1,0,0,0,0,1,1,1,1,1,30,6,f,Asian,0,0,family member,1,Toddlers
-317,1,1,1,1,1,1,1,0,1,1,28,9,m,Middle Eastern ,0,0,family member,1,Toddlers
-318,1,1,0,1,0,1,1,1,1,0,26,7,m,Hispanic or Latino,0,1,family member,1,Toddlers
-319,1,1,1,1,1,1,0,0,1,1,28,8,m,Pacifica,0,0,family member,1,Toddlers
-320,1,1,1,1,1,1,1,0,1,1,36,9,f,Others,0,0,Self,1,Toddlers
-321,1,0,0,0,1,1,1,1,1,0,36,6,m,Hispanic or Latino,0,0,family member,1,Toddlers
-322,1,1,1,1,1,1,1,1,1,1,28,10,m,Black,0,0,family member,1,Toddlers
-323,1,1,1,1,1,1,1,1,1,1,36,10,m,Black,0,0,family member,1,Toddlers
-324,1,0,0,1,1,0,1,0,1,1,28,6,m,White European,1,0,family member,1,Toddlers
-325,0,1,1,1,1,1,0,1,1,0,24,7,f,Asian,1,0,family member,1,Toddlers
-326,1,1,1,1,1,1,1,1,1,1,34,10,m,Native Indian,1,0,family member,1,Toddlers
-327,1,1,1,1,1,0,1,1,1,0,32,8,m,Black,0,0,family member,1,Toddlers
-328,1,0,0,1,1,1,0,0,0,1,29,5,m,White European,1,0,family member,1,Toddlers
-329,1,0,0,0,1,1,1,1,1,0,27,6,m,White European,1,1,family member,1,Toddlers
-330,1,1,1,1,1,1,1,1,1,1,25,10,m,White European,0,0,family member,1,Toddlers
-331,1,1,0,0,1,0,0,0,0,1,36,4,m,White European,1,0,family member,1,Toddlers
-332,0,1,1,1,1,1,1,0,1,1,12,8,m,White European,0,1,family member,1,Toddlers
-333,1,1,0,1,1,1,0,1,1,0,36,7,m,White European,0,0,family member,1,Toddlers
-334,0,1,1,0,0,0,0,1,0,1,36,4,m,Asian,0,0,family member,1,Toddlers
-335,0,1,0,1,0,1,0,0,1,0,36,4,m,Asian,0,0,family member,1,Toddlers
-336,0,1,0,1,0,1,0,0,1,0,36,4,m,Asian,0,0,family member,1,Toddlers
-337,0,0,0,0,1,1,1,1,0,1,30,5,f,Asian,0,0,family member,1,Toddlers
-338,0,0,0,0,1,1,1,1,1,1,35,6,m,Asian,0,0,family member,1,Toddlers
-339,1,1,1,1,0,1,1,0,1,1,31,8,f,White European,0,0,family member,1,Toddlers
-340,1,0,0,0,1,1,1,0,0,0,36,4,m,Asian,0,0,family member,1,Toddlers
-341,1,1,1,1,1,1,1,1,1,1,36,10,m,Black,0,0,family member,1,Toddlers
-342,1,1,0,0,0,1,1,0,0,1,36,5,f,White European,0,0,family member,1,Toddlers
-343,1,1,1,1,1,1,1,1,1,1,26,10,f,Hispanic or Latino,0,0,family member,1,Toddlers
-344,1,1,1,0,1,1,1,1,0,1,22,8,m,Asian,0,0,family member,1,Toddlers
-345,1,1,0,0,0,0,1,0,0,1,24,4,m,Asian,1,0,family member,1,Toddlers
-346,0,0,1,1,1,0,0,1,1,0,19,5,m,Middle Eastern ,0,0,family member,1,Toddlers
-347,1,1,1,1,0,0,1,1,1,1,24,8,m,Black,1,0,family member,1,Toddlers
-348,1,0,1,1,1,1,1,0,1,1,21,8,m,White European,1,1,family member,1,Toddlers
-349,1,1,1,1,1,1,1,1,1,1,20,10,f,White European,0,0,family member,1,Toddlers
-350,0,0,0,1,1,1,0,1,1,0,30,5,m,Middle Eastern ,0,0,family member,1,Toddlers
-351,0,0,0,0,1,1,1,0,1,1,13,5,f,Asian,0,0,family member,1,Toddlers
-352,1,1,1,0,1,1,1,1,1,0,31,8,f,Asian,0,0,family member,1,Toddlers
-353,1,1,1,0,1,1,1,1,0,0,31,7,f,Asian,0,0,family member,1,Toddlers
-354,1,1,0,1,1,1,1,1,1,0,17,8,m,Asian,0,0,family member,1,Toddlers
-355,1,1,1,1,1,0,1,1,1,1,12,9,f,Middle Eastern ,0,0,family member,1,Toddlers
-356,1,1,1,1,1,1,1,1,1,0,13,9,m,Hispanic or Latino,1,0,family member,1,Toddlers
-357,1,1,1,1,1,1,1,1,1,0,13,9,m,Hispanic or Latino,1,0,family member,1,Toddlers
-358,1,1,0,1,1,1,0,0,0,0,34,5,m,Others,0,0,family member,1,Toddlers
-359,1,1,0,1,1,1,1,0,0,1,34,7,m,Others,0,0,family member,1,Toddlers
-360,1,1,0,0,0,0,1,0,0,1,36,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
-361,1,1,0,0,1,0,1,0,0,1,25,5,m,Middle Eastern ,1,0,family member,1,Toddlers
-362,1,1,0,0,0,0,1,0,0,1,25,4,m,Middle Eastern ,0,0,family member,1,Toddlers
-363,1,1,1,1,1,1,1,1,1,1,24,10,f,Black,0,0,family member,1,Toddlers
-364,1,1,0,1,0,1,1,1,0,1,36,7,m,White European,0,0,family member,1,Toddlers
-365,0,0,0,1,1,1,1,1,1,1,35,7,m,Asian,0,1,family member,1,Toddlers
-366,0,0,0,0,1,1,1,0,1,1,35,5,m,Asian,1,0,family member,1,Toddlers
-367,1,1,1,1,1,1,1,1,1,1,19,10,m,White European,1,0,family member,1,Toddlers
-368,0,1,1,1,0,0,1,0,1,0,12,5,f,Middle Eastern ,1,0,family member,1,Toddlers
-369,1,1,0,0,0,1,0,1,0,1,36,5,m,White European,0,1,family member,1,Toddlers
-370,1,0,0,0,1,1,1,0,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
-371,1,1,0,1,1,1,1,1,0,1,36,8,m,White European,1,1,family member,1,Toddlers
-372,0,1,0,1,1,0,1,0,0,1,36,5,m,White European,1,1,family member,1,Toddlers
-373,1,0,1,1,1,1,0,1,1,1,33,8,m,White European,1,0,family member,1,Toddlers
-374,1,1,0,1,0,0,1,0,1,1,22,6,m,White European,0,1,family member,1,Toddlers
-375,1,1,0,1,0,1,1,1,1,1,22,8,m,White European,0,0,family member,1,Toddlers
-376,1,1,1,1,1,1,1,1,1,1,31,10,m,White European,1,1,family member,1,Toddlers
-377,1,0,1,1,0,1,1,0,1,1,29,7,f,White European,0,0,family member,1,Toddlers
-378,1,0,0,0,0,0,1,0,1,1,36,4,m,Asian,0,0,family member,1,Toddlers
-379,0,0,0,1,1,1,1,0,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
-380,1,1,1,1,1,1,1,1,1,1,36,10,m,White European,0,0,family member,1,Toddlers
-381,1,1,1,0,0,1,1,0,1,1,23,7,m,Black,1,0,family member,1,Toddlers
-382,1,1,0,0,1,0,0,1,0,1,36,5,m,White European,1,0,family member,1,Toddlers
-383,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,0,family member,1,Toddlers
-384,1,1,0,1,0,1,1,1,1,1,35,8,f,Asian,0,0,family member,1,Toddlers
-385,0,0,1,1,0,1,0,1,0,0,32,4,f,White European,1,0,family member,1,Toddlers
-386,0,1,1,1,1,0,1,1,0,1,36,7,f,White European,1,1,family member,1,Toddlers
-387,0,0,0,0,1,1,0,0,1,1,35,4,m,Asian,1,0,family member,1,Toddlers
-388,1,0,1,0,1,1,0,0,1,0,24,5,m,White European,0,0,family member,1,Toddlers
-389,1,0,1,1,1,1,0,0,1,0,24,6,m,White European,0,0,family member,1,Toddlers
-390,1,0,1,0,1,1,0,0,1,0,24,5,m,White European,0,0,family member,1,Toddlers
-391,1,1,1,1,0,1,1,0,1,1,30,8,f,White European,0,0,family member,1,Toddlers
-392,0,0,1,1,0,1,1,0,1,1,26,6,m,White European,0,0,family member,1,Toddlers
-393,1,1,1,1,1,1,1,1,1,1,12,10,m,Others,1,1,family member,1,Toddlers
-394,0,0,1,1,1,1,1,1,1,1,36,8,m,White European,0,0,family member,1,Toddlers
-395,1,0,0,0,1,1,1,0,0,1,23,5,m,Asian,1,0,family member,1,Toddlers
-396,1,0,0,0,1,1,1,0,1,0,36,5,m,Asian,1,0,family member,1,Toddlers
-397,0,0,1,1,1,1,1,1,1,1,34,8,f,White European,0,1,family member,1,Toddlers
-398,0,0,1,1,0,1,0,1,1,1,36,6,m,Hispanic or Latino,0,0,family member,1,Toddlers
-399,1,1,0,0,1,1,1,0,0,1,36,6,m,Others,0,0,family member,1,Toddlers
-400,1,0,0,1,1,1,1,0,1,1,36,7,m,White European,1,0,family member,1,Toddlers
-401,1,1,0,0,0,1,0,0,1,1,36,5,m,Asian,0,0,family member,1,Toddlers
-402,1,0,0,0,0,1,0,1,1,1,36,5,m,Asian,0,0,family member,1,Toddlers
-403,0,1,1,1,1,1,1,1,1,0,36,8,m,Black,0,0,family member,1,Toddlers
-404,1,1,0,1,1,1,1,0,1,1,36,8,m,White European,0,0,family member,1,Toddlers
-405,1,1,1,1,1,1,1,0,1,1,36,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
-406,1,0,1,0,1,1,1,0,0,1,26,6,m,Asian,0,0,family member,1,Toddlers
-407,1,1,1,1,1,1,1,1,1,0,36,9,m,White European,0,1,family member,1,Toddlers
-408,1,1,1,1,1,1,1,1,1,1,27,10,m,White European,1,0,family member,1,Toddlers
-409,1,1,1,1,1,1,1,1,1,1,36,10,m,Asian,0,0,family member,1,Toddlers
-410,1,1,1,1,1,1,1,1,1,1,36,10,m,Asian,0,0,family member,1,Toddlers
-411,0,1,0,1,0,0,0,0,1,1,36,4,m,Black,1,1,family member,1,Toddlers
-412,0,1,0,1,0,0,0,0,1,1,36,4,m,Black,1,1,family member,1,Toddlers
-413,1,1,1,1,1,1,1,1,1,1,36,10,m,Black,0,1,family member,1,Toddlers
-414,0,1,0,0,1,1,1,1,1,0,30,6,m,White European,0,0,family member,1,Toddlers
-415,0,1,0,0,0,0,1,1,0,1,26,4,m,Others,0,0,family member,1,Toddlers
-416,1,1,0,1,1,1,1,1,0,1,25,8,f,Pacifica,1,0,family member,1,Toddlers
-417,1,1,0,1,1,1,0,1,1,0,20,7,f,Asian,0,0,family member,1,Toddlers
-418,0,0,1,1,1,0,1,1,0,0,20,5,m,Asian,1,0,family member,1,Toddlers
-419,0,0,0,0,1,1,1,1,1,0,20,5,f,Asian,0,0,Health care professional,1,Toddlers
-420,1,1,0,1,1,1,1,1,1,1,28,9,m,Asian,0,0,family member,1,Toddlers
-421,1,0,0,1,1,1,1,1,1,1,28,8,m,Asian,0,0,family member,1,Toddlers
-422,1,1,0,1,1,1,1,1,1,0,28,8,m,Asian,0,0,family member,1,Toddlers
-423,1,1,0,1,1,1,1,1,1,1,28,9,m,Asian,0,0,family member,1,Toddlers
-424,1,1,1,1,1,1,1,1,1,1,28,10,m,Asian,0,0,family member,1,Toddlers
-425,1,1,1,1,0,1,1,0,1,1,36,8,m,White European,1,0,family member,1,Toddlers
-426,1,1,1,1,1,1,1,1,1,0,29,9,f,Hispanic or Latino,0,0,family member,1,Toddlers
-427,1,1,1,1,1,1,1,1,1,1,30,10,m,Hispanic or Latino,0,0,Others,1,Toddlers
-428,1,1,0,0,1,1,1,0,1,1,27,7,m,White European,0,0,family member,1,Toddlers
-429,1,1,1,1,1,1,1,1,1,1,22,10,f,White European,0,0,family member,1,Toddlers
-430,1,0,0,0,0,1,1,0,0,1,22,4,m,Hispanic or Latino,1,0,family member,1,Toddlers
-431,0,0,0,1,0,0,1,1,0,1,36,4,f,Asian,0,0,family member,1,Toddlers
-432,1,1,1,1,1,1,1,1,1,1,36,10,m,Asian,0,0,family member,1,Toddlers
-433,0,0,0,1,1,1,1,0,0,0,36,4,m,Asian,0,0,family member,1,Toddlers
-434,0,0,0,0,1,1,1,0,1,1,34,5,m,Others,1,0,family member,1,Toddlers
-435,1,0,0,1,1,0,0,0,0,1,24,4,m,Asian,1,0,family member,1,Toddlers
-436,1,1,1,1,0,1,1,0,0,1,25,7,m,White European,1,1,family member,1,Toddlers
-437,1,0,1,0,1,1,1,0,1,0,25,6,m,White European,0,1,family member,1,Toddlers
-438,0,0,1,1,0,1,1,1,1,0,33,6,m,White European,1,0,family member,1,Toddlers
-439,0,0,0,0,1,0,0,1,1,1,36,4,m,Middle Eastern ,0,0,family member,1,Toddlers
-440,1,0,1,1,0,1,1,0,1,0,24,6,f,Asian,0,0,family member,1,Toddlers
-441,0,0,1,1,1,1,0,0,1,0,24,5,f,Asian,0,0,family member,1,Toddlers
-442,0,0,1,1,1,1,0,0,1,0,24,5,f,Asian,0,0,family member,1,Toddlers
-443,0,1,0,0,1,1,1,1,0,1,29,6,m,White European,1,0,family member,1,Toddlers
-444,1,1,1,1,1,1,1,1,1,1,28,10,m,Asian,0,0,family member,1,Toddlers
-445,0,0,1,1,0,0,0,1,0,1,24,4,m,Asian,0,0,family member,1,Toddlers
-446,0,0,1,1,0,1,0,0,0,1,24,4,m,Asian,0,0,family member,1,Toddlers
-447,1,0,1,1,1,0,1,0,1,0,16,6,f,Asian,0,0,family member,1,Toddlers
-448,1,0,1,1,1,1,1,0,0,0,22,6,f,White European,0,1,family member,1,Toddlers
-449,0,0,1,1,1,1,1,0,0,1,22,6,f,White European,0,1,family member,1,Toddlers
-450,1,0,0,0,1,1,1,1,0,1,32,6,f,Asian,0,0,family member,1,Toddlers
-451,1,1,1,1,1,1,1,0,1,0,18,8,m,Middle Eastern ,1,0,family member,1,Toddlers
-452,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Toddlers
-453,0,0,1,1,0,1,1,1,1,1,34,7,m,White European,1,0,family member,1,Toddlers
-454,0,0,1,1,1,1,1,0,1,1,24,7,f,Asian,0,0,family member,1,Toddlers
-455,1,1,1,1,1,1,1,0,1,1,22,9,m,Asian,0,0,family member,1,Toddlers
-456,1,0,0,1,1,1,1,0,0,0,36,5,f,White European,0,0,family member,1,Toddlers
-457,1,0,0,0,1,0,1,1,1,0,14,5,m,Asian,1,0,family member,1,Toddlers
-458,1,1,0,0,1,1,1,1,1,1,36,8,f,Others,0,0,family member,1,Toddlers
-459,1,1,1,1,1,0,1,1,0,0,24,7,m,Others,0,0,family member,1,Toddlers
-460,1,1,1,1,1,1,1,0,1,0,14,8,m,White European,0,0,family member,1,Toddlers
-461,1,1,0,1,1,1,1,0,1,0,14,7,m,White European,0,0,family member,1,Toddlers
-462,1,1,0,0,0,0,1,0,0,1,26,4,f,Middle Eastern ,0,0,family member,1,Toddlers
-463,1,0,0,1,1,0,1,0,1,0,36,5,m,Asian,0,0,family member,1,Toddlers
-464,1,1,1,1,1,1,1,0,0,0,24,7,m,Others,0,0,family member,1,Toddlers
-465,1,0,1,1,1,1,1,1,1,1,33,9,f,Asian,0,0,family member,1,Toddlers
-466,1,0,1,0,1,1,1,1,1,1,33,8,f,Asian,0,0,family member,1,Toddlers
-467,1,1,0,1,0,1,1,1,0,1,32,7,f,White European,0,0,family member,1,Toddlers
-468,0,0,1,1,1,1,1,0,1,0,31,6,f,White European,0,0,family member,1,Toddlers
-469,1,0,1,1,0,1,0,1,0,0,17,5,m,Asian,1,0,family member,1,Toddlers
-470,1,1,1,1,1,0,1,1,1,1,19,9,f,White European,1,0,family member,1,Toddlers
-471,1,1,1,1,1,1,1,1,1,0,19,9,f,White European,1,0,family member,1,Toddlers
-472,0,1,0,0,1,1,0,1,0,1,29,5,m,White European,0,0,family member,1,Toddlers
-473,1,0,0,0,1,1,1,1,1,1,36,7,m,White European,0,0,Health care professional,1,Toddlers
-474,1,1,0,1,1,1,1,1,1,1,14,9,m,White European,1,0,family member,1,Toddlers
-475,1,0,1,1,1,0,1,1,1,1,16,8,m,Black,0,0,family member,1,Toddlers
-476,1,1,1,1,1,1,1,1,1,1,14,10,m,White European,0,0,family member,1,Toddlers
-477,1,0,1,0,1,0,1,1,0,1,24,6,m,White European,0,0,family member,1,Toddlers
-478,1,1,1,1,1,1,1,1,1,0,36,9,m,Asian,1,1,family member,1,Toddlers
-479,1,1,0,0,1,1,1,0,1,0,32,6,m,White European,0,0,family member,1,Toddlers
-480,1,1,1,1,1,1,1,1,0,1,27,9,m,Others,1,1,family member,1,Toddlers
-481,0,0,1,1,1,1,1,1,1,1,33,8,m,White European,0,0,family member,1,Toddlers
-482,1,0,0,1,0,1,1,1,0,1,23,6,m,White European,1,0,family member,1,Toddlers
-483,1,0,1,1,1,1,1,0,0,1,34,7,m,White European,1,0,family member,1,Toddlers
-484,1,1,0,0,0,1,1,1,1,1,16,7,f,White European,1,0,family member,1,Toddlers
-485,1,0,1,1,1,1,1,0,1,0,36,7,m,White European,1,1,family member,1,Toddlers
-486,1,0,0,1,0,0,1,0,1,1,24,5,m,White European,1,1,family member,1,Toddlers
-487,1,1,0,1,0,1,1,1,1,0,35,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-488,1,0,1,1,1,0,1,1,1,1,15,8,m,White European,1,0,family member,1,Toddlers
-489,0,0,1,1,1,0,1,1,1,0,15,6,m,White European,1,0,family member,1,Toddlers
-490,1,1,1,1,1,0,1,0,1,1,12,8,f,White European,0,0,family member,1,Toddlers
-491,1,1,1,1,1,1,1,1,1,1,22,10,m,White European,1,0,family member,1,Toddlers
-492,1,0,0,0,0,1,1,0,1,0,36,4,m,Others,0,1,family member,1,Toddlers
-493,0,1,0,1,0,1,1,0,0,0,30,4,m,Asian,1,0,family member,1,Toddlers
-494,1,1,0,1,1,1,1,0,1,1,36,8,m,White European,0,0,family member,1,Toddlers
-495,1,1,0,0,1,1,0,1,1,1,29,7,m,White European,0,0,family member,1,Toddlers
-496,1,1,1,1,1,1,1,1,1,1,26,10,m,Pacifica,0,0,family member,1,Toddlers
-497,1,1,0,0,0,1,1,1,0,1,23,6,m,White European,1,1,family member,1,Toddlers
-498,1,1,1,1,1,1,1,1,1,1,15,10,m,Asian,0,0,family member,1,Toddlers
-499,1,1,0,1,1,1,1,1,1,0,25,8,m,White European,0,0,family member,1,Toddlers
-500,0,0,0,1,1,1,1,1,1,1,33,7,f,Asian,0,0,family member,1,Toddlers
-501,0,0,1,1,1,1,1,0,1,1,12,7,f,Middle Eastern ,0,0,family member,1,Toddlers
-502,1,1,0,1,0,1,1,0,0,1,28,6,m,White European,0,0,family member,1,Toddlers
-503,1,1,0,1,1,0,1,1,1,0,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
-504,1,1,1,1,1,1,0,1,1,1,30,9,m,Asian,0,0,family member,1,Toddlers
-505,1,0,0,0,1,1,0,0,1,1,30,5,m,Asian,0,0,family member,1,Toddlers
-506,1,1,1,1,1,1,1,1,1,0,36,9,f,Middle Eastern ,1,0,family member,1,Toddlers
-507,1,1,1,0,1,1,1,0,0,1,29,7,m,Pacifica,0,1,family member,1,Toddlers
-508,0,0,1,0,1,1,1,1,0,1,34,6,f,Asian,0,0,family member,1,Toddlers
-509,0,1,1,1,1,1,1,1,0,1,36,8,f,White European,0,0,Self,1,Toddlers
-510,1,1,1,1,1,1,1,0,1,1,31,9,m,White European,0,0,family member,1,Toddlers
-511,1,1,1,1,0,1,1,0,0,1,36,7,f,White European,0,0,family member,1,Toddlers
-512,1,0,1,1,1,1,1,0,1,1,36,8,m,Middle Eastern ,0,0,family member,1,Toddlers
-513,1,1,0,1,1,1,1,1,1,1,12,9,m,Hispanic or Latino,1,0,family member,1,Toddlers
-514,1,0,0,0,1,1,1,0,1,0,26,5,m,Asian,0,0,family member,1,Toddlers
-515,0,0,0,0,1,1,1,0,1,0,36,4,f,Hispanic or Latino,0,0,family member,1,Toddlers
-516,1,0,1,1,1,1,1,1,1,0,36,8,m,Asian,1,0,family member,1,Toddlers
-517,1,1,0,0,1,1,1,1,1,0,28,7,m,Asian,0,0,family member,1,Toddlers
-518,1,1,1,1,1,1,0,1,0,1,36,8,f,White European,0,0,family member,1,Toddlers
-519,1,1,1,1,1,1,1,1,1,0,12,9,m,White European,0,1,Health care professional,1,Toddlers
-520,0,0,1,1,1,1,1,0,0,0,31,5,m,White European,0,0,family member,1,Toddlers
-521,0,0,1,1,1,1,1,0,0,0,31,5,m,White European,1,0,family member,1,Toddlers
-522,1,1,1,1,1,0,1,1,0,1,22,8,m,Asian,0,0,family member,1,Toddlers
-523,1,1,0,0,1,0,1,1,1,1,36,7,m,White European,0,0,family member,1,Toddlers
-524,1,1,1,1,1,1,1,1,1,1,15,10,f,Middle Eastern ,0,1,family member,1,Toddlers
-525,0,0,1,0,1,1,1,1,0,1,34,6,f,Asian,0,0,family member,1,Toddlers
-526,0,0,1,1,1,1,1,1,1,0,14,7,m,White European,1,0,family member,1,Toddlers
-527,1,0,1,0,0,0,1,1,1,0,27,5,m,Asian,0,0,family member,1,Toddlers
-528,1,1,0,1,1,1,1,1,1,1,28,9,m,White European,0,0,family member,1,Toddlers
-529,0,0,1,1,1,1,1,1,1,0,14,7,m,White European,1,0,family member,1,Toddlers
-530,0,0,1,1,1,0,1,0,0,0,31,4,m,White European,1,0,family member,1,Toddlers
-531,1,1,1,1,1,1,1,1,1,0,28,9,m,Others,0,0,family member,1,Toddlers
-532,1,1,0,1,1,1,1,1,1,0,36,8,f,Asian,0,0,family member,1,Toddlers
-533,1,0,0,0,0,1,1,0,0,1,26,4,f,Others,0,0,family member,1,Toddlers
-534,1,0,1,1,1,1,1,0,1,0,15,7,m,White European,0,0,family member,1,Toddlers
-535,0,1,1,1,0,1,1,1,1,0,12,7,m,Hispanic or Latino,0,0,family member,1,Toddlers
-536,0,1,0,0,0,0,1,1,0,1,16,4,m,White European,1,0,family member,1,Toddlers
-537,1,0,1,1,1,1,1,1,1,1,28,9,m,White European,0,0,family member,1,Toddlers
-538,0,0,1,0,1,1,1,1,0,1,34,6,f,Asian,0,0,family member,1,Toddlers
-539,1,1,1,1,1,1,1,1,1,0,24,9,m,Asian,0,0,family member,1,Toddlers
-540,1,1,1,1,0,1,1,0,0,1,22,7,m,Middle Eastern ,1,1,family member,1,Toddlers
-541,0,0,1,1,0,0,1,0,0,1,36,4,f,Asian,1,0,family member,1,Toddlers
-542,1,1,1,1,1,1,1,1,1,1,29,10,m,White European,0,0,family member,1,Toddlers
-543,0,0,1,1,1,1,1,1,1,0,14,7,m,White European,1,0,family member,1,Toddlers
-544,0,0,0,1,1,0,1,1,1,0,36,5,m,Asian,0,0,family member,1,Toddlers
-545,1,1,1,0,1,0,1,0,0,0,35,5,m,Others,0,0,family member,1,Toddlers
-546,1,0,0,0,0,0,1,1,0,1,35,4,f,White European,1,0,family member,1,Toddlers
-547,1,0,0,0,0,1,1,0,0,1,31,4,f,White European,0,1,family member,1,Toddlers
-548,1,1,0,1,1,1,1,0,1,1,36,8,m,Asian,1,0,family member,1,Toddlers
-549,1,1,1,1,1,1,1,0,1,1,15,9,m,Others,0,0,family member,1,Toddlers
-550,1,1,1,1,0,1,1,0,1,1,36,8,f,White European,0,0,family member,1,Toddlers
-551,0,0,1,0,0,1,1,1,1,1,36,6,f,Middle Eastern ,0,1,family member,1,Toddlers
-552,1,1,1,1,1,1,1,1,1,1,36,10,f,Middle Eastern ,1,0,family member,1,Toddlers
-553,0,0,0,0,1,0,1,0,1,1,36,4,m,Others,1,0,family member,1,Toddlers
-554,1,1,0,1,1,1,1,1,1,1,24,9,f,Asian,0,0,family member,1,Toddlers
-555,1,1,0,1,1,1,1,0,0,0,24,6,f,Asian,0,0,family member,1,Toddlers
-556,1,0,0,1,0,1,1,0,0,1,23,5,f,Asian,0,0,family member,1,Toddlers
-557,1,0,0,0,1,1,1,1,1,0,34,6,f,Asian,0,0,family member,1,Toddlers
-558,1,0,1,1,1,1,1,1,1,1,13,9,m,Black,1,1,family member,1,Toddlers
-559,1,1,0,0,1,1,1,0,1,1,36,7,m,White European,0,0,family member,1,Toddlers
-560,1,1,0,0,1,1,1,0,1,1,36,7,m,White European,0,1,family member,1,Toddlers
-561,1,1,0,0,1,1,1,0,1,1,36,7,m,White European,0,1,family member,1,Toddlers
-562,1,1,1,1,1,1,1,0,1,1,16,9,m,Middle Eastern ,0,0,family member,1,Toddlers
-563,1,1,1,1,0,1,1,0,1,1,24,8,f,White European,0,0,family member,1,Toddlers
-564,1,1,1,1,0,1,0,0,0,1,20,6,m,White European,1,1,family member,1,Toddlers
-565,1,0,1,1,1,1,1,1,0,1,28,8,m,Middle Eastern ,0,0,family member,1,Toddlers
-566,1,1,1,1,1,1,1,1,1,0,29,9,m,Asian,0,0,family member,1,Toddlers
-567,1,0,0,0,1,0,1,1,1,0,24,5,m,White European,0,0,family member,1,Toddlers
-568,1,1,1,1,1,1,1,1,1,0,19,9,m,Middle Eastern ,0,0,Health care professional,1,Toddlers
-569,1,0,0,0,1,1,1,1,1,1,34,7,f,Asian,0,0,family member,1,Toddlers
-570,0,0,0,1,0,1,1,1,1,0,18,5,m,Asian,0,1,family member,1,Toddlers
-571,1,1,0,0,0,0,1,0,1,1,36,5,f,White European,0,1,family member,1,Toddlers
-572,1,1,1,1,1,1,1,1,1,1,14,10,m,Middle Eastern ,0,0,family member,1,Toddlers
-573,0,0,1,1,1,0,1,1,1,0,14,6,m,White European,1,0,family member,1,Toddlers
-574,0,0,1,1,1,0,0,1,0,0,35,4,m,Asian,0,0,family member,1,Toddlers
-575,1,1,1,1,1,1,1,1,1,1,35,10,m,Asian,0,0,family member,1,Toddlers
-576,1,1,1,1,1,1,1,1,1,0,19,9,f,Hispanic or Latino,0,0,family member,1,Toddlers
-577,1,1,1,1,1,1,1,1,1,1,29,10,m,White European,0,0,family member,1,Toddlers
-578,1,0,0,0,1,1,1,1,1,0,36,6,m,White European,0,0,family member,1,Toddlers
-579,1,0,1,1,0,1,1,0,0,0,26,5,m,White European,0,0,family member,1,Toddlers
-580,1,1,0,0,0,0,1,1,0,0,28,4,m,Middle Eastern ,0,0,family member,1,Toddlers
-581,1,1,1,1,1,1,1,1,1,1,36,10,m,Hispanic or Latino,0,0,family member,1,Toddlers
-582,0,1,0,0,1,1,0,0,1,0,36,4,m,White European,0,0,family member,1,Toddlers
-583,0,0,1,1,1,1,1,1,1,1,18,8,m,Hispanic or Latino,0,0,family member,1,Toddlers
-584,1,0,0,0,0,1,1,0,0,1,21,4,m,Middle Eastern ,1,0,family member,1,Toddlers
-585,1,1,1,1,1,1,1,0,1,1,32,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
-586,0,0,0,0,0,1,1,1,1,0,36,4,m,Asian,0,0,family member,1,Toddlers
-587,1,1,1,0,1,0,1,0,1,1,27,7,m,Asian,1,0,family member,1,Toddlers
-588,1,1,0,1,1,0,1,1,1,0,18,7,m,Black,1,1,family member,1,Toddlers
-589,0,0,0,1,1,1,0,1,0,0,24,4,m,Asian,0,0,family member,1,Toddlers
-590,1,1,0,0,1,1,1,0,0,0,36,5,m,Asian,0,0,family member,1,Toddlers
-591,0,0,1,1,1,1,1,0,1,0,22,6,f,Others,0,0,family member,1,Toddlers
-592,1,1,1,1,1,1,1,1,1,1,30,10,m,White European,1,1,family member,1,Toddlers
-593,1,1,1,1,1,1,1,1,1,1,19,10,m,White European,1,0,family member,1,Toddlers
-594,1,1,1,1,1,1,1,1,1,1,16,10,m,White European,0,0,family member,1,Toddlers
-595,1,1,0,1,1,1,1,1,1,1,26,9,f,Middle Eastern ,0,0,family member,1,Toddlers
-596,1,1,1,1,1,1,0,1,1,1,24,9,f,Hispanic or Latino,0,0,family member,1,Toddlers
-597,0,0,1,0,1,1,1,0,1,1,30,6,f,Others,1,0,family member,1,Toddlers
-598,1,1,0,1,1,1,1,0,1,0,26,7,f,White European,0,0,family member,1,Toddlers
-599,1,1,1,1,1,1,1,1,1,1,30,10,m,White European,1,1,family member,1,Toddlers
-600,1,1,1,1,0,0,1,1,0,1,36,7,f,Others,1,0,family member,1,Toddlers
-601,0,1,0,1,0,1,1,1,1,1,36,7,f,Others,1,0,family member,1,Toddlers
-602,1,1,1,1,1,1,1,1,1,1,21,10,m,White European,1,0,family member,1,Toddlers
-603,1,1,0,0,0,1,1,1,1,1,36,7,m,White European,0,0,family member,1,Toddlers
-604,0,0,1,1,0,0,0,1,1,0,31,4,m,Asian,0,0,family member,1,Toddlers
-605,0,0,1,1,1,1,1,0,1,1,30,7,f,Others,1,0,family member,1,Toddlers
-606,1,1,1,1,1,1,1,1,1,1,30,10,f,Others,0,0,family member,1,Toddlers
-607,0,0,0,1,1,1,0,0,1,1,33,5,m,White European,0,0,family member,1,Toddlers
-608,1,1,0,0,1,1,1,1,1,0,26,7,m,White European,0,1,family member,1,Toddlers
-609,1,1,0,0,0,1,1,0,0,1,36,5,m,White European,1,0,family member,1,Toddlers
-610,1,1,1,1,1,0,1,0,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
-611,0,0,0,1,1,1,1,1,0,0,24,5,f,White European,0,0,family member,1,Toddlers
-612,1,1,1,1,1,1,1,1,1,1,24,10,m,Asian,0,0,family member,1,Toddlers
-613,0,0,1,1,1,0,0,1,0,1,36,5,m,Others,0,0,family member,1,Toddlers
-614,0,1,1,0,1,0,1,0,1,0,34,5,f,Black,0,0,family member,1,Toddlers
-615,1,1,1,1,1,1,1,1,1,1,24,10,m,White European,0,0,Health care professional,1,Toddlers
-616,0,0,0,1,1,1,0,1,0,1,29,5,m,Asian,0,0,family member,1,Toddlers
-617,1,1,1,1,1,1,1,1,1,1,20,10,m,Middle Eastern ,0,1,family member,1,Toddlers
-618,0,0,0,0,1,1,1,1,0,1,30,5,m,Hispanic or Latino,1,0,family member,1,Toddlers
-619,0,1,1,1,0,1,1,1,1,1,36,8,m,Middle Eastern ,0,0,family member,1,Toddlers
-620,1,1,1,1,1,1,1,1,1,1,30,10,m,White European,1,0,family member,1,Toddlers
-621,1,1,1,1,0,1,1,1,1,1,27,9,f,White European,0,0,family member,1,Toddlers
-622,1,0,1,1,1,1,1,1,1,1,23,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
-623,1,0,1,1,0,1,1,1,1,1,23,8,m,Hispanic or Latino,0,0,Health care professional,1,Toddlers
-624,0,0,1,1,1,0,1,0,1,0,36,5,f,Asian,0,0,family member,1,Toddlers
-625,1,1,1,1,0,1,1,0,1,1,22,8,f,Pacifica,1,0,family member,1,Toddlers
-626,1,1,0,1,0,1,1,0,1,1,36,7,f,White European,0,0,family member,1,Toddlers
-627,1,1,0,0,1,0,1,1,1,0,36,6,m,Hispanic or Latino,0,0,family member,1,Toddlers
-628,0,0,0,1,0,1,1,1,1,1,26,6,m,Black,0,0,family member,1,Toddlers
-629,1,1,1,1,1,1,1,1,1,1,21,10,m,Asian,0,0,family member,1,Toddlers
-630,1,1,0,0,0,0,1,0,1,1,25,5,m,White European,1,0,family member,1,Toddlers
-631,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,0,family member,1,Toddlers
-632,1,1,1,0,0,0,1,0,1,0,13,5,f,Hispanic or Latino,0,0,family member,1,Toddlers
-633,0,0,1,1,1,1,1,1,1,0,15,7,m,White European,1,0,family member,1,Toddlers
-634,1,1,0,0,0,1,1,0,0,1,23,5,m,White European,0,0,family member,1,Toddlers
-635,0,0,1,1,0,0,0,0,1,1,24,4,m,Asian,0,0,family member,1,Toddlers
-636,1,0,1,1,1,1,1,0,1,1,36,8,m,Hispanic or Latino,0,1,family member,1,Toddlers
-637,1,0,1,1,1,1,1,1,1,0,29,8,m,White European,1,0,family member,1,Toddlers
-638,0,1,1,1,1,1,1,1,1,0,36,8,m,Middle Eastern ,1,1,family member,1,Toddlers
-639,1,1,1,1,0,0,1,1,0,1,32,7,m,Asian,0,0,family member,1,Toddlers
-640,1,0,0,1,0,1,1,1,1,0,36,6,m,White European,1,0,family member,1,Toddlers
-641,1,0,0,1,0,1,1,0,1,0,36,5,m,Others,1,0,family member,1,Toddlers
-642,1,1,0,0,1,1,1,0,1,1,36,7,m,Asian,0,0,family member,1,Toddlers
-643,1,0,1,1,0,0,0,0,1,0,12,4,m,White European,0,0,family member,1,Toddlers
-644,0,0,1,1,1,0,0,0,1,0,12,4,m,White European,0,0,family member,1,Toddlers
-645,1,1,0,1,1,1,1,0,1,1,32,8,m,Asian,0,0,family member,1,Toddlers
-646,0,0,0,0,1,1,0,1,0,1,35,4,f,Asian,0,0,family member,1,Toddlers
-647,1,0,1,0,0,0,1,0,0,1,20,4,m,Middle Eastern ,0,0,family member,1,Toddlers
-648,1,1,1,1,1,1,1,1,1,0,12,9,m,White European,0,0,family member,1,Toddlers
-649,1,1,0,0,0,1,0,0,0,1,36,4,m,Asian,0,0,Health care professional,1,Toddlers
-650,0,0,1,1,1,1,1,1,1,0,15,7,m,White European,1,0,family member,1,Toddlers
-651,1,1,0,0,1,0,1,1,1,1,36,7,m,White European,0,0,family member,1,Toddlers
-652,0,0,0,0,1,1,0,0,1,1,36,4,m,Native Indian,0,0,family member,1,Toddlers
-653,1,1,1,1,1,1,1,1,0,1,27,9,m,Black,0,1,family member,1,Toddlers
-654,1,1,1,1,1,1,1,1,0,1,27,9,m,Black,0,1,family member,1,Toddlers
-655,1,1,0,0,1,0,0,1,1,0,36,5,m,Asian,0,0,family member,1,Toddlers
-656,1,0,0,0,1,1,0,1,0,1,35,5,f,Asian,0,0,family member,1,Toddlers
-657,1,1,1,1,1,1,1,1,1,0,36,9,f,White European,0,0,family member,1,Toddlers
-658,1,1,1,1,0,0,0,1,0,0,22,5,f,Hispanic or Latino,0,0,family member,1,Toddlers
-659,1,1,0,1,1,1,1,1,1,1,29,9,m,Asian,1,0,family member,1,Toddlers
-660,0,1,0,0,1,1,1,0,0,0,36,4,m,Asian,0,0,family member,1,Toddlers
-661,1,1,0,1,1,1,1,0,0,0,27,6,m,White European,0,1,family member,1,Toddlers
-662,0,0,1,1,1,0,1,1,1,0,26,6,f,White European,0,0,family member,1,Toddlers
-663,1,1,0,1,0,1,1,1,1,1,26,8,m,Middle Eastern ,1,0,family member,1,Toddlers
-664,1,0,1,1,1,1,1,0,1,0,16,7,m,White European,0,1,family member,1,Toddlers
-665,1,0,1,1,0,1,1,1,0,0,28,6,m,Asian,0,0,family member,1,Toddlers
-666,1,0,1,1,1,1,0,1,1,0,18,7,m,White European,0,0,family member,1,Toddlers
-667,0,0,0,0,1,1,0,1,0,1,35,4,f,Asian,0,0,family member,1,Toddlers
-668,1,0,0,0,0,0,1,1,0,1,30,4,m,Middle Eastern ,0,0,family member,1,Toddlers
-669,1,1,0,0,0,1,0,1,0,1,33,5,m,Middle Eastern ,0,0,family member,1,Toddlers
-670,1,1,0,1,1,1,0,1,0,1,36,7,m,White European,1,1,family member,1,Toddlers
-671,1,0,0,0,0,0,1,1,1,1,36,5,m,White European,0,1,family member,1,Toddlers
-672,1,1,1,0,0,0,1,1,0,0,24,5,m,Black,0,0,Others,1,Toddlers
-673,1,1,0,1,0,0,0,0,0,1,16,4,f,Hispanic or Latino,0,0,family member,1,Toddlers
-674,1,0,1,1,1,1,0,1,1,0,30,7,m,White European,1,0,family member,1,Toddlers
-675,1,1,1,1,1,1,1,0,0,0,36,7,m,Asian,0,0,family member,1,Toddlers
-676,1,0,1,0,1,1,1,0,1,1,24,7,m,Middle Eastern ,1,0,family member,1,Toddlers
-677,0,0,0,1,1,0,1,1,0,1,36,5,m,Asian,1,0,family member,1,Toddlers
-678,1,1,1,1,1,1,1,0,1,0,36,8,m,Asian,0,0,family member,1,Toddlers
-679,1,1,1,1,1,1,1,1,1,1,34,10,f,White European,0,0,family member,1,Toddlers
-680,1,0,1,1,0,1,1,0,1,0,24,6,m,White European,0,0,family member,1,Toddlers
-681,1,1,1,0,1,1,0,0,1,1,23,7,m,White European,0,0,family member,1,Toddlers
-682,1,1,1,1,1,1,1,0,1,1,30,9,f,Middle Eastern ,0,0,family member,1,Toddlers
-683,0,0,0,0,1,0,1,1,0,1,36,4,m,Asian,1,0,family member,1,Toddlers
-684,1,0,1,1,1,1,1,1,1,1,35,9,f,Middle Eastern ,0,0,family member,1,Toddlers
-685,1,0,1,1,1,1,1,0,1,1,35,8,f,Middle Eastern ,0,0,family member,1,Toddlers
-686,1,1,1,1,1,1,1,0,0,1,33,8,m,White European,0,0,family member,1,Toddlers
-687,1,0,0,1,0,0,1,0,0,1,34,4,m,Asian,1,0,family member,1,Toddlers
-688,1,1,1,1,1,1,1,1,1,1,24,10,f,Hispanic or Latino,0,0,Health care professional,1,Toddlers
-689,1,1,0,0,0,0,0,0,1,1,36,4,m,White European,1,0,family member,1,Toddlers
-690,1,0,1,1,1,0,1,0,1,1,33,7,f,Middle Eastern ,0,0,family member,1,Toddlers
-691,0,1,1,1,0,1,0,0,0,0,23,4,f,Pacifica,1,0,family member,1,Toddlers
-692,1,0,0,0,1,1,0,1,0,1,34,5,f,Asian,0,0,family member,1,Toddlers
-693,0,0,0,0,1,1,1,1,0,0,36,4,m,Black,1,0,Self,1,Toddlers
-694,1,0,0,1,1,0,1,0,1,0,27,5,m,White European,0,0,family member,1,Toddlers
-695,1,1,1,1,1,1,1,1,0,0,36,8,m,Black,0,1,family member,1,Toddlers
-696,1,0,1,1,1,0,1,0,0,1,24,6,m,Asian,0,0,family member,1,Toddlers
-697,1,0,1,1,1,0,1,0,0,1,24,6,m,Asian,0,0,family member,1,Toddlers
-698,1,1,1,1,1,1,1,1,1,0,32,9,m,Asian,1,1,family member,1,Toddlers
-699,1,0,1,1,0,0,1,0,0,1,24,5,m,Asian,0,0,family member,1,Toddlers
-700,0,1,1,1,1,1,1,1,1,1,30,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
-701,0,1,0,0,1,1,0,0,1,0,36,4,m,White European,0,1,family member,1,Toddlers
-702,1,1,1,1,1,1,1,1,1,0,30,9,m,Middle Eastern ,0,0,family member,1,Toddlers
-703,1,0,0,0,0,1,1,1,1,0,30,5,f,White European,0,0,family member,1,Toddlers
-704,0,0,1,1,0,0,1,0,1,0,24,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
-705,0,1,0,0,1,0,1,1,0,1,36,5,m,Hispanic or Latino,0,0,family member,1,Toddlers
-706,1,1,0,0,0,1,1,1,0,1,36,6,f,Asian,0,0,family member,1,Toddlers
-707,1,1,0,0,1,1,1,0,0,1,36,6,m,Asian,0,0,family member,1,Toddlers
-708,0,1,1,1,1,1,1,1,0,0,12,7,m,White European,0,0,family member,1,Toddlers
-709,1,1,0,0,0,0,0,1,0,1,36,4,m,White European,0,1,family member,1,Toddlers
-710,0,0,1,1,1,0,0,1,1,0,29,5,m,White European,0,0,family member,1,Toddlers
-711,0,0,1,1,1,1,0,0,1,0,22,5,f,Hispanic or Latino,0,0,family member,1,Toddlers
-712,1,1,0,1,0,1,1,1,1,1,36,8,m,White European,0,1,family member,1,Toddlers
-713,1,1,0,0,0,1,1,1,0,1,36,6,f,Others,0,1,family member,1,Toddlers
-714,1,0,1,1,1,0,1,0,0,0,32,5,m,White European,1,0,family member,1,Toddlers
-715,1,0,0,1,0,1,1,1,0,0,18,5,m,Others,1,0,family member,1,Toddlers
-716,1,1,0,1,0,1,1,1,0,0,14,6,f,Asian,0,0,family member,1,Toddlers
-717,1,1,0,0,0,0,1,0,1,0,26,4,m,Asian,0,1,family member,1,Toddlers
-718,0,0,0,0,1,1,1,0,1,0,26,4,m,Asian,0,1,family member,1,Toddlers
-719,1,1,1,1,0,0,1,1,1,1,30,8,m,Hispanic or Latino,1,0,family member,1,Toddlers
-720,1,1,1,1,1,1,1,1,1,1,25,10,m,Asian,0,1,family member,1,Toddlers
-721,1,1,1,1,1,1,1,1,1,1,25,10,m,Asian,0,1,family member,1,Toddlers
-722,1,1,1,1,1,1,1,1,1,1,30,10,m,Middle Eastern ,0,0,Health care professional,1,Toddlers
-723,0,1,0,1,1,1,1,1,1,0,24,7,f,Middle Eastern ,0,0,family member,1,Toddlers
-724,1,1,0,0,1,1,1,0,0,0,30,5,f,White European,0,0,family member,1,Toddlers
-725,0,0,1,1,1,0,1,0,1,0,12,5,m,Black,1,0,family member,1,Toddlers
-726,1,0,1,1,1,1,1,1,1,1,18,9,m,Middle Eastern ,1,0,family member,1,Toddlers
-727,1,1,0,0,1,1,0,1,1,0,24,6,m,Asian,1,1,family member,1,Toddlers
-728,1,1,1,1,0,0,1,1,0,0,28,6,f,White European,0,0,Self,0,Adults
-729,1,1,0,1,0,0,0,1,0,1,28,5,m,Hispanic or Latino,0,1,Self,0,Adolescents
-730,1,1,0,1,1,0,1,1,1,1,28,8,m,Hispanic or Latino,1,1,family member,1,Adults
-731,1,1,0,1,0,0,1,1,0,1,28,6,f,White European,0,1,Self,0,Adults
-732,1,1,1,1,1,0,1,1,1,1,28,9,m,Others,1,0,Self,1,Adults
-733,1,1,1,1,0,0,0,0,1,0,28,5,m,White European,0,0,family member,0,Adults
-734,1,1,0,0,1,0,0,1,1,1,28,6,m,White European,0,0,Self,0,Adults
-735,1,1,1,1,0,1,1,1,1,0,28,8,m,Asian,1,1,Health care professional,1,Adolescents
-736,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Adults
-737,0,1,0,1,1,1,1,0,0,1,28,6,f,Middle Eastern ,0,0,family member,0,Adolescents
-738,0,1,1,1,1,1,0,0,1,0,28,6,f,Others,0,0,Self,0,Adolescents
-739,1,0,0,0,0,0,1,1,0,1,28,4,m,Others,0,0,Self,0,Adolescents
-740,1,0,0,0,0,0,1,1,0,1,28,4,f,Others,0,0,Self,0,Adolescents
-741,1,1,0,1,1,0,0,1,0,1,28,6,m,Middle Eastern ,0,1,family member,0,Adolescents
-742,1,0,0,0,0,0,1,1,1,1,28,5,m,Middle Eastern ,0,0,Self,0,Adults
-743,0,0,0,1,0,0,1,1,1,1,28,5,m,Middle Eastern ,0,0,Self,0,Adults
-744,1,1,1,1,0,0,0,1,0,0,28,5,m,Others,0,0,Self,0,Adults
-745,0,1,1,0,0,0,0,0,1,1,28,4,m,Middle Eastern ,0,0,Self,0,Adults
-746,1,0,0,1,1,1,1,1,0,1,28,7,f,White European,0,1,Self,1,Adults
-747,1,1,0,0,0,0,1,0,0,1,28,4,f,Others,0,0,Self,0,Adults
-748,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,0,Self,1,Adolescents
-749,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,0,Self,1,Adolescents
-750,0,1,1,0,1,0,0,1,1,1,28,6,m,Middle Eastern ,0,0,Self,0,Adults
-751,1,0,1,1,1,1,0,0,1,0,28,6,f,White European,0,0,Self,0,Adults
-752,1,0,0,1,1,1,1,0,1,1,28,7,f,White European,0,0,Self,1,Adults
-753,1,0,1,1,0,1,1,1,1,1,28,8,f,White European,0,1,Self,1,Adults
-754,1,0,1,1,1,0,1,1,0,1,28,7,f,Hispanic or Latino,1,0,Self,1,Adolescents
-755,0,1,1,1,0,0,0,0,0,1,28,4,f,White European,1,1,Self,0,Adults
-756,1,1,1,1,1,1,0,1,0,1,28,8,f,White European,0,0,Self,1,Adults
-757,1,0,1,1,1,1,0,1,1,0,28,7,f,White European,0,0,family member,1,Adults
-758,1,1,1,1,0,1,0,0,0,0,28,5,f,Pacifica,0,0,family member,0,Adolescents
-759,0,0,1,1,1,0,1,0,0,0,28,4,m,Pacifica,0,0,family member,0,Adolescents
-760,1,1,0,0,0,1,1,1,0,1,28,6,f,Asian,0,0,Self,0,Adults
-761,1,1,1,1,1,1,1,1,1,1,28,10,f,Black,0,0,family member,1,Adults
-762,1,0,1,1,1,1,1,1,0,1,28,8,m,Hispanic or Latino,0,1,Self,1,Adolescents
-763,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
-764,1,1,1,1,1,1,0,1,1,1,28,9,f,Asian,0,0,Self,1,Adults
-765,1,0,1,1,1,1,0,1,1,1,28,8,f,White European,0,0,Self,1,Adults
-766,1,1,1,1,1,1,0,1,1,1,28,9,f,White European,0,0,Self,1,Adults
-767,1,1,1,1,0,0,0,1,0,0,28,5,f,White European,0,0,Self,0,Adults
-768,1,0,1,1,1,1,1,1,0,1,28,8,f,Others,0,0,Self,1,Adolescents
-769,1,0,1,1,0,1,1,1,0,1,28,7,f,Others,0,0,Self,1,Adolescents
-770,1,0,0,1,1,0,0,1,1,0,28,5,m,White European,0,0,family member,0,Adolescents
-771,1,1,1,1,1,1,1,1,0,1,28,9,f,White European,0,0,Self,1,Adults
-772,1,0,1,0,1,1,1,1,0,0,28,6,m,Hispanic or Latino,0,0,Self,0,Adolescents
-773,1,0,0,0,1,0,1,0,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adults
-774,1,1,0,0,0,0,1,1,0,1,28,5,f,Asian,0,0,Self,0,Adults
-775,1,0,1,1,0,0,1,1,0,1,28,6,m,Others,0,0,Self,0,Adolescents
-776,1,1,1,0,0,0,0,1,1,1,28,6,m,Others,0,0,Self,0,Adolescents
-777,0,0,1,1,1,0,0,1,1,1,28,6,f,White European,0,1,Self,0,Adults
-778,1,1,0,1,1,1,1,1,0,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
-779,1,1,0,1,1,1,1,1,1,0,28,8,f,Black,0,1,Self,1,Adults
-780,1,0,0,1,1,0,0,0,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
-781,0,0,1,1,0,0,1,1,0,1,28,5,m,Others,1,1,Self,0,Adults
-782,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,1,Self,1,Adults
-783,0,0,1,0,1,0,0,1,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adults
-784,1,0,0,1,1,1,1,1,1,1,28,8,f,Middle Eastern ,0,1,family member,1,Adults
-785,1,0,0,0,0,0,0,1,1,1,28,4,f,White European,0,1,Self,0,Adults
-786,1,1,1,1,1,1,0,1,1,1,28,9,f,White European,0,0,Self,1,Adults
-787,1,0,1,1,0,0,0,0,0,1,28,4,f,White European,0,1,Self,0,Adolescents
-788,0,1,0,0,1,0,1,0,0,1,28,4,f,Others,0,0,Self,0,Adults
-789,0,0,0,1,1,1,0,1,0,1,28,5,f,Pacifica,0,0,Self,0,Adolescents
-790,1,1,1,0,1,1,1,0,1,1,28,8,f,Hispanic or Latino,0,1,Self,1,Adolescents
-791,1,1,1,1,1,0,0,1,1,1,28,8,f,White European,0,1,Self,1,Adults
-792,1,1,0,0,0,0,0,1,0,1,28,4,f,White European,0,0,Self,0,Adults
-793,1,0,0,0,1,0,1,1,0,0,28,4,f,White European,0,0,Self,0,Adults
-794,1,0,0,1,1,0,1,0,0,0,28,4,m,Others,0,0,Self,0,Adolescents
-795,1,1,0,0,1,0,1,1,0,0,28,5,m,Asian,0,0,Self,0,Adults
-796,0,0,0,0,1,1,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adolescents
-797,0,0,1,0,1,1,1,1,0,1,28,6,m,Asian,0,0,Self,0,Adults
-798,1,1,0,1,1,0,1,1,0,1,28,7,f,White European,0,0,Self,1,Adults
-799,1,0,0,1,1,1,1,0,0,0,28,5,f,Asian,0,0,family member,0,Adolescents
-800,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,1,Self,1,Adolescents
-801,0,0,1,1,0,1,0,1,1,1,28,6,m,White European,0,0,Self,0,Adolescents
-802,0,1,0,0,0,0,0,1,1,1,28,4,m,Asian,0,0,Self,0,Adults
-803,1,1,0,1,1,1,1,1,0,1,28,8,f,Middle Eastern ,0,0,Self,1,Adults
-804,1,0,1,1,1,1,0,1,1,0,28,7,f,White European,0,0,family member,1,Adults
-805,1,1,1,1,1,1,0,1,0,1,28,8,f,White European,0,0,Self,1,Adolescents
-806,1,1,1,0,1,0,1,1,0,0,28,6,m,White European,0,0,Self,0,Adults
-807,1,1,1,1,1,1,0,1,1,1,28,9,f,White European,0,0,Self,1,Adults
-808,1,1,1,1,1,1,0,0,1,0,28,7,m,White European,0,0,Self,1,Adults
-809,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,Self,1,Adolescents
-810,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,0,Self,1,Adolescents
-811,1,0,0,1,1,1,1,1,0,1,28,7,m,Asian,1,0,Self,1,Adults
-812,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,1,Self,1,Adults
-813,1,1,0,0,1,1,1,1,0,1,28,7,f,White European,0,0,Self,1,Adults
-814,1,0,0,1,1,1,0,1,0,1,28,6,m,Middle Eastern ,0,1,Self,0,Adults
-815,1,0,1,1,0,0,1,0,0,1,28,5,f,White European,0,0,Self,0,Adults
-816,1,0,0,0,1,0,0,0,1,1,28,4,f,White European,0,1,family member,0,Adults
-817,1,0,1,1,0,0,0,1,0,1,28,5,m,Asian,0,0,Self,0,Adolescents
-818,0,1,0,0,1,1,0,1,1,0,28,5,m,Asian,0,0,Self,0,Adolescents
-819,1,0,1,1,0,0,0,1,1,1,28,6,m,Asian,0,0,Self,0,Adults
-820,0,1,1,0,0,1,0,0,1,1,28,5,m,Asian,0,0,Self,0,Adolescents
-821,0,0,1,1,0,0,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adolescents
-822,1,0,0,1,1,0,0,1,0,0,28,4,m,Asian,0,0,Self,0,Adults
-823,1,0,0,1,1,1,1,1,1,1,28,8,m,White European,0,0,family member,1,Adults
-824,1,0,1,1,1,1,1,1,1,1,28,9,m,White European,0,0,Self,1,Adolescents
-825,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,0,Self,1,Adolescents
-826,1,1,0,0,1,1,1,1,0,1,28,7,f,Others,0,0,Self,1,Adults
-827,1,1,1,1,1,0,1,1,1,0,28,8,m,White European,1,1,Self,1,Adults
-828,0,1,1,1,1,0,1,1,0,1,28,7,m,Asian,0,0,Self,1,Adolescents
-829,1,1,0,0,1,0,0,0,0,1,28,4,f,Asian,0,0,Self,0,Adults
-830,0,0,1,0,1,0,1,0,1,1,28,5,m,Asian,0,0,Self,0,Adults
-831,1,0,0,0,1,0,1,0,0,1,28,4,m,Asian,0,0,Self,0,Adults
-832,1,0,0,0,0,1,0,1,0,1,28,4,f,Asian,0,0,Self,0,Adults
-833,0,1,0,0,1,0,0,1,0,1,28,4,f,Asian,0,0,Self,0,Adults
-834,1,0,0,1,0,0,0,0,1,1,28,4,f,Asian,0,0,Self,0,Adults
-835,1,0,1,0,1,0,1,1,0,1,28,6,f,Asian,0,0,Self,0,Adolescents
-836,1,0,0,0,1,0,1,1,0,1,28,5,m,Asian,0,0,Self,0,Adults
-837,0,0,1,0,0,0,0,1,1,1,28,4,f,Others,0,0,Self,0,Adults
-838,1,0,0,0,1,0,1,1,0,0,28,4,f,Asian,0,0,Self,0,Adults
-839,0,0,1,1,1,0,0,1,1,1,28,6,f,Hispanic or Latino,0,1,Self,0,Adults
-840,1,1,1,1,1,0,0,1,1,1,28,8,f,Hispanic or Latino,0,1,Self,1,Adults
-841,1,0,1,1,0,0,1,1,0,1,28,6,m,Hispanic or Latino,0,0,Self,0,Adults
-842,1,1,0,1,0,0,1,0,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
-843,0,0,1,1,1,0,0,0,0,1,28,4,f,Asian,0,0,Self,0,Adolescents
-844,1,1,0,0,0,0,1,1,1,1,28,6,f,Black,0,0,Self,0,Adults
-845,1,1,1,1,1,1,0,1,1,1,28,9,f,Black,0,0,Self,1,Adults
-846,0,0,1,1,1,0,0,1,1,1,28,6,m,Middle Eastern ,0,0,Self,0,Adults
-847,1,0,1,0,1,0,0,1,0,1,28,5,m,Middle Eastern ,0,0,Self,0,Adults
-848,1,0,1,0,1,0,1,0,0,0,28,4,m,White European,0,0,Self,0,Adults
-849,1,0,0,0,1,0,1,0,0,1,28,4,f,White European,0,0,Self,0,Adults
-850,1,1,1,1,1,0,0,0,0,0,28,5,f,Asian,0,0,Self,0,Adolescents
-851,0,1,0,1,1,1,0,1,0,1,28,6,m,White European,0,0,Others,0,Adults
-852,0,0,1,1,1,0,0,0,0,1,28,4,m,Asian,0,0,Self,0,Adults
-853,0,0,1,1,1,0,1,0,0,1,28,5,m,White European,0,0,Self,0,Adolescents
-854,1,0,1,1,1,1,1,0,1,0,28,7,m,Asian,0,0,Self,1,Adults
-855,1,0,0,0,0,0,1,1,0,1,28,4,m,Others,0,1,Self,0,Adults
-856,1,0,0,0,0,0,1,1,0,1,28,4,f,White European,0,0,Self,0,Adults
-857,1,1,0,1,1,1,0,1,1,1,28,8,f,White European,0,1,Self,1,Adults
-858,1,1,1,0,1,0,1,0,0,0,28,5,m,White European,0,0,Self,0,Adults
-859,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,Self,1,Adults
-860,1,1,0,1,0,0,0,1,0,1,28,5,m,Hispanic or Latino,1,1,family member,0,Adults
-861,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,0,Self,1,Adults
-862,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
-863,1,0,1,1,1,1,1,1,1,1,28,9,m,White European,0,0,Self,1,Adults
-864,1,1,1,0,1,1,0,1,1,0,28,7,m,White European,0,0,Self,1,Adults
-865,1,1,1,1,0,0,0,0,0,0,28,4,f,Pacifica,0,1,Self,0,Adults
-866,1,1,1,1,1,0,1,1,1,1,28,9,f,White European,0,0,Self,1,Adolescents
-867,1,1,0,1,1,0,0,0,1,1,28,6,f,White European,0,0,Self,0,Adolescents
-868,1,1,0,1,1,0,0,1,1,1,28,7,f,White European,0,0,Self,1,Adolescents
-869,1,1,1,1,1,1,1,0,1,1,28,9,f,White European,0,1,family member,1,Adults
-870,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
-871,1,1,1,1,1,1,1,1,1,1,28,10,m,Middle Eastern ,0,1,family member,1,Adolescents
-872,1,1,1,0,1,0,0,1,1,1,28,7,f,White European,0,0,Self,1,Adolescents
-873,1,1,1,1,0,0,1,1,0,0,28,6,m,White European,0,0,Self,0,Adults
-874,1,0,0,1,1,1,1,1,1,1,28,8,f,White European,0,0,Self,1,Adults
-875,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,1,Self,1,Adults
-876,0,0,0,1,0,1,0,1,1,1,28,5,m,Asian,0,1,Self,0,Adults
-877,1,1,0,0,0,1,1,1,0,1,28,6,f,White European,0,0,Self,0,Adults
-878,1,0,1,1,0,0,0,0,0,1,28,4,f,White European,0,0,Self,0,Adults
-879,1,1,1,1,0,0,0,0,0,1,28,5,m,White European,0,0,Self,0,Adults
-880,1,1,0,0,1,1,1,1,1,1,28,8,f,Black,0,0,Self,1,Adolescents
-881,1,0,0,0,0,0,1,1,0,1,28,4,f,Others,1,0,Self,0,Adults
-882,1,1,0,0,0,0,0,1,0,1,28,4,m,White European,0,1,family member,0,Adults
-883,1,1,0,1,1,0,1,1,0,1,28,7,m,White European,0,0,Self,1,Adolescents
-884,1,1,1,1,1,0,0,1,0,0,28,6,m,White European,0,0,Self,0,Adolescents
-885,1,0,1,1,0,1,1,1,1,1,28,8,m,White European,0,0,Self,1,Adolescents
-886,1,1,1,1,1,1,1,0,1,1,28,9,f,White European,0,0,Self,1,Adolescents
-887,0,1,0,1,0,0,0,1,0,1,28,4,f,White European,0,0,Self,0,Adults
-888,1,1,1,1,1,1,1,0,1,1,28,9,m,Asian,1,0,family member,1,Adolescents
-889,0,0,0,1,1,0,1,1,0,1,28,5,m,Hispanic or Latino,0,0,Self,0,Adolescents
-890,1,1,1,1,1,1,1,1,1,1,28,10,f,Asian,0,0,Self,1,Adults
-891,0,1,0,0,0,0,0,1,1,1,28,4,m,White European,0,0,Self,0,Adolescents
-892,1,0,0,0,1,1,1,1,0,1,28,6,m,Asian,0,0,Self,0,Adolescents
-893,1,0,0,1,1,0,1,1,0,0,28,5,m,Asian,0,0,Self,0,Adolescents
-894,1,0,0,0,1,0,1,1,1,1,28,6,m,Others,0,0,Self,0,Adolescents
-895,1,0,0,0,1,0,0,1,0,1,28,4,f,Asian,0,0,Self,0,Adolescents
-896,0,0,1,0,1,1,0,0,1,1,28,5,m,Others,0,0,Self,0,Adults
-897,1,0,1,0,1,0,1,1,0,1,28,6,m,Asian,0,0,Self,0,Adults
-898,1,0,0,0,0,0,1,1,0,1,28,4,f,Asian,0,0,Self,0,Adults
-899,1,0,0,1,1,0,1,1,0,0,28,5,m,Pacifica,0,0,Self,0,Adolescents
-900,0,0,1,1,0,1,0,1,1,1,28,6,m,White European,0,0,Self,0,Adolescents
-901,1,0,0,1,1,1,1,1,1,1,28,8,m,Asian,0,0,Self,1,Adolescents
-902,1,0,0,1,0,0,1,1,0,0,28,4,m,Asian,0,0,Self,0,Adolescents
-903,1,1,0,0,1,0,0,1,0,0,28,4,m,Turkish,0,0,Self,0,Adults
-904,1,0,0,0,0,1,0,1,1,1,28,5,m,Asian,0,0,Self,0,Adolescents
-905,0,1,1,0,1,0,0,1,0,0,28,4,m,Others,0,0,Self,0,Adolescents
-906,1,0,0,0,1,1,0,1,0,1,28,5,m,Asian,0,0,Self,0,Adolescents
-907,1,0,0,0,0,0,1,1,1,1,28,5,m,Asian,0,0,Self,0,Adolescents
-908,1,0,1,0,1,0,0,1,0,1,28,5,f,Asian,0,0,Self,0,Adults
-909,1,0,0,0,1,0,0,1,1,0,28,4,f,Asian,0,0,Self,0,Adolescents
-910,1,1,1,0,1,0,1,1,0,1,28,7,m,Asian,0,0,Self,1,Adults
-911,1,0,1,1,1,0,0,1,0,0,28,5,f,White European,0,0,Self,0,Adults
-912,1,0,0,1,1,0,1,1,0,1,28,6,f,Asian,0,0,Self,0,Adolescents
-913,1,0,1,1,1,1,0,0,1,1,28,7,f,Others,0,1,Self,1,Adolescents
-914,1,1,1,1,0,0,0,1,1,1,28,7,f,Black,0,1,family member,1,Adults
-915,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
-916,1,1,1,0,0,0,0,1,0,0,28,4,f,White European,0,1,Self,0,Adults
-917,0,1,1,1,0,0,0,0,1,0,28,4,m,Asian,0,0,Others,0,Adults
-918,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,0,Self,1,Adults
-919,1,1,1,1,1,0,0,1,1,1,28,8,m,White European,0,0,Self,1,Adults
-920,0,1,1,0,1,1,1,0,1,1,28,7,f,Black,0,0,family member,1,Adults
-921,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,0,Self,1,Adults
-922,0,0,0,1,1,1,1,0,1,1,28,6,f,Others,0,0,Self,0,Adults
-923,1,0,0,1,1,0,0,1,0,1,28,5,m,White European,0,0,Self,0,Adults
-924,1,1,1,0,1,1,1,0,1,1,28,8,m,White European,1,0,Self,1,Adults
-925,1,1,1,0,1,1,1,0,1,1,28,8,f,White European,0,0,Self,1,Adolescents
-926,1,1,0,1,1,0,0,1,1,1,28,7,f,Black,0,0,Self,1,Adults
-927,0,1,1,1,0,0,0,1,0,1,28,5,m,White European,0,1,Self,0,Adults
-928,1,0,0,0,1,0,1,0,0,1,28,4,f,White European,0,1,Self,0,Adults
-929,1,0,1,1,1,1,0,0,1,1,28,7,f,White European,0,0,Self,1,Adults
-930,1,1,1,1,1,1,0,0,1,1,28,8,f,White European,1,0,family member,1,Adolescents
-931,1,1,1,1,0,1,0,1,1,1,28,8,m,White European,0,1,Others,1,Adults
-932,1,0,0,1,0,0,1,1,0,1,28,5,f,White European,1,0,Self,0,Adults
-933,1,1,1,1,1,1,1,0,1,1,28,9,f,White European,1,0,Self,1,Adolescents
-934,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,0,Self,1,Adults
-935,0,0,1,1,1,1,1,1,0,0,28,6,f,White European,0,0,Self,0,Adults
-936,1,1,1,1,1,0,0,0,1,0,28,6,m,Asian,0,0,Self,0,Adults
-937,1,1,0,1,0,0,0,0,0,1,28,4,f,White European,0,0,Self,0,Adults
-938,1,0,0,1,1,0,1,1,1,1,28,7,f,Others,0,0,Self,1,Adults
-939,1,0,0,1,1,1,1,1,1,1,28,8,f,White European,0,0,Self,1,Adolescents
-940,1,1,1,1,1,1,0,0,1,1,28,8,f,Others,0,0,Self,1,Adolescents
-941,1,1,1,1,1,1,0,1,0,0,28,7,f,Middle Eastern ,0,0,Self,1,Adults
-942,0,0,1,1,1,0,0,1,0,0,28,4,m,White European,1,0,Self,0,Adults
-943,1,0,1,0,1,1,1,1,1,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
-944,1,0,1,1,1,1,0,1,1,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
-945,1,0,0,1,1,0,0,1,0,1,28,5,f,White European,0,0,Self,0,Adolescents
-946,0,1,0,0,0,0,1,1,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
-947,0,0,0,1,1,0,0,1,1,0,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
-948,1,1,1,0,1,0,0,1,0,1,28,6,m,Others,0,0,Self,0,Adolescents
-949,0,1,1,0,0,0,0,1,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
-950,1,1,1,0,1,1,1,1,0,1,28,8,m,Middle Eastern ,0,0,Self,1,Adolescents
-951,1,1,0,1,1,0,0,0,0,0,28,4,f,Asian,0,1,Self,0,Adolescents
-952,1,1,1,0,1,0,0,1,0,0,28,5,m,Middle Eastern ,0,0,family member,0,Adolescents
-953,1,1,1,0,1,0,0,1,0,0,28,5,m,Middle Eastern ,0,0,family member,0,Adolescents
-954,1,1,1,0,0,0,0,1,0,0,28,4,m,Middle Eastern ,0,0,family member,0,Adolescents
-955,1,1,1,0,0,0,0,1,0,0,28,4,m,Middle Eastern ,0,0,family member,0,Adolescents
-956,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adolescents
-957,1,0,0,1,1,1,1,0,1,1,28,7,m,White European,0,0,Self,1,Adults
-958,1,0,0,0,0,1,1,0,1,1,28,5,f,Asian,0,0,family member,0,Adults
-959,1,1,0,1,0,0,1,1,0,0,28,5,m,White European,1,0,Self,0,Adults
-960,1,1,1,1,0,0,1,1,0,0,28,6,m,White European,0,0,Self,0,Adults
-961,1,0,0,1,1,1,0,0,0,0,28,4,m,Middle Eastern ,0,0,Self,0,Adults
-962,1,0,1,0,0,0,1,1,0,0,28,4,f,Others,0,0,Self,0,Adolescents
-963,1,0,1,1,0,0,1,1,1,0,28,6,f,Others,0,0,Self,0,Adolescents
-964,1,1,1,1,1,0,0,1,0,0,28,6,m,Others,0,0,Self,0,Adolescents
-965,0,1,0,1,0,1,0,1,0,1,28,5,f,Others,0,0,Self,0,Adolescents
-966,1,0,0,0,1,0,1,1,1,0,28,5,m,Others,0,0,Self,0,Adolescents
-967,1,0,1,1,0,1,1,1,1,1,28,8,f,Others,0,0,Self,1,Adolescents
-968,1,1,1,0,0,0,0,1,0,1,28,5,f,Others,0,0,Self,0,Adolescents
-969,1,1,1,0,1,0,1,1,1,1,28,8,m,Others,0,0,Self,1,Adolescents
-970,1,1,0,0,0,0,1,1,0,0,28,4,m,Others,0,0,Self,0,Adolescents
-971,1,0,0,1,0,0,0,1,0,1,28,4,m,Middle Eastern ,0,0,family member,0,Adolescents
-972,1,0,0,1,0,0,1,0,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
-973,1,0,1,0,1,0,0,1,0,0,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
-974,0,1,1,0,0,0,0,1,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
-975,1,0,0,0,0,1,0,1,0,1,28,4,m,Others,0,0,Self,0,Adolescents
-976,1,0,1,0,1,0,0,1,0,1,28,5,m,Middle Eastern ,0,1,Self,0,Adolescents
-977,0,0,1,1,0,0,1,0,0,1,28,4,m,Others,0,0,Self,0,Adolescents
-978,1,0,1,0,1,0,0,1,0,1,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
-979,1,0,0,1,1,0,0,1,0,1,28,5,f,Asian,0,0,Self,0,Adolescents
-980,1,0,0,1,1,0,1,0,0,1,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
-981,1,0,0,0,0,1,1,1,0,1,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
-982,1,1,1,1,1,0,1,0,1,1,28,8,f,Others,0,0,Self,1,Adolescents
-983,1,0,0,0,0,0,1,1,0,1,28,4,m,Others,0,0,Self,0,Adolescents
-984,1,0,1,1,1,0,1,1,0,0,28,6,f,Others,1,0,Self,0,Adolescents
-985,1,1,0,0,1,0,0,1,0,0,28,4,f,Others,0,0,Self,0,Adolescents
-986,1,0,1,1,1,0,0,0,1,1,28,6,m,Middle Eastern ,0,0,Self,0,Adolescents
-987,0,1,0,0,0,1,0,1,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
-988,1,0,0,0,1,1,0,1,0,1,28,5,f,Black,0,0,Self,0,Adolescents
-989,0,1,1,1,0,1,0,1,0,0,28,5,f,Others,0,0,Self,0,Adolescents
-990,1,1,1,0,1,0,0,0,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
-991,1,0,0,1,0,0,1,1,0,1,28,5,f,Others,0,0,Self,0,Adolescents
-992,1,0,0,1,0,0,1,0,0,1,28,4,f,Black,0,0,Self,0,Adolescents
-993,1,0,0,1,0,0,1,0,0,1,28,4,f,Others,0,0,Self,0,Adults
-994,0,1,0,0,1,0,1,1,0,1,28,5,f,Black,0,0,Self,0,Adolescents
-995,1,0,1,1,1,1,1,1,1,0,28,8,m,Asian,0,0,Self,1,Adolescents
-996,1,0,0,1,1,0,0,1,0,1,28,5,f,Asian,0,0,Self,0,Adolescents
-997,1,1,0,1,0,0,0,0,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
-998,0,0,1,1,1,0,0,1,0,0,28,4,f,Others,0,0,Self,0,Adolescents
-999,0,0,1,1,1,0,0,0,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
-1000,1,0,1,1,1,0,1,1,0,1,28,7,f,Middle Eastern ,0,0,Self,1,Adolescents
-1001,1,0,0,0,0,0,1,1,0,1,28,4,m,Middle Eastern ,1,0,Self,0,Adults
-1002,1,1,0,1,0,0,1,1,0,0,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
-1003,1,0,0,0,0,0,1,0,1,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
-1004,1,0,0,0,1,0,1,0,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
-1005,1,0,1,0,1,0,1,1,0,1,28,6,f,Middle Eastern ,0,0,Self,0,Adults
-1006,1,0,1,0,0,1,0,1,0,0,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
-1007,1,1,1,1,0,0,1,0,0,0,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
-1008,1,0,0,0,0,0,1,1,0,1,28,4,m,Turkish,0,0,Others,0,Adolescents
-1009,1,0,1,1,1,1,0,1,1,1,28,8,m,Asian,0,1,Self,1,Adolescents
-1010,1,0,0,1,0,0,1,1,0,0,28,4,m,Others,0,0,Self,0,Adolescents
-1011,1,0,1,0,1,0,1,1,1,0,28,6,m,Others,0,0,Self,0,Adolescents
-1012,1,1,1,1,1,1,1,0,1,1,28,9,f,Black,0,0,family member,1,Adults
-1013,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,1,1,Self,1,Adults
-1014,1,1,1,1,1,1,0,1,1,0,28,8,f,White European,0,0,Self,1,Adults
-1015,1,1,1,1,0,0,0,0,0,1,28,5,f,White European,0,0,Self,0,Adolescents
-1016,1,1,0,0,1,1,0,1,0,1,28,6,f,Others,0,0,family member,0,Adults
-1017,1,1,0,0,0,0,0,1,0,1,28,4,f,Others,0,0,Self,0,Adolescents
-1018,1,0,1,1,1,0,1,0,0,1,28,6,m,Black,0,0,family member,0,Adolescents
-1019,0,1,1,1,1,0,1,0,0,1,28,6,m,White European,0,1,family member,0,Adults
-1020,1,1,1,1,1,0,0,1,0,1,28,7,f,Asian,0,0,Self,1,Adolescents
-1021,0,1,1,1,1,1,0,1,0,1,28,7,f,White European,0,1,Self,1,Adults
-1022,1,0,0,1,1,0,1,1,1,1,28,7,f,White European,0,0,Self,1,Adolescents
-1023,1,1,1,1,1,1,1,0,1,1,28,9,m,White European,0,0,Self,1,Adults
-1024,1,1,1,0,0,0,0,1,0,1,28,5,f,White European,0,0,Self,0,Adolescents
-1025,1,1,1,1,1,0,0,1,1,0,28,7,f,White European,0,0,Self,1,Adults
-1026,0,0,1,1,1,0,0,0,0,1,28,4,f,Others,1,0,Self,0,Adolescents
-1027,1,1,0,1,1,0,0,0,0,0,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
-1028,0,1,1,1,1,1,0,1,1,1,28,8,m,Middle Eastern ,1,0,Self,1,Adolescents
-1029,1,1,1,1,1,0,0,1,0,0,28,6,m,Hispanic or Latino,0,0,Self,0,Adults
-1030,0,1,1,1,1,1,0,0,1,0,28,6,f,Others,0,0,Health care professional,0,Adolescents
-1031,1,1,0,1,1,1,1,1,0,1,28,8,f,White European,1,0,Self,1,Adults
-1032,0,0,1,1,0,1,1,1,1,1,28,7,m,White European,0,0,family member,1,Adolescents
-1033,1,0,1,1,0,1,0,0,0,1,28,5,m,White European,0,0,family member,0,Adolescents
-1034,1,1,1,1,1,1,1,1,1,1,28,10,f,Asian,0,0,Self,1,Adults
-1035,1,1,1,1,1,0,1,1,0,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
-1036,1,0,1,1,1,0,0,0,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
-1037,1,0,0,1,1,0,1,0,0,0,28,4,f,Asian,0,0,Self,0,Adults
-1038,1,0,0,0,1,0,0,1,0,1,28,4,f,Asian,0,0,Self,0,Adults
-1039,1,0,0,0,1,0,1,1,0,0,28,4,f,Asian,0,0,Self,0,Adults
-1040,1,1,1,1,0,0,1,1,0,0,28,6,m,Asian,0,0,Self,0,Adolescents
-1041,1,0,1,1,0,0,1,1,0,0,28,5,m,Others,0,0,Self,0,Adolescents
-1042,1,1,1,1,1,1,1,0,1,1,28,9,m,White European,0,0,Self,1,Adults
-1043,1,1,0,1,1,1,0,0,1,1,28,7,f,White European,0,0,Self,1,Adults
-1044,0,1,1,0,0,0,1,0,0,1,28,4,m,Black,0,0,Self,0,Adolescents
-1045,1,1,1,1,0,0,0,1,0,0,28,5,f,White European,0,0,Self,0,Adolescents
-1046,1,1,1,1,0,0,1,1,1,0,28,7,m,Others,0,0,Self,1,Adults
-1047,1,0,0,0,1,0,1,1,0,1,28,5,m,Hispanic or Latino,0,0,Self,0,Adults
-1048,1,1,1,1,1,1,1,1,1,1,28,10,m,Hispanic or Latino,0,0,Self,1,Adults
-1049,1,1,1,1,0,0,1,0,0,1,28,6,m,White European,0,0,Self,0,Adults
-1050,0,1,1,1,1,1,1,0,1,1,28,8,m,Asian,0,0,Self,1,Adults
-1051,1,1,1,1,1,0,1,1,0,1,28,8,f,Black,0,0,Self,1,Adults
-1052,0,1,1,1,1,0,0,0,1,0,28,5,f,Black,0,1,family member,0,Adults
-1053,1,1,0,1,1,1,0,1,1,1,28,8,f,Hispanic or Latino,1,0,Self,1,Adults
-1054,0,1,0,0,1,0,1,1,0,0,28,4,m,White European,0,0,Self,0,Adults
-1055,1,0,1,1,1,0,0,1,0,1,28,6,f,White European,0,1,Self,0,Adolescents
-1056,1,0,1,1,1,0,1,1,1,1,28,8,m,White European,0,1,family member,1,Adolescents
-1057,1,0,1,0,1,0,1,1,0,1,28,6,m,Others,1,1,Self,0,Adults
-1058,1,0,1,0,0,0,1,0,0,1,28,4,m,Asian,0,0,Self,0,Adults
-1059,0,1,1,0,1,0,0,1,0,0,28,4,m,White European,0,0,Self,0,Adults
-1060,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,1,Self,1,Adults
-1061,0,1,1,1,1,1,1,1,0,1,28,8,f,White European,0,0,Self,1,Adolescents
-1062,1,1,1,1,1,1,1,0,1,1,28,9,m,White European,0,0,Self,1,Adults
-1063,1,1,1,0,0,0,0,0,0,1,28,4,f,Asian,0,0,Self,0,Adolescents
-1064,1,1,1,1,1,0,1,1,1,1,28,9,f,White European,0,0,Self,1,Adults
-1065,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,Self,1,Adults
-1066,1,1,0,1,0,0,1,0,0,0,28,4,f,White European,0,1,family member,0,Adults
-1067,1,0,1,1,1,0,1,0,1,1,28,7,m,Black,0,0,Self,1,Adults
-1068,1,1,1,1,1,0,0,1,1,1,28,8,f,White European,0,1,Self,1,Adults
-1069,1,1,1,1,1,0,0,1,0,1,28,7,f,White European,0,0,Self,1,Adults
-1070,1,1,1,1,1,0,1,0,1,0,28,7,f,White European,1,1,Self,1,Adults
-1071,1,1,0,1,1,1,0,0,0,1,28,6,m,Black,1,1,family member,0,Adolescents
-1072,1,1,1,1,0,1,0,1,1,1,28,8,m,White European,0,0,Self,1,Adults
-1073,1,0,0,0,0,0,1,1,0,1,28,4,f,Others,0,0,Self,0,Adolescents
-1074,0,0,0,1,0,0,1,1,0,1,28,4,m,Asian,0,0,Self,0,Adults
-1075,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,1,Self,1,Adults
-1076,1,1,0,0,0,0,1,1,0,0,28,4,f,Hispanic or Latino,0,0,family member,0,Adults
-1077,0,1,1,1,0,0,0,0,0,1,28,4,f,White European,1,0,Self,0,Adults
-1078,0,1,1,1,1,1,1,1,1,1,28,9,m,White European,0,0,Self,1,Adolescents
-1079,0,0,0,1,1,0,1,0,0,1,28,4,f,Others,0,0,Self,0,Adolescents
-1080,0,1,0,0,1,1,0,0,1,1,28,5,m,Others,0,0,Self,0,Adults
-1081,1,0,1,0,0,1,0,1,0,0,28,4,f,White European,0,0,Self,0,Adults
-1082,0,1,1,1,1,1,0,0,0,1,28,6,m,White European,0,0,family member,0,Adolescents
-1083,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,family member,1,Adolescents
-1084,0,1,1,1,1,1,1,1,1,1,28,9,f,Asian,0,0,Self,1,Adults
-1085,0,1,1,1,1,1,1,1,1,1,28,9,f,Asian,0,1,Self,1,Adults
-1086,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,1,0,Self,1,Adults
-1087,1,0,1,1,1,1,1,0,0,1,28,7,f,White European,1,0,Self,1,Adults
-1088,1,0,1,1,0,0,0,0,0,1,28,4,f,White European,0,1,Self,0,Adults
-1089,0,1,1,1,0,0,0,1,0,1,28,5,m,White European,0,0,Self,0,Adults
-1090,1,1,1,1,0,0,1,0,0,1,28,6,m,White European,0,0,Self,0,Adults
-1091,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,1,Self,1,Adults
-1092,1,1,1,0,1,0,1,0,1,1,28,7,m,Middle Eastern ,0,0,Self,1,Adolescents
-1093,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,family member,1,Adults
-1094,1,0,0,1,1,0,0,1,0,0,28,4,f,Hispanic or Latino,0,1,Self,0,Adolescents
-1095,1,1,0,1,1,0,0,0,0,0,28,4,m,Turkish,0,0,Self,0,Adults
-1096,1,1,1,1,1,1,1,1,0,1,28,9,f,White European,0,0,Self,1,Adolescents
-1097,0,1,1,1,1,1,0,0,0,1,28,6,f,White European,1,0,Self,0,Adolescents
-1098,1,1,1,1,1,1,1,0,1,1,28,9,f,White European,0,1,Self,1,Adults
-1099,1,0,0,1,1,1,1,1,1,1,28,8,m,Black,0,0,Self,1,Adolescents
-1100,0,1,0,1,0,1,1,0,1,1,28,6,f,Middle Eastern ,0,0,family member,0,Adolescents
-1101,1,0,0,0,0,0,1,1,1,0,28,4,m,White European,0,0,family member,0,Adolescents
-1102,0,1,0,0,1,1,0,0,1,0,28,4,m,Others,0,0,Self,0,Adolescents
-1103,0,1,0,1,0,1,0,0,0,1,28,4,m,Asian,0,0,Self,0,Adults
-1104,1,1,0,0,0,0,1,1,0,0,28,4,m,White European,0,0,Self,0,Adults
-1105,1,1,1,1,1,1,0,1,1,1,28,9,f,White European,1,1,Self,1,Adults
-1106,1,1,0,1,0,0,0,0,0,1,28,4,m,White European,0,0,Self,0,Adults
-1107,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,1,Self,1,Adults
-1108,1,0,0,0,1,0,1,1,0,0,28,4,f,White European,0,0,Self,0,Adolescents
-1109,1,0,0,0,1,0,1,1,0,0,28,4,f,White European,0,0,Self,0,Adolescents
-1110,1,1,0,0,1,1,1,1,1,1,28,8,m,White European,0,0,Self,1,Adolescents
-1111,1,1,1,1,1,0,1,1,1,1,28,9,m,White European,1,0,Self,1,Adults
-1112,1,1,1,1,1,0,0,1,1,1,28,8,f,White European,0,1,Self,1,Adults
-1113,1,1,0,0,1,0,0,0,0,1,28,4,f,Black,0,0,family member,0,Adults
-1114,1,1,0,0,1,1,0,1,1,0,28,6,f,Black,1,0,family member,0,Adults
-1115,1,1,0,1,1,1,0,1,1,0,28,7,f,Black,1,1,family member,1,Adults
-1116,1,1,1,1,1,0,0,1,0,1,28,7,m,Others,0,0,Self,1,Adults
-1117,1,0,1,1,0,0,1,0,0,1,28,5,f,White European,0,0,Self,0,Adults
-1118,1,1,1,1,1,1,1,1,1,1,28,10,m,Black,0,0,Self,1,Adolescents
-1119,1,1,1,1,1,1,0,1,1,1,28,9,m,Black,0,0,Self,1,Adolescents
-1120,1,0,1,1,1,1,1,1,1,1,28,9,f,Others,0,0,Self,1,Adults
-1121,0,1,1,1,0,0,0,1,1,0,28,5,f,Asian,0,0,Self,0,Adults
-1122,0,1,1,1,1,0,1,0,1,0,28,6,m,Middle Eastern ,0,0,Self,0,Adolescents
-1123,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,1,0,Self,1,Adults
-1124,1,0,0,0,1,0,0,0,1,1,28,4,m,Asian,0,0,Self,0,Adults
-1125,1,1,0,0,0,0,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adolescents
-1126,1,0,0,0,1,0,1,1,0,1,28,5,m,Asian,0,0,Self,0,Adolescents
-1127,1,0,1,1,0,0,0,1,1,1,28,6,f,Asian,0,0,family member,0,Adults
-1128,1,0,0,0,1,1,0,1,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
-1129,1,0,0,1,0,0,1,1,0,0,28,4,m,Asian,0,0,Self,0,Adolescents
-1130,0,0,1,0,1,1,0,1,0,1,28,5,m,Asian,0,0,Self,0,Adolescents
-1131,1,0,0,0,1,0,1,1,0,0,28,4,m,Asian,0,0,Self,0,Adolescents
-1132,1,1,1,1,0,0,0,0,0,1,28,5,f,Asian,0,0,Self,0,Adults
-1133,1,1,0,1,0,0,0,1,0,1,28,5,f,Asian,0,0,Self,0,Adolescents
-1134,1,0,1,1,0,1,0,1,0,1,28,6,f,Asian,0,0,Self,0,Adults
-1135,0,0,0,1,1,0,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adolescents
-1136,1,0,0,1,0,0,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adults
-1137,0,1,0,0,1,0,1,1,0,0,28,4,m,Asian,0,0,Self,0,Adults
-1138,1,0,1,1,1,0,1,1,1,0,28,7,f,Asian,0,0,Self,1,Adolescents
-1139,1,0,0,0,1,0,1,1,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
-1140,1,0,0,1,1,0,1,1,1,1,28,7,m,Asian,0,0,Self,1,Adolescents
-1141,1,0,1,0,1,0,1,1,0,1,28,6,f,Asian,0,0,Self,0,Adolescents
-1142,1,0,0,0,1,0,1,1,0,1,28,5,f,Others,0,0,Self,0,Adolescents
-1143,1,0,0,0,1,0,1,1,1,1,28,6,f,Asian,0,0,Self,0,Adolescents
-1144,1,1,0,1,1,0,1,1,0,0,28,6,m,Asian,0,0,Self,0,Adults
-1145,1,1,0,0,1,0,0,1,1,1,28,6,f,Middle Eastern ,0,0,Self,0,Adolescents
-1146,1,0,1,0,1,0,1,1,1,1,28,7,m,Black,0,0,Self,1,Adolescents
-1147,0,1,1,0,0,0,1,0,0,1,28,4,m,White European,0,0,Self,0,Adults
-1148,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,0,Self,1,Adolescents
-1149,1,1,0,1,1,0,0,1,0,0,28,5,m,Black,0,0,Self,0,Adolescents
-1150,1,0,0,0,1,1,1,1,1,1,28,7,m,Black,0,0,family member,1,Adults
-1151,1,1,1,0,0,0,0,1,0,0,28,4,m,Asian,0,0,Self,0,Adolescents
-1152,1,0,1,1,1,0,1,1,1,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adults
-1153,1,0,1,1,1,0,0,1,0,1,28,6,m,Middle Eastern ,1,0,family member,0,Adolescents
-1154,1,0,1,1,0,0,1,1,1,1,28,7,m,Others,0,1,Self,1,Adolescents
-1155,1,1,1,1,0,0,0,0,0,0,28,4,f,Middle Eastern ,0,0,Self,0,Adults
-1156,1,0,1,0,0,1,0,1,0,1,28,5,m,White European,1,0,family member,0,Adolescents
-1157,1,0,1,1,1,0,0,0,0,0,28,4,f,Middle Eastern ,0,0,Self,0,Adults
-1158,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,1,Self,1,Adults
-1159,1,1,1,1,1,0,1,1,1,1,28,9,m,Asian,0,0,Self,1,Adults
-1160,1,0,0,1,1,0,1,0,0,1,28,5,f,White European,0,1,Self,0,Adults
-1161,1,0,0,0,1,0,1,0,1,1,28,5,m,Asian,0,0,Self,0,Adolescents
-1162,1,1,0,0,1,0,1,0,1,0,28,5,m,Others,0,0,Self,0,Adults
-1163,1,1,1,1,1,1,0,0,1,1,28,8,m,Others,0,0,Self,1,Adults
-1164,1,1,1,0,1,1,0,1,1,1,28,8,f,White European,0,0,Self,1,Adolescents
-1165,1,1,1,1,1,1,0,1,1,1,28,9,f,Others,1,1,Self,1,Adults
-1166,1,0,0,1,1,1,0,0,1,0,28,5,m,White European,0,0,Self,0,Adolescents
-1167,1,0,0,0,0,0,1,1,0,1,28,4,m,White European,0,0,Self,0,Adults
-1168,1,1,1,1,1,1,1,0,1,1,28,9,m,White European,0,0,Self,1,Adults
-1169,1,0,0,0,0,0,1,1,0,1,28,4,m,White European,0,0,Self,0,Adults
-1170,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
-1171,1,1,1,1,1,0,1,1,1,1,28,9,m,Others,0,0,Self,1,Adults
-1172,1,1,1,1,1,0,0,1,0,1,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
-1173,1,1,1,1,1,0,1,1,0,1,28,8,m,White European,0,0,Self,1,Adolescents
-1174,1,1,1,0,1,0,1,1,1,1,28,8,m,Hispanic or Latino,0,0,Self,1,Adults
-1175,1,1,0,0,1,1,0,1,0,1,28,6,f,White European,1,0,Self,0,Adults
-1176,1,1,1,1,0,0,0,0,1,0,28,5,f,White European,1,0,Self,0,Adolescents
-1177,1,1,0,0,0,0,1,0,0,1,28,4,m,White European,1,0,family member,0,Adults
-1178,1,1,1,1,1,0,0,1,1,1,28,8,f,Black,0,0,Self,1,Adults
-1179,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,1,Self,1,Adults
-1180,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,1,1,family member,1,Adults
-1181,1,1,0,1,1,1,1,1,1,1,28,9,f,Hispanic or Latino,0,0,Self,1,Adults
-1182,1,1,0,0,0,0,0,1,1,0,28,4,f,White European,1,1,Self,0,Adults
-1183,1,0,1,0,0,0,0,1,0,1,28,4,m,Hispanic or Latino,0,0,family member,0,Adults
-1184,1,0,1,1,1,0,0,1,1,1,28,7,m,White European,0,1,Self,1,Adults
-1185,1,0,0,0,1,0,1,1,0,1,28,5,m,White European,0,0,Self,0,Adults
-1186,1,1,1,0,1,1,1,1,1,1,28,9,m,White European,0,0,Self,1,Adults
-1187,1,0,1,1,1,1,1,0,1,1,28,8,m,Black,0,0,Self,1,Adults
-1188,1,0,0,0,1,1,1,1,1,1,28,7,f,White European,0,0,Self,1,Adults
-1189,1,0,0,1,0,0,1,1,0,0,28,4,m,Black,0,0,Self,0,Adolescents
-1190,1,1,1,0,1,1,1,1,0,1,28,8,m,White European,0,0,Self,1,Adults
-1191,1,0,0,1,0,0,0,1,0,1,28,4,f,White European,0,0,Self,0,Adults
-1192,1,1,1,1,1,0,0,1,0,1,28,7,m,White European,1,0,Self,1,Adults
-1193,1,0,1,1,0,0,1,1,0,0,28,5,m,Hispanic or Latino,0,0,family member,0,Adults
-1194,1,1,1,1,1,1,0,1,1,1,28,9,m,Turkish,0,1,Self,1,Adults
-1195,1,1,1,1,1,0,0,0,0,1,28,6,f,Asian,0,0,Self,0,Adults
-1196,1,1,1,1,1,1,1,1,1,1,28,10,f,Pacifica,0,0,Self,1,Adults
-1197,0,1,0,1,1,0,1,1,1,1,28,7,f,White European,0,0,Self,1,Adolescents
-1198,1,0,1,1,1,0,1,1,0,1,28,7,f,Others,0,0,Self,1,Adolescents
-1199,1,0,0,1,1,0,1,0,1,1,28,6,m,Asian,0,0,Self,0,Adults
-1200,1,0,1,1,1,0,1,1,1,1,28,8,f,White European,0,0,Self,1,Adults
+0,0,0,0,0,0,0,1,1,0,1,28,3,f,Middle Eastern ,1,0,family member,0,Toddlers
+1,1,1,0,0,0,1,1,0,0,0,36,4,m,White European,1,0,family member,1,Toddlers
+2,1,0,0,0,0,0,1,1,0,1,36,4,m,Middle Eastern ,1,0,family member,1,Toddlers
+3,1,1,1,1,1,1,1,1,1,1,24,10,m,Hispanic or Latino,0,0,family member,1,Toddlers
+4,1,1,0,1,1,1,1,1,1,1,20,9,f,White European,0,1,family member,1,Toddlers
+5,1,1,0,0,1,1,1,1,1,1,21,8,m,Black,0,0,family member,1,Toddlers
+6,1,0,0,1,1,1,0,0,1,0,33,5,m,Asian,1,0,family member,1,Toddlers
+7,0,1,0,0,1,0,1,1,1,1,33,6,m,Asian,1,0,family member,1,Toddlers
+8,1,1,1,0,1,1,0,1,1,1,22,8,m,Asian,0,0,Health care professional,1,Toddlers
+9,1,0,0,1,0,1,1,0,1,1,36,6,m,Hispanic or Latino,1,1,family member,1,Toddlers
+10,1,1,1,1,0,1,1,1,0,1,17,8,m,Middle Eastern ,1,0,family member,1,Toddlers
+11,1,1,1,1,0,0,1,0,1,1,15,7,f,Middle Eastern ,1,0,family member,1,Toddlers
+12,1,1,1,0,1,0,1,1,0,1,12,7,m,Black,0,0,family member,1,Toddlers
+13,1,1,1,0,1,1,1,1,0,1,12,8,f,Middle Eastern ,1,0,family member,1,Toddlers
+14,1,0,0,0,1,0,0,0,0,1,29,3,f,Middle Eastern ,0,0,family member,0,Toddlers
+15,1,1,1,0,1,0,1,1,0,1,12,7,f,Black,0,0,family member,1,Toddlers
+16,1,0,0,1,1,1,1,1,1,0,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+17,1,0,1,1,1,1,1,0,1,0,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+18,1,0,1,1,0,1,0,1,1,1,36,7,m,Native Indian,1,1,Health care professional,1,Toddlers
+19,1,1,1,0,1,1,0,1,1,0,36,7,m,Middle Eastern ,1,1,family member,1,Toddlers
+20,1,1,1,1,1,1,1,1,1,0,22,9,m,White European,0,0,family member,1,Toddlers
+21,1,1,0,1,1,1,1,1,0,1,36,8,m,Middle Eastern ,0,0,family member,1,Toddlers
+22,1,1,1,1,1,1,1,1,1,1,35,10,m,Others,1,0,family member,1,Toddlers
+23,0,0,1,1,1,0,1,1,1,1,36,7,m,Middle Eastern ,0,1,family member,1,Toddlers
+24,1,1,1,1,1,1,1,1,1,1,15,10,f,Middle Eastern ,0,0,family member,1,Toddlers
+25,1,1,1,1,1,1,1,1,1,1,12,10,f,Middle Eastern ,0,0,family member,1,Toddlers
+26,0,0,1,1,0,1,1,0,1,1,36,6,f,White European,0,0,family member,1,Toddlers
+27,1,0,0,0,0,1,1,0,1,1,32,5,f,Asian,0,0,family member,1,Toddlers
+28,0,0,0,1,1,1,1,1,1,0,25,6,m,Asian,0,0,family member,1,Toddlers
+29,1,1,0,0,1,1,1,1,1,1,36,8,m,White European,1,0,family member,1,Toddlers
+30,0,0,1,1,1,1,1,0,0,0,30,5,m,White European,0,0,family member,1,Toddlers
+31,0,0,1,1,0,0,0,0,1,0,36,3,m,Middle Eastern ,1,1,family member,0,Toddlers
+32,1,1,1,1,1,1,1,0,1,1,12,9,f,White European,0,1,family member,1,Toddlers
+33,0,0,0,0,1,0,1,1,0,1,36,4,f,Middle Eastern ,1,0,family member,1,Toddlers
+34,1,0,1,1,1,1,1,0,1,1,18,8,f,Asian,1,1,family member,1,Toddlers
+35,1,1,0,0,1,1,1,1,0,0,34,6,m,Others,0,0,family member,1,Toddlers
+36,0,0,1,1,1,1,1,0,1,1,34,7,m,Asian,0,0,family member,1,Toddlers
+37,1,1,1,1,1,1,1,1,1,1,21,10,f,White European,0,0,family member,1,Toddlers
+38,1,1,0,0,1,0,1,0,0,0,26,4,m,Asian,0,0,family member,1,Toddlers
+39,1,0,0,1,1,1,1,1,1,0,19,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+40,1,0,0,0,0,0,0,1,0,1,30,3,m,Middle Eastern ,0,0,Health care professional,0,Toddlers
+41,1,0,1,1,0,1,1,1,1,0,29,7,m,Asian,0,0,family member,1,Toddlers
+42,1,1,0,1,1,1,1,1,0,1,36,8,f,White European,1,0,family member,1,Toddlers
+43,1,0,1,1,0,1,1,1,1,0,30,7,m,Asian,0,0,family member,1,Toddlers
+44,1,1,0,1,0,1,1,0,0,1,30,6,m,Middle Eastern ,0,0,family member,1,Toddlers
+45,0,0,0,1,1,1,0,0,1,1,23,5,m,White European,1,1,family member,1,Toddlers
+46,0,0,0,1,0,0,1,0,0,1,20,3,m,Middle Eastern ,0,0,family member,0,Toddlers
+47,1,0,0,0,1,0,1,0,1,0,34,4,m,Asian,0,0,family member,1,Toddlers
+48,1,1,1,1,1,1,1,1,1,0,34,9,m,Asian,0,0,family member,1,Toddlers
+49,1,0,0,0,0,0,1,0,0,1,34,3,m,Asian,0,0,family member,0,Toddlers
+50,1,1,0,0,1,1,1,1,1,0,32,7,m,Asian,0,0,family member,1,Toddlers
+51,0,0,0,1,0,0,1,1,1,1,33,5,m,Asian,0,0,family member,1,Toddlers
+52,1,0,1,1,1,1,1,0,1,1,24,8,f,Asian,0,0,family member,1,Toddlers
+53,1,0,0,0,1,0,1,1,1,1,34,6,m,Asian,0,0,family member,1,Toddlers
+54,0,0,0,0,0,1,1,1,0,1,31,4,f,Middle Eastern ,0,1,family member,1,Toddlers
+55,1,0,0,1,0,1,1,0,0,1,31,5,f,Middle Eastern ,1,0,family member,1,Toddlers
+56,1,1,0,0,0,0,0,1,1,0,36,4,m,Middle Eastern ,0,0,family member,1,Toddlers
+57,1,1,0,0,0,1,0,0,0,1,31,4,f,Middle Eastern ,1,0,family member,1,Toddlers
+58,1,1,1,1,1,1,1,1,1,0,25,9,m,Middle Eastern ,0,0,family member,1,Toddlers
+59,1,1,0,0,1,1,0,1,0,1,24,6,m,Middle Eastern ,0,0,family member,1,Toddlers
+60,1,1,0,0,1,1,1,1,0,1,36,7,f,Middle Eastern ,0,0,family member,1,Toddlers
+61,0,1,0,0,0,0,1,1,0,1,36,4,m,Asian,0,0,family member,1,Toddlers
+62,1,1,0,0,1,1,1,0,1,1,30,7,m,White European,1,1,family member,1,Toddlers
+63,0,0,1,1,1,1,1,1,1,1,32,8,m,Asian,0,0,family member,1,Toddlers
+64,0,0,1,1,0,0,1,0,0,1,32,4,m,Asian,0,0,family member,1,Toddlers
+65,1,1,1,1,1,1,1,1,1,1,29,10,m,White European,0,0,family member,1,Toddlers
+66,1,1,0,0,0,1,0,0,0,0,28,3,m,Middle Eastern ,0,0,family member,0,Toddlers
+67,1,1,0,1,1,1,0,0,0,1,18,6,m,Hispanic or Latino,1,1,family member,1,Toddlers
+68,0,1,0,1,1,0,1,0,0,1,27,5,m,Asian,0,0,family member,1,Toddlers
+69,0,1,0,0,0,1,1,1,0,1,27,5,f,White European,0,1,family member,1,Toddlers
+70,1,1,0,1,1,1,1,0,1,1,19,8,m,White European,0,0,family member,1,Toddlers
+71,1,0,0,0,1,0,1,1,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
+72,0,0,1,1,1,1,1,0,0,1,17,6,f,White European,1,0,family member,1,Toddlers
+73,1,1,0,1,1,1,1,0,0,1,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+74,1,1,1,0,1,1,1,0,0,1,36,7,f,Asian,0,0,family member,1,Toddlers
+75,1,0,1,1,1,0,0,1,1,1,20,7,m,Asian,0,0,family member,1,Toddlers
+76,1,1,0,0,1,0,0,1,0,0,33,4,f,Asian,1,1,family member,1,Toddlers
+77,1,1,1,1,1,1,1,1,1,1,24,10,m,Middle Eastern ,1,0,family member,1,Toddlers
+78,0,0,1,1,1,0,0,0,1,0,36,4,m,Asian,1,0,family member,1,Toddlers
+79,1,1,1,1,1,1,1,1,1,0,35,9,m,Asian,0,0,family member,1,Toddlers
+80,1,1,0,0,0,0,0,1,1,0,26,4,f,Asian,1,0,family member,1,Toddlers
+81,1,1,1,1,1,1,1,1,1,0,23,9,m,Asian,0,0,family member,1,Toddlers
+82,1,1,0,1,1,0,1,0,1,1,24,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+83,1,1,0,0,0,1,0,1,0,1,36,5,f,White European,0,0,family member,1,Toddlers
+84,0,1,0,0,0,0,1,0,0,1,36,3,f,Asian,0,0,family member,0,Toddlers
+85,0,0,0,0,1,1,1,0,0,0,26,3,f,Middle Eastern ,1,0,family member,0,Toddlers
+86,1,1,1,1,1,1,1,1,1,0,23,9,m,Asian,0,0,family member,1,Toddlers
+87,1,1,0,1,1,1,0,1,1,0,23,7,m,Asian,0,0,family member,1,Toddlers
+88,0,1,0,1,0,0,1,0,0,1,33,4,m,Asian,0,0,family member,1,Toddlers
+89,0,0,0,1,0,0,1,0,0,1,33,3,m,Asian,0,0,family member,0,Toddlers
+90,1,1,1,1,1,1,1,1,1,0,26,9,m,White European,0,0,family member,1,Toddlers
+91,1,1,0,1,0,0,1,0,0,1,33,5,m,Asian,0,0,family member,1,Toddlers
+92,1,1,0,1,1,1,1,1,1,1,36,9,m,Middle Eastern ,0,0,family member,1,Toddlers
+93,1,1,1,1,1,1,1,0,1,1,24,9,f,White European,0,1,family member,1,Toddlers
+94,0,0,1,1,1,1,0,1,1,0,28,6,m,Middle Eastern ,0,0,family member,1,Toddlers
+95,0,1,1,1,0,1,0,1,0,1,36,6,m,Asian,0,0,family member,1,Toddlers
+96,0,1,1,1,0,1,1,1,1,1,30,8,m,Asian,0,0,family member,1,Toddlers
+97,0,1,0,1,1,1,1,1,1,1,23,8,m,White European,0,0,family member,1,Toddlers
+98,1,0,1,1,1,1,0,0,1,0,12,6,m,White European,1,0,family member,1,Toddlers
+99,1,1,1,1,1,1,1,0,1,1,29,9,m,White European,1,0,family member,1,Toddlers
+100,0,0,0,0,1,1,1,0,0,0,22,3,m,White European,0,1,family member,0,Toddlers
+101,0,1,0,0,0,0,1,0,0,1,36,3,f,Asian,0,0,family member,0,Toddlers
+102,0,0,0,1,1,1,0,0,0,0,19,3,f,Others,0,0,family member,0,Toddlers
+103,0,1,1,1,1,0,1,0,1,1,23,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+104,1,0,0,0,1,1,0,1,0,1,33,5,m,Asian,0,1,family member,1,Toddlers
+105,0,0,1,0,1,0,0,0,0,1,33,3,m,Asian,0,1,family member,0,Toddlers
+106,1,0,1,0,0,1,0,0,0,0,33,3,m,Asian,0,1,family member,0,Toddlers
+107,1,0,1,0,0,1,0,0,0,0,33,3,m,Asian,0,1,family member,0,Toddlers
+108,0,1,0,1,0,1,1,1,0,0,12,5,f,White European,0,0,family member,1,Toddlers
+109,1,0,0,0,0,1,0,0,1,0,33,3,m,Asian,0,1,family member,0,Toddlers
+110,1,0,1,1,0,0,0,0,0,0,30,3,m,Asian,1,0,family member,0,Toddlers
+111,1,0,1,1,1,1,1,1,1,1,35,9,m,Asian,0,0,family member,1,Toddlers
+112,0,0,0,0,1,0,1,0,1,1,12,4,f,White European,1,0,family member,1,Toddlers
+113,1,0,1,1,1,1,1,1,1,1,30,9,m,Asian,1,0,family member,1,Toddlers
+114,1,1,0,0,0,0,0,0,0,1,32,3,m,White European,0,1,family member,0,Toddlers
+115,1,1,0,0,0,0,0,0,0,1,31,3,m,White European,1,0,family member,0,Toddlers
+116,1,0,0,0,1,1,1,0,0,1,24,5,m,White European,0,1,family member,1,Toddlers
+117,0,0,0,0,0,0,1,1,0,1,27,3,f,Asian,0,0,family member,0,Toddlers
+118,1,1,0,0,0,0,1,0,0,1,27,4,f,Asian,0,0,family member,1,Toddlers
+119,1,0,0,1,0,1,0,0,0,0,36,3,m,Middle Eastern ,0,0,Health care professional,0,Toddlers
+120,1,1,1,1,0,1,1,0,1,1,36,8,f,Asian,1,0,family member,1,Toddlers
+121,1,1,0,1,0,1,1,0,1,0,36,6,f,Asian,1,0,family member,1,Toddlers
+122,1,1,0,0,0,1,1,1,1,1,20,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+123,1,0,1,1,1,1,1,0,1,1,20,8,m,Asian,0,0,family member,1,Toddlers
+124,0,1,1,0,1,0,1,0,0,1,35,5,m,Middle Eastern ,0,1,family member,1,Toddlers
+125,1,1,1,1,1,1,1,1,0,1,36,9,f,Asian,0,0,family member,1,Toddlers
+126,1,1,1,1,0,1,1,1,1,1,30,9,f,Black,0,0,family member,1,Toddlers
+127,1,0,1,1,1,1,1,0,0,1,30,7,f,Black,0,0,family member,1,Toddlers
+128,1,0,0,0,0,0,1,1,0,1,34,4,m,White European,1,1,family member,1,Toddlers
+129,1,1,1,1,0,1,1,1,0,0,36,7,m,Hispanic or Latino,1,0,family member,1,Toddlers
+130,1,1,0,0,0,0,1,0,0,1,15,4,m,Middle Eastern ,1,0,family member,1,Toddlers
+131,1,1,1,1,1,1,1,0,1,1,36,9,m,White European,0,1,family member,1,Toddlers
+132,0,0,0,1,1,1,1,1,0,0,36,5,m,White European,0,0,family member,1,Toddlers
+133,0,1,0,1,0,1,0,0,0,0,15,3,m,Middle Eastern ,1,0,family member,0,Toddlers
+134,0,1,1,1,0,0,0,0,0,0,30,3,m,Asian,0,0,family member,0,Toddlers
+135,1,1,0,0,1,1,1,1,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
+136,0,1,0,0,1,1,1,1,1,1,36,7,f,Middle Eastern ,0,0,family member,1,Toddlers
+137,1,1,1,1,1,1,1,1,1,1,16,10,f,White European,1,0,family member,1,Toddlers
+138,0,0,0,0,0,0,1,1,1,1,25,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
+139,0,0,0,1,0,0,0,1,0,1,35,3,m,Middle Eastern ,0,0,family member,0,Toddlers
+140,0,0,0,0,0,1,0,0,1,1,13,3,f,Middle Eastern ,0,0,family member,0,Toddlers
+141,1,1,1,1,1,1,1,0,1,1,25,9,f,White European,0,1,family member,1,Toddlers
+142,0,1,0,1,1,1,1,1,0,1,22,7,m,Black,0,0,family member,1,Toddlers
+143,0,1,1,1,1,1,1,1,0,1,23,8,m,Black,0,0,family member,1,Toddlers
+144,1,1,1,1,0,0,1,0,1,0,36,6,f,White European,0,0,family member,1,Toddlers
+145,1,1,0,0,0,0,0,1,0,1,36,4,m,White European,0,0,family member,1,Toddlers
+146,1,1,1,1,1,1,1,1,1,0,21,9,m,Middle Eastern ,1,0,family member,1,Toddlers
+147,1,1,1,1,1,1,1,1,0,1,22,9,m,Black,0,0,family member,1,Toddlers
+148,0,0,0,0,1,0,1,1,0,1,30,4,f,Asian,0,1,family member,1,Toddlers
+149,1,1,0,1,0,0,1,1,1,1,13,7,m,Black,1,1,family member,1,Toddlers
+150,1,0,0,1,1,0,1,1,1,1,20,7,f,Middle Eastern ,0,0,family member,1,Toddlers
+151,1,1,0,1,1,1,1,1,1,1,22,9,f,Asian,0,0,family member,1,Toddlers
+152,1,0,0,0,1,1,1,0,1,0,33,5,m,Asian,0,0,Health care professional,1,Toddlers
+153,1,0,0,0,0,1,1,0,1,1,33,5,m,Asian,0,0,family member,1,Toddlers
+154,1,0,1,1,1,1,1,1,1,1,36,9,m,Asian,0,0,family member,1,Toddlers
+155,1,1,1,1,1,1,1,1,1,1,20,10,m,Middle Eastern ,0,1,family member,1,Toddlers
+156,0,1,0,1,1,0,0,0,1,0,36,4,m,Asian,1,0,family member,1,Toddlers
+157,0,0,0,1,1,1,1,1,0,1,36,6,m,Asian,1,0,family member,1,Toddlers
+158,1,1,1,1,0,0,1,1,0,1,36,7,m,Asian,0,0,family member,1,Toddlers
+159,1,0,0,0,1,1,1,1,0,0,31,5,m,White European,1,0,family member,1,Toddlers
+160,0,0,0,0,0,1,1,1,0,0,31,3,m,White European,1,0,family member,0,Toddlers
+161,1,1,1,1,1,1,1,1,1,1,15,10,f,Middle Eastern ,0,0,family member,1,Toddlers
+162,0,1,1,1,1,1,0,1,1,0,19,7,f,Middle Eastern ,0,0,family member,1,Toddlers
+163,1,0,1,1,1,1,0,1,1,0,19,7,f,Middle Eastern ,0,0,family member,1,Toddlers
+164,1,1,1,0,1,1,0,0,1,0,24,6,m,White European,1,0,family member,1,Toddlers
+165,0,1,1,1,1,0,1,1,1,1,28,8,m,Asian,1,0,family member,1,Toddlers
+166,1,0,0,1,1,1,0,0,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
+167,1,1,1,0,0,1,1,1,1,1,28,8,m,Middle Eastern ,0,1,family member,1,Toddlers
+168,1,1,1,1,1,1,1,1,1,1,18,10,m,White European,1,0,family member,1,Toddlers
+169,1,1,0,1,1,1,1,1,1,1,36,9,m,Black,0,1,Health care professional,1,Toddlers
+170,0,0,0,0,1,0,1,1,1,0,23,4,f,Asian,0,0,family member,1,Toddlers
+171,0,0,0,1,1,1,1,1,1,1,36,7,m,White European,0,0,family member,1,Toddlers
+172,1,1,1,1,1,1,1,1,0,0,36,8,m,Asian,0,0,family member,1,Toddlers
+173,1,1,1,1,1,1,1,1,0,1,31,9,m,White European,0,0,family member,1,Toddlers
+174,1,1,1,1,1,1,1,1,0,1,31,9,m,White European,0,0,family member,1,Toddlers
+175,1,0,1,1,1,0,1,1,1,1,35,8,m,White European,0,1,family member,1,Toddlers
+176,1,1,0,0,1,1,1,0,1,1,23,7,m,White European,1,0,family member,1,Toddlers
+177,1,0,0,0,0,1,1,0,0,0,27,3,m,White European,1,1,family member,0,Toddlers
+178,1,1,1,0,0,1,1,0,1,1,33,7,f,Others,0,0,family member,1,Toddlers
+179,1,1,1,1,1,1,1,1,1,0,36,9,m,White European,1,1,family member,1,Toddlers
+180,1,0,1,1,0,1,0,0,1,0,30,5,f,Middle Eastern ,0,0,family member,1,Toddlers
+181,1,0,1,1,0,1,0,0,0,0,30,4,m,Middle Eastern ,0,0,family member,1,Toddlers
+182,0,0,1,1,1,1,1,1,1,0,16,7,f,Asian,0,0,family member,1,Toddlers
+183,0,0,0,0,1,1,1,0,0,0,36,3,m,Asian,1,0,family member,0,Toddlers
+184,0,1,0,0,1,1,1,1,0,1,36,6,m,Asian,0,0,family member,1,Toddlers
+185,0,0,0,1,1,1,1,1,0,0,36,5,m,Hispanic or Latino,0,0,family member,1,Toddlers
+186,1,0,1,1,0,1,1,1,1,1,30,8,m,White European,0,0,family member,1,Toddlers
+187,1,1,0,1,0,0,1,0,0,1,29,5,m,Black,0,0,family member,1,Toddlers
+188,1,0,1,0,0,1,0,0,0,0,36,3,m,Asian,0,1,family member,0,Toddlers
+189,1,0,1,0,0,1,0,0,0,0,36,3,m,Asian,0,1,family member,0,Toddlers
+190,1,1,0,1,1,1,1,0,1,1,32,8,m,Asian,1,0,family member,1,Toddlers
+191,1,1,0,0,0,1,1,0,1,0,32,5,m,Asian,0,0,family member,1,Toddlers
+192,0,1,0,1,1,1,1,1,1,0,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+193,0,1,0,1,1,1,0,1,1,1,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+194,1,1,1,1,1,1,1,1,1,0,12,9,m,White European,1,0,family member,1,Toddlers
+195,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Toddlers
+196,1,1,1,1,1,1,1,1,1,0,27,9,m,White European,0,0,family member,1,Toddlers
+197,1,1,0,1,1,1,1,0,0,1,15,7,f,White European,1,0,family member,1,Toddlers
+198,1,1,1,1,1,1,1,0,1,1,36,9,f,White European,1,0,family member,1,Toddlers
+199,1,1,0,0,1,1,1,1,1,1,28,8,m,White European,0,0,family member,1,Toddlers
+200,1,1,0,0,0,0,0,0,0,1,24,3,f,Hispanic or Latino,0,0,family member,0,Toddlers
+201,0,0,0,0,1,1,1,0,0,1,31,4,m,Hispanic or Latino,1,0,family member,1,Toddlers
+202,0,0,1,1,1,1,1,0,1,1,23,7,m,Asian,0,1,family member,1,Toddlers
+203,1,1,0,0,0,0,1,0,1,0,36,4,m,White European,1,0,family member,1,Toddlers
+204,1,1,0,0,0,1,1,0,0,1,26,5,m,White European,1,0,family member,1,Toddlers
+205,1,0,0,1,1,0,1,0,1,1,20,6,m,Middle Eastern ,0,0,family member,1,Toddlers
+206,0,0,0,1,0,1,1,0,1,0,20,4,m,Middle Eastern ,0,0,family member,1,Toddlers
+207,1,1,0,0,0,1,1,1,1,0,31,6,f,Asian,1,0,family member,1,Toddlers
+208,0,1,0,0,1,1,1,0,0,1,12,5,f,Hispanic or Latino,1,1,family member,1,Toddlers
+209,1,0,0,0,1,0,0,0,0,1,33,3,m,White European,0,0,family member,0,Toddlers
+210,1,1,1,1,0,1,1,1,1,0,36,8,m,Middle Eastern ,1,1,family member,1,Toddlers
+211,1,1,1,1,1,1,1,0,1,1,17,9,m,Hispanic or Latino,1,1,family member,1,Toddlers
+212,1,1,1,1,0,1,1,1,0,1,24,8,f,Hispanic or Latino,0,1,family member,1,Toddlers
+213,1,1,0,1,1,0,1,1,1,1,18,8,f,White European,0,0,family member,1,Toddlers
+214,1,0,1,1,1,1,1,1,1,1,26,9,m,Others,0,1,family member,1,Toddlers
+215,1,1,0,1,1,0,1,1,1,0,23,7,m,Asian,0,0,family member,1,Toddlers
+216,1,1,1,1,1,1,1,0,1,0,21,8,m,Asian,0,0,family member,1,Toddlers
+217,1,0,1,1,0,1,1,1,1,0,36,7,m,White European,0,0,family member,1,Toddlers
+218,0,0,0,0,1,1,1,0,1,1,33,5,m,White European,1,0,family member,1,Toddlers
+219,1,1,1,1,1,1,1,1,1,1,33,10,m,Asian,1,0,family member,1,Toddlers
+220,1,1,0,0,1,1,1,0,0,0,36,5,m,White European,0,0,family member,1,Toddlers
+221,1,1,1,0,1,0,0,0,1,0,36,5,m,Asian,1,1,Health care professional,1,Toddlers
+222,0,0,0,0,1,1,1,1,1,1,36,6,m,White European,0,0,family member,1,Toddlers
+223,1,0,0,0,1,1,1,0,1,0,32,5,f,Asian,1,0,family member,1,Toddlers
+224,1,1,1,1,1,1,1,1,1,1,26,10,m,Asian,0,0,family member,1,Toddlers
+225,0,0,1,0,1,1,1,1,1,0,26,6,m,Asian,0,0,family member,1,Toddlers
+226,0,0,1,0,1,0,1,1,1,1,26,6,m,Asian,0,0,family member,1,Toddlers
+227,0,0,1,1,1,1,1,0,1,1,14,7,m,White European,1,0,family member,1,Toddlers
+228,0,1,0,1,0,1,1,1,1,1,16,7,m,Middle Eastern ,1,1,family member,1,Toddlers
+229,1,1,0,1,0,0,0,1,0,1,28,5,m,White European,1,0,family member,1,Toddlers
+230,0,1,0,0,1,1,1,0,1,0,30,5,m,Asian,0,0,family member,1,Toddlers
+231,1,1,1,1,1,1,1,1,1,1,12,10,f,Asian,0,0,family member,1,Toddlers
+232,1,1,1,1,1,1,1,1,1,1,32,10,m,White European,1,0,family member,1,Toddlers
+233,1,1,0,0,1,0,1,0,0,0,31,4,m,White European,1,0,family member,1,Toddlers
+234,1,1,0,0,0,1,1,0,1,0,23,5,m,White European,1,0,family member,1,Toddlers
+235,1,0,0,1,0,1,0,0,0,0,29,3,f,Middle Eastern ,0,0,family member,0,Toddlers
+236,0,1,1,1,1,1,0,1,1,0,12,7,m,Black,1,0,family member,1,Toddlers
+237,1,0,1,1,1,0,1,0,0,0,23,5,m,Asian,0,0,family member,1,Toddlers
+238,0,0,1,1,1,1,1,1,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
+239,1,1,1,1,1,0,0,0,0,1,36,6,f,White European,1,0,family member,1,Toddlers
+240,0,1,1,1,1,0,1,0,1,0,26,6,m,Asian,0,0,family member,1,Toddlers
+241,1,0,0,0,0,1,1,1,0,1,36,5,f,White European,1,0,family member,1,Toddlers
+242,0,1,1,1,0,0,0,1,0,0,36,4,m,Asian,0,0,family member,1,Toddlers
+243,1,1,1,1,1,1,1,1,1,1,33,10,m,White European,0,1,family member,1,Toddlers
+244,1,0,1,1,1,1,1,1,1,1,36,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
+245,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,1,0,family member,1,Toddlers
+246,1,1,0,0,1,1,0,1,1,1,36,7,f,White European,0,0,family member,1,Toddlers
+247,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Toddlers
+248,1,1,1,1,1,0,1,1,1,1,12,9,m,Asian,0,0,family member,1,Toddlers
+249,0,1,0,0,1,1,1,1,1,0,36,6,m,Asian,0,0,family member,1,Toddlers
+250,0,0,0,0,1,1,1,1,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
+251,1,1,0,0,1,0,1,1,0,0,36,5,m,Black,1,0,family member,1,Toddlers
+252,1,1,0,0,1,0,1,1,1,0,36,6,m,Asian,0,0,family member,1,Toddlers
+253,0,1,0,0,0,1,1,0,1,0,36,4,m,Asian,1,0,family member,1,Toddlers
+254,1,0,1,1,1,1,0,1,0,0,34,6,m,Asian,0,0,family member,1,Toddlers
+255,1,1,1,1,1,1,1,1,0,0,24,8,m,Black,1,1,Health care professional,1,Toddlers
+256,1,1,0,0,1,1,1,0,1,1,14,7,m,Asian,0,0,family member,1,Toddlers
+257,1,1,0,1,1,1,1,0,1,0,14,7,m,Asian,0,0,family member,1,Toddlers
+258,1,1,1,1,1,1,1,1,1,1,36,10,m,White European,0,0,Health care professional,1,Toddlers
+259,0,0,0,1,1,1,1,0,0,0,34,4,m,Black,1,0,family member,1,Toddlers
+260,1,1,1,0,1,1,1,1,1,0,36,8,m,Asian,0,0,family member,1,Toddlers
+261,1,0,1,1,1,0,0,0,1,0,32,5,f,Hispanic or Latino,0,1,family member,1,Toddlers
+262,1,1,0,0,1,1,1,1,0,1,36,7,m,Asian,0,0,Health care professional,1,Toddlers
+263,1,1,1,1,1,1,1,1,0,1,36,9,m,Hispanic or Latino,1,0,family member,1,Toddlers
+264,1,1,1,1,1,1,0,1,1,1,36,9,m,Asian,0,0,family member,1,Toddlers
+265,1,1,1,1,1,1,0,1,1,1,36,9,m,Asian,0,0,family member,1,Toddlers
+266,1,1,0,0,0,1,1,1,1,1,36,7,f,Asian,1,0,family member,1,Toddlers
+267,1,1,0,1,0,1,1,0,0,1,27,6,f,Asian,0,0,family member,1,Toddlers
+268,1,1,1,1,1,1,1,1,1,1,36,10,m,Asian,0,0,family member,1,Toddlers
+269,1,1,1,1,0,1,1,0,1,0,17,7,f,White European,0,0,family member,1,Toddlers
+270,0,0,1,1,1,0,1,0,1,0,35,5,m,Middle Eastern ,1,0,family member,1,Toddlers
+271,0,0,1,1,1,1,0,0,1,0,30,5,m,Asian,0,0,family member,1,Toddlers
+272,0,0,0,1,1,0,1,0,0,1,30,4,m,Asian,0,0,Health care professional,1,Toddlers
+273,1,1,1,1,0,1,1,1,0,1,36,8,f,Middle Eastern ,0,0,family member,1,Toddlers
+274,1,0,0,1,1,1,1,0,1,0,30,6,m,Asian,0,0,family member,1,Toddlers
+275,0,0,0,1,0,0,1,0,1,1,30,4,m,Asian,0,0,family member,1,Toddlers
+276,1,0,0,0,0,0,1,0,0,1,30,3,f,Asian,0,0,family member,0,Toddlers
+277,1,0,0,0,0,1,1,0,0,1,30,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
+278,1,1,1,1,0,1,1,1,1,0,24,8,m,Black,1,0,family member,1,Toddlers
+279,0,0,0,0,0,1,1,0,0,1,28,3,f,Middle Eastern ,0,0,family member,0,Toddlers
+280,0,0,0,1,0,1,1,0,0,1,28,4,f,Middle Eastern ,0,0,family member,1,Toddlers
+281,1,1,0,0,1,1,0,1,1,1,26,7,m,White European,1,1,family member,1,Toddlers
+282,0,0,1,1,0,0,0,1,0,1,36,4,m,Asian,0,0,family member,1,Toddlers
+283,0,0,0,0,1,0,1,0,0,1,36,3,m,Asian,1,0,family member,0,Toddlers
+284,1,0,0,0,0,1,0,1,0,0,25,3,m,White European,0,0,family member,0,Toddlers
+285,1,1,1,1,1,0,1,1,1,1,32,9,m,Asian,0,0,family member,1,Toddlers
+286,1,1,0,0,0,0,1,1,0,1,36,5,m,Asian,0,0,family member,1,Toddlers
+287,1,1,0,1,1,1,1,0,0,1,36,7,m,Asian,0,0,family member,1,Toddlers
+288,0,0,0,0,0,1,1,1,0,1,36,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
+289,1,1,0,1,1,1,1,1,1,1,36,9,m,White European,0,1,family member,1,Toddlers
+290,0,1,1,0,0,1,0,0,1,1,20,5,m,Black,0,1,family member,1,Toddlers
+291,1,0,0,0,1,1,0,1,0,1,26,5,m,White European,0,0,family member,1,Toddlers
+292,0,0,0,0,1,1,1,0,0,1,32,4,m,White European,1,0,family member,1,Toddlers
+293,1,0,0,1,1,1,1,0,1,1,24,7,f,Asian,0,0,family member,1,Toddlers
+294,1,1,1,1,1,1,1,1,0,1,35,9,m,White European,0,1,family member,1,Toddlers
+295,1,1,0,1,1,1,1,0,1,0,24,7,f,Asian,0,0,family member,1,Toddlers
+296,1,1,1,1,1,1,0,1,1,1,24,9,f,Asian,0,0,family member,1,Toddlers
+297,0,0,1,1,1,1,1,1,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
+298,0,0,1,1,1,1,1,1,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
+299,1,0,1,0,1,1,0,1,1,0,36,6,m,Asian,0,0,family member,1,Toddlers
+300,0,0,0,1,0,0,1,1,0,1,33,4,m,White European,1,0,family member,1,Toddlers
+301,1,1,1,1,1,1,1,0,1,0,36,8,m,Asian,0,0,family member,1,Toddlers
+302,1,1,1,1,1,1,1,1,1,0,27,9,m,White European,0,0,family member,1,Toddlers
+303,0,0,0,0,1,1,1,1,0,0,29,4,m,Others,0,0,family member,1,Toddlers
+304,1,1,1,0,0,1,1,0,0,1,36,6,m,White European,0,0,family member,1,Toddlers
+305,1,1,0,0,0,0,0,1,0,1,33,4,m,Asian,0,0,Health care professional,1,Toddlers
+306,0,1,1,1,1,1,1,0,1,1,12,8,m,Asian,0,1,family member,1,Toddlers
+307,1,0,0,0,1,1,1,1,0,0,30,5,f,Asian,0,0,family member,1,Toddlers
+308,0,0,0,0,0,0,1,1,1,0,34,3,f,Asian,0,0,family member,0,Toddlers
+309,1,1,0,0,1,1,1,1,1,1,36,8,m,Others,1,0,family member,1,Toddlers
+310,1,0,0,1,1,1,0,0,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
+311,0,0,0,1,0,1,1,1,1,0,30,5,m,Asian,0,0,family member,1,Toddlers
+312,0,0,1,0,1,0,0,1,0,0,36,3,m,Asian,0,0,family member,0,Toddlers
+313,0,0,0,1,1,0,0,1,0,0,36,3,m,Asian,0,0,family member,0,Toddlers
+314,1,1,0,1,0,0,1,1,1,1,15,7,m,White European,0,0,family member,1,Toddlers
+315,1,1,1,1,0,1,1,0,1,0,18,7,f,White European,0,0,family member,1,Toddlers
+316,1,0,0,0,0,1,1,1,0,1,36,5,m,Asian,0,0,family member,1,Toddlers
+317,1,0,0,0,0,0,1,0,1,1,12,4,m,Asian,0,0,family member,1,Toddlers
+318,0,0,1,1,0,0,1,0,1,0,26,4,m,Asian,1,0,family member,1,Toddlers
+319,1,1,0,1,1,1,1,1,1,1,36,9,m,White European,0,0,family member,1,Toddlers
+320,1,1,1,1,0,1,1,1,1,1,36,9,m,Middle Eastern ,0,0,family member,1,Toddlers
+321,1,1,1,1,0,1,0,1,1,1,36,8,m,White European,0,0,family member,1,Toddlers
+322,1,0,0,0,0,0,1,1,1,1,36,5,f,Asian,0,0,family member,1,Toddlers
+323,1,0,0,0,0,0,1,0,0,1,36,3,m,Asian,0,0,family member,0,Toddlers
+324,1,1,0,0,0,1,0,0,1,0,30,4,m,Asian,1,0,family member,1,Toddlers
+325,0,0,1,1,0,0,1,1,0,1,25,5,m,Asian,0,0,family member,1,Toddlers
+326,1,1,0,1,0,1,1,0,0,1,14,6,f,White European,0,0,family member,1,Toddlers
+327,1,1,0,1,0,1,1,0,1,1,14,7,f,White European,0,0,family member,1,Toddlers
+328,1,1,0,1,0,1,1,0,1,1,26,7,f,White European,0,0,family member,1,Toddlers
+329,1,1,0,0,1,1,1,1,1,1,36,8,f,Others,1,0,family member,1,Toddlers
+330,1,0,0,0,1,0,1,1,1,1,35,6,f,Asian,0,1,family member,1,Toddlers
+331,1,1,0,1,1,0,1,0,0,0,28,5,m,Middle Eastern ,0,1,family member,1,Toddlers
+332,1,1,0,1,1,1,1,0,0,0,28,6,m,Middle Eastern ,0,1,family member,1,Toddlers
+333,1,0,0,0,1,0,1,0,0,0,36,3,m,White European,0,0,family member,0,Toddlers
+334,1,1,1,1,1,1,1,1,1,1,12,10,m,Pacifica,0,0,family member,1,Toddlers
+335,1,1,0,0,1,1,1,0,0,1,36,6,m,White European,1,0,family member,1,Toddlers
+336,1,0,1,1,1,1,0,1,1,0,19,7,m,Asian,0,0,family member,1,Toddlers
+337,0,0,1,1,1,1,1,1,1,1,24,8,f,White European,0,0,family member,1,Toddlers
+338,1,0,0,0,1,1,1,0,0,0,30,4,f,Asian,1,0,family member,1,Toddlers
+339,1,1,0,0,1,1,1,0,1,1,32,7,m,Asian,1,1,family member,1,Toddlers
+340,1,0,0,1,1,1,1,1,1,1,35,8,m,Asian,0,0,family member,1,Toddlers
+341,1,0,1,1,1,1,0,1,1,1,29,8,m,Middle Eastern ,0,0,family member,1,Toddlers
+342,1,0,1,0,0,1,0,1,0,0,36,4,m,Asian,0,1,family member,1,Toddlers
+343,0,0,0,1,0,0,1,0,1,1,15,4,f,Middle Eastern ,1,0,family member,1,Toddlers
+344,1,1,1,1,1,1,1,0,1,0,19,8,m,Asian,0,0,family member,1,Toddlers
+345,0,0,1,0,0,1,1,1,1,1,24,6,m,Hispanic or Latino,0,1,family member,1,Toddlers
+346,1,1,0,1,1,1,1,0,0,1,36,7,m,Hispanic or Latino,0,1,family member,1,Toddlers
+347,0,0,1,1,1,0,1,1,1,1,13,7,m,White European,1,1,family member,1,Toddlers
+348,1,1,1,1,1,1,1,1,1,1,13,10,m,White European,1,1,family member,1,Toddlers
+349,1,1,0,1,1,0,1,0,0,1,36,6,m,White European,0,0,Others,1,Toddlers
+350,1,1,0,1,0,0,1,0,0,0,36,4,m,White European,0,0,family member,1,Toddlers
+351,1,1,1,1,0,1,1,1,1,1,36,9,f,White European,1,0,family member,1,Toddlers
+352,1,0,1,0,0,1,0,0,0,0,36,3,m,Asian,0,1,family member,0,Toddlers
+353,1,0,1,1,0,0,0,0,0,0,36,3,m,Asian,0,1,family member,0,Toddlers
+354,0,0,1,1,0,1,0,0,1,0,17,4,m,Asian,0,0,family member,1,Toddlers
+355,1,0,1,1,1,1,1,1,1,1,22,9,f,White European,0,0,family member,1,Toddlers
+356,0,0,1,1,1,0,1,1,0,0,20,5,m,White European,1,0,family member,1,Toddlers
+357,1,1,0,0,0,1,0,0,0,1,36,4,m,White European,1,0,Health care professional,1,Toddlers
+358,1,1,1,1,1,1,1,1,1,0,36,9,f,Asian,1,0,family member,1,Toddlers
+359,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Toddlers
+360,1,0,0,0,1,1,1,1,1,1,30,7,f,Asian,1,0,family member,1,Toddlers
+361,1,0,0,0,0,1,1,1,1,1,30,6,f,Asian,0,0,family member,1,Toddlers
+362,1,1,1,1,1,1,1,0,1,1,28,9,m,Middle Eastern ,0,0,family member,1,Toddlers
+363,1,1,0,1,0,1,1,1,1,0,26,7,m,Hispanic or Latino,0,1,family member,1,Toddlers
+364,1,1,1,1,1,1,0,0,1,1,28,8,m,Pacifica,0,0,family member,1,Toddlers
+365,1,1,1,1,1,1,1,0,1,1,36,9,f,Others,0,0,Self,1,Toddlers
+366,1,0,0,0,1,1,1,1,1,0,36,6,m,Hispanic or Latino,0,0,family member,1,Toddlers
+367,1,1,1,1,1,1,1,1,1,1,28,10,m,Black,0,0,family member,1,Toddlers
+368,1,1,1,1,1,1,1,1,1,1,36,10,m,Black,0,0,family member,1,Toddlers
+369,1,0,0,1,1,0,1,0,1,1,28,6,m,White European,1,0,family member,1,Toddlers
+370,0,1,1,1,1,1,0,1,1,0,24,7,f,Asian,1,0,family member,1,Toddlers
+371,1,1,1,1,1,1,1,1,1,1,34,10,m,Native Indian,1,0,family member,1,Toddlers
+372,0,0,0,1,0,1,1,0,0,0,12,3,f,White European,0,0,family member,0,Toddlers
+373,1,1,1,1,1,0,1,1,1,0,32,8,m,Black,0,0,family member,1,Toddlers
+374,1,0,0,1,1,1,0,0,0,1,29,5,m,White European,1,0,family member,1,Toddlers
+375,1,0,0,0,1,1,1,1,1,0,27,6,m,White European,1,1,family member,1,Toddlers
+376,1,1,1,1,1,1,1,1,1,1,25,10,m,White European,0,0,family member,1,Toddlers
+377,1,1,0,0,1,0,0,0,0,1,36,4,m,White European,1,0,family member,1,Toddlers
+378,0,1,1,1,1,1,1,0,1,1,12,8,m,White European,0,1,family member,1,Toddlers
+379,1,1,0,1,1,1,0,1,1,0,36,7,m,White European,0,0,family member,1,Toddlers
+380,1,0,1,0,1,0,0,0,0,0,36,3,m,White European,0,0,family member,0,Toddlers
+381,0,1,1,0,0,0,0,1,0,1,36,4,m,Asian,0,0,family member,1,Toddlers
+382,0,1,0,1,0,1,0,0,1,0,36,4,m,Asian,0,0,family member,1,Toddlers
+383,0,1,0,1,0,1,0,0,1,0,36,4,m,Asian,0,0,family member,1,Toddlers
+384,0,0,0,0,1,1,1,1,0,1,30,5,f,Asian,0,0,family member,1,Toddlers
+385,0,0,0,0,1,1,1,1,1,1,35,6,m,Asian,0,0,family member,1,Toddlers
+386,1,1,1,1,0,1,1,0,1,1,31,8,f,White European,0,0,family member,1,Toddlers
+387,1,0,0,0,1,1,1,0,0,0,36,4,m,Asian,0,0,family member,1,Toddlers
+388,1,1,1,1,1,1,1,1,1,1,36,10,m,Black,0,0,family member,1,Toddlers
+389,1,1,0,0,0,1,1,0,0,1,36,5,f,White European,0,0,family member,1,Toddlers
+390,1,1,1,1,1,1,1,1,1,1,26,10,f,Hispanic or Latino,0,0,family member,1,Toddlers
+391,1,1,1,0,1,1,1,1,0,1,22,8,m,Asian,0,0,family member,1,Toddlers
+392,1,1,0,0,0,0,1,0,0,1,24,4,m,Asian,1,0,family member,1,Toddlers
+393,0,0,1,1,1,0,0,1,1,0,19,5,m,Middle Eastern ,0,0,family member,1,Toddlers
+394,1,1,1,1,0,0,1,1,1,1,24,8,m,Black,1,0,family member,1,Toddlers
+395,1,0,1,1,1,1,1,0,1,1,21,8,m,White European,1,1,family member,1,Toddlers
+396,1,1,1,1,1,1,1,1,1,1,20,10,f,White European,0,0,family member,1,Toddlers
+397,0,0,0,1,1,1,0,1,1,0,30,5,m,Middle Eastern ,0,0,family member,1,Toddlers
+398,0,0,0,0,1,1,1,0,1,1,13,5,f,Asian,0,0,family member,1,Toddlers
+399,1,1,1,0,1,1,1,1,1,0,31,8,f,Asian,0,0,family member,1,Toddlers
+400,1,1,1,0,1,1,1,1,0,0,31,7,f,Asian,0,0,family member,1,Toddlers
+401,1,1,0,1,1,1,1,1,1,0,17,8,m,Asian,0,0,family member,1,Toddlers
+402,1,1,1,1,1,0,1,1,1,1,12,9,f,Middle Eastern ,0,0,family member,1,Toddlers
+403,0,0,0,0,0,1,0,1,0,1,13,3,f,Middle Eastern ,1,0,family member,0,Toddlers
+404,1,1,1,1,1,1,1,1,1,0,13,9,m,Hispanic or Latino,1,0,family member,1,Toddlers
+405,1,1,1,1,1,1,1,1,1,0,13,9,m,Hispanic or Latino,1,0,family member,1,Toddlers
+406,1,1,0,1,1,1,0,0,0,0,34,5,m,Others,0,0,family member,1,Toddlers
+407,1,1,0,1,1,1,1,0,0,1,34,7,m,Others,0,0,family member,1,Toddlers
+408,1,1,0,0,0,0,1,0,0,1,36,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
+409,1,1,0,0,1,0,1,0,0,1,25,5,m,Middle Eastern ,1,0,family member,1,Toddlers
+410,1,1,0,0,0,0,1,0,0,1,25,4,m,Middle Eastern ,0,0,family member,1,Toddlers
+411,1,1,1,1,1,1,1,1,1,1,24,10,f,Black,0,0,family member,1,Toddlers
+412,1,1,0,1,0,1,1,1,0,1,36,7,m,White European,0,0,family member,1,Toddlers
+413,0,0,0,1,1,1,1,1,1,1,35,7,m,Asian,0,1,family member,1,Toddlers
+414,0,0,0,0,1,1,1,0,1,1,35,5,m,Asian,1,0,family member,1,Toddlers
+415,1,1,1,1,1,1,1,1,1,1,19,10,m,White European,1,0,family member,1,Toddlers
+416,0,1,1,1,0,0,1,0,1,0,12,5,f,Middle Eastern ,1,0,family member,1,Toddlers
+417,1,1,0,0,0,1,0,1,0,1,36,5,m,White European,0,1,family member,1,Toddlers
+418,0,0,1,0,0,1,0,0,0,1,12,3,f,Asian,0,0,family member,0,Toddlers
+419,1,0,0,0,1,1,1,0,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
+420,1,1,0,1,1,1,1,1,0,1,36,8,m,White European,1,1,family member,1,Toddlers
+421,0,1,0,1,1,0,1,0,0,1,36,5,m,White European,1,1,family member,1,Toddlers
+422,1,0,1,1,1,1,0,1,1,1,33,8,m,White European,1,0,family member,1,Toddlers
+423,1,1,0,1,0,0,1,0,1,1,22,6,m,White European,0,1,family member,1,Toddlers
+424,1,1,0,1,0,1,1,1,1,1,22,8,m,White European,0,0,family member,1,Toddlers
+425,1,1,1,1,1,1,1,1,1,1,31,10,m,White European,1,1,family member,1,Toddlers
+426,1,0,1,1,0,1,1,0,1,1,29,7,f,White European,0,0,family member,1,Toddlers
+427,1,0,0,0,0,0,1,0,1,1,36,4,m,Asian,0,0,family member,1,Toddlers
+428,0,0,0,1,1,1,1,0,1,1,36,6,m,Asian,0,0,family member,1,Toddlers
+429,1,1,1,1,1,1,1,1,1,1,36,10,m,White European,0,0,family member,1,Toddlers
+430,1,1,1,0,0,1,1,0,1,1,23,7,m,Black,1,0,family member,1,Toddlers
+431,1,1,0,0,1,0,0,1,0,1,36,5,m,White European,1,0,family member,1,Toddlers
+432,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,0,family member,1,Toddlers
+433,1,1,0,1,0,1,1,1,1,1,35,8,f,Asian,0,0,family member,1,Toddlers
+434,1,0,0,0,0,0,1,0,0,1,16,3,m,White European,0,0,family member,0,Toddlers
+435,0,0,1,1,0,1,0,1,0,0,32,4,f,White European,1,0,family member,1,Toddlers
+436,0,1,1,1,1,0,1,1,0,1,36,7,f,White European,1,1,family member,1,Toddlers
+437,0,0,0,0,1,1,0,0,1,1,35,4,m,Asian,1,0,family member,1,Toddlers
+438,1,0,1,0,1,1,0,0,1,0,24,5,m,White European,0,0,family member,1,Toddlers
+439,1,0,1,1,1,1,0,0,1,0,24,6,m,White European,0,0,family member,1,Toddlers
+440,1,0,1,0,1,1,0,0,1,0,24,5,m,White European,0,0,family member,1,Toddlers
+441,1,1,1,1,0,1,1,0,1,1,30,8,f,White European,0,0,family member,1,Toddlers
+442,0,0,1,1,0,1,1,0,1,1,26,6,m,White European,0,0,family member,1,Toddlers
+443,1,1,1,1,1,1,1,1,1,1,12,10,m,Others,1,1,family member,1,Toddlers
+444,0,0,0,1,0,0,1,0,0,1,28,3,m,Middle Eastern ,1,0,family member,0,Toddlers
+445,0,0,1,1,1,1,1,1,1,1,36,8,m,White European,0,0,family member,1,Toddlers
+446,1,0,0,0,1,1,1,0,0,1,23,5,m,Asian,1,0,family member,1,Toddlers
+447,1,0,0,0,1,1,1,0,1,0,36,5,m,Asian,1,0,family member,1,Toddlers
+448,0,0,1,1,1,1,1,1,1,1,34,8,f,White European,0,1,family member,1,Toddlers
+449,0,0,1,1,0,1,0,1,1,1,36,6,m,Hispanic or Latino,0,0,family member,1,Toddlers
+450,1,1,0,0,1,1,1,0,0,1,36,6,m,Others,0,0,family member,1,Toddlers
+451,1,0,0,1,1,1,1,0,1,1,36,7,m,White European,1,0,family member,1,Toddlers
+452,1,1,0,0,0,1,0,0,1,1,36,5,m,Asian,0,0,family member,1,Toddlers
+453,1,0,0,0,0,1,0,1,1,1,36,5,m,Asian,0,0,family member,1,Toddlers
+454,0,1,1,1,1,1,1,1,1,0,36,8,m,Black,0,0,family member,1,Toddlers
+455,1,1,0,1,1,1,1,0,1,1,36,8,m,White European,0,0,family member,1,Toddlers
+456,1,1,1,1,1,1,1,0,1,1,36,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
+457,1,0,1,0,1,1,1,0,0,1,26,6,m,Asian,0,0,family member,1,Toddlers
+458,1,1,1,1,1,1,1,1,1,0,36,9,m,White European,0,1,family member,1,Toddlers
+459,0,0,0,0,1,0,1,1,0,0,36,3,m,Hispanic or Latino,0,0,family member,0,Toddlers
+460,0,0,0,1,0,0,1,1,0,0,36,3,m,Hispanic or Latino,0,0,family member,0,Toddlers
+461,1,1,1,1,1,1,1,1,1,1,27,10,m,White European,1,0,family member,1,Toddlers
+462,1,1,1,1,1,1,1,1,1,1,36,10,m,Asian,0,0,family member,1,Toddlers
+463,1,1,1,1,1,1,1,1,1,1,36,10,m,Asian,0,0,family member,1,Toddlers
+464,0,0,0,1,0,0,1,0,1,0,36,3,m,Asian,0,0,family member,0,Toddlers
+465,0,1,0,1,0,0,0,0,1,1,36,4,m,Black,1,1,family member,1,Toddlers
+466,0,1,0,1,0,0,0,0,1,1,36,4,m,Black,1,1,family member,1,Toddlers
+467,1,1,1,1,1,1,1,1,1,1,36,10,m,Black,0,1,family member,1,Toddlers
+468,0,1,0,0,1,1,1,1,1,0,30,6,m,White European,0,0,family member,1,Toddlers
+469,0,1,0,0,0,0,1,1,0,1,26,4,m,Others,0,0,family member,1,Toddlers
+470,1,1,0,1,1,1,1,1,0,1,25,8,f,Pacifica,1,0,family member,1,Toddlers
+471,1,1,0,1,1,1,0,1,1,0,20,7,f,Asian,0,0,family member,1,Toddlers
+472,0,0,1,1,1,0,1,1,0,0,20,5,m,Asian,1,0,family member,1,Toddlers
+473,0,0,0,0,1,1,1,1,1,0,20,5,f,Asian,0,0,Health care professional,1,Toddlers
+474,1,1,0,1,1,1,1,1,1,1,28,9,m,Asian,0,0,family member,1,Toddlers
+475,1,0,0,1,1,1,1,1,1,1,28,8,m,Asian,0,0,family member,1,Toddlers
+476,1,1,0,1,1,1,1,1,1,0,28,8,m,Asian,0,0,family member,1,Toddlers
+477,1,1,0,1,1,1,1,1,1,1,28,9,m,Asian,0,0,family member,1,Toddlers
+478,1,1,1,1,1,1,1,1,1,1,28,10,m,Asian,0,0,family member,1,Toddlers
+479,1,1,1,1,0,1,1,0,1,1,36,8,m,White European,1,0,family member,1,Toddlers
+480,1,1,1,1,1,1,1,1,1,0,29,9,f,Hispanic or Latino,0,0,family member,1,Toddlers
+481,1,1,1,1,1,1,1,1,1,1,30,10,m,Hispanic or Latino,0,0,Others,1,Toddlers
+482,1,1,0,0,1,1,1,0,1,1,27,7,m,White European,0,0,family member,1,Toddlers
+483,1,1,1,1,1,1,1,1,1,1,22,10,f,White European,0,0,family member,1,Toddlers
+484,1,0,0,0,0,0,1,0,0,1,22,3,f,White European,1,0,family member,0,Toddlers
+485,1,0,0,0,0,1,1,0,0,1,22,4,m,Hispanic or Latino,1,0,family member,1,Toddlers
+486,0,0,0,0,0,0,1,1,0,1,36,3,f,Asian,0,0,family member,0,Toddlers
+487,0,0,0,1,0,0,1,1,0,1,36,4,f,Asian,0,0,family member,1,Toddlers
+488,1,1,1,1,1,1,1,1,1,1,36,10,m,Asian,0,0,family member,1,Toddlers
+489,0,0,0,1,1,1,1,0,0,0,36,4,m,Asian,0,0,family member,1,Toddlers
+490,0,0,0,0,1,1,1,0,1,1,34,5,m,Others,1,0,family member,1,Toddlers
+491,1,0,0,1,1,0,0,0,0,1,24,4,m,Asian,1,0,family member,1,Toddlers
+492,1,1,1,1,0,1,1,0,0,1,25,7,m,White European,1,1,family member,1,Toddlers
+493,1,0,1,0,1,1,1,0,1,0,25,6,m,White European,0,1,family member,1,Toddlers
+494,0,0,0,0,1,0,0,1,0,1,32,3,m,Black,1,0,family member,0,Toddlers
+495,0,0,1,1,0,1,1,1,1,0,33,6,m,White European,1,0,family member,1,Toddlers
+496,0,0,0,0,1,0,0,1,1,1,36,4,m,Middle Eastern ,0,0,family member,1,Toddlers
+497,1,0,1,1,0,1,1,0,1,0,24,6,f,Asian,0,0,family member,1,Toddlers
+498,0,0,0,1,0,1,1,0,0,0,25,3,f,Asian,0,0,family member,0,Toddlers
+499,0,0,1,1,1,1,0,0,1,0,24,5,f,Asian,0,0,family member,1,Toddlers
+500,0,0,1,1,1,1,0,0,1,0,24,5,f,Asian,0,0,family member,1,Toddlers
+501,0,1,0,0,1,1,1,1,0,1,29,6,m,White European,1,0,family member,1,Toddlers
+502,1,1,1,1,1,1,1,1,1,1,28,10,m,Asian,0,0,family member,1,Toddlers
+503,0,0,1,1,0,0,0,0,0,1,24,3,m,Asian,0,0,family member,0,Toddlers
+504,0,0,1,1,0,0,0,1,0,1,24,4,m,Asian,0,0,family member,1,Toddlers
+505,0,0,1,1,0,1,0,0,0,1,24,4,m,Asian,0,0,family member,1,Toddlers
+506,1,0,1,1,1,0,1,0,1,0,16,6,f,Asian,0,0,family member,1,Toddlers
+507,1,0,1,1,1,1,1,0,0,0,22,6,f,White European,0,1,family member,1,Toddlers
+508,0,0,1,1,1,1,1,0,0,1,22,6,f,White European,0,1,family member,1,Toddlers
+509,1,0,0,0,1,1,1,1,0,1,32,6,f,Asian,0,0,family member,1,Toddlers
+510,1,1,1,1,1,1,1,0,1,0,18,8,m,Middle Eastern ,1,0,family member,1,Toddlers
+511,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Toddlers
+512,0,0,1,1,0,1,1,1,1,1,34,7,m,White European,1,0,family member,1,Toddlers
+513,0,0,1,1,1,1,1,0,1,1,24,7,f,Asian,0,0,family member,1,Toddlers
+514,1,1,1,1,1,1,1,0,1,1,22,9,m,Asian,0,0,family member,1,Toddlers
+515,1,0,0,1,1,1,1,0,0,0,36,5,f,White European,0,0,family member,1,Toddlers
+516,1,0,0,0,1,0,1,1,1,0,14,5,m,Asian,1,0,family member,1,Toddlers
+517,1,1,0,0,1,1,1,1,1,1,36,8,f,Others,0,0,family member,1,Toddlers
+518,1,1,1,1,1,0,1,1,0,0,24,7,m,Others,0,0,family member,1,Toddlers
+519,1,1,1,1,1,1,1,0,1,0,14,8,m,White European,0,0,family member,1,Toddlers
+520,1,1,0,1,1,1,1,0,1,0,14,7,m,White European,0,0,family member,1,Toddlers
+521,1,1,0,0,0,0,1,0,0,1,26,4,f,Middle Eastern ,0,0,family member,1,Toddlers
+522,1,0,0,1,1,0,1,0,1,0,36,5,m,Asian,0,0,family member,1,Toddlers
+523,1,1,1,1,1,1,1,0,0,0,24,7,m,Others,0,0,family member,1,Toddlers
+524,1,0,1,1,1,1,1,1,1,1,33,9,f,Asian,0,0,family member,1,Toddlers
+525,1,0,1,0,1,1,1,1,1,1,33,8,f,Asian,0,0,family member,1,Toddlers
+526,1,1,0,1,0,1,1,1,0,1,32,7,f,White European,0,0,family member,1,Toddlers
+527,0,0,1,1,1,1,1,0,1,0,31,6,f,White European,0,0,family member,1,Toddlers
+528,1,0,1,1,0,1,0,1,0,0,17,5,m,Asian,1,0,family member,1,Toddlers
+529,1,1,1,1,1,0,1,1,1,1,19,9,f,White European,1,0,family member,1,Toddlers
+530,1,1,1,1,1,1,1,1,1,0,19,9,f,White European,1,0,family member,1,Toddlers
+531,0,1,0,0,1,1,0,1,0,1,29,5,m,White European,0,0,family member,1,Toddlers
+532,1,0,0,0,1,1,1,1,1,1,36,7,m,White European,0,0,Health care professional,1,Toddlers
+533,1,1,0,1,1,1,1,1,1,1,14,9,m,White European,1,0,family member,1,Toddlers
+534,1,0,1,1,1,0,1,1,1,1,16,8,m,Black,0,0,family member,1,Toddlers
+535,1,1,1,1,1,1,1,1,1,1,14,10,m,White European,0,0,family member,1,Toddlers
+536,1,0,1,0,1,0,1,1,0,1,24,6,m,White European,0,0,family member,1,Toddlers
+537,1,1,1,1,1,1,1,1,1,0,36,9,m,Asian,1,1,family member,1,Toddlers
+538,1,1,0,0,1,1,1,0,1,0,32,6,m,White European,0,0,family member,1,Toddlers
+539,0,0,0,0,0,0,1,0,1,1,36,3,m,Asian,0,0,family member,0,Toddlers
+540,1,1,1,1,1,1,1,1,0,1,27,9,m,Others,1,1,family member,1,Toddlers
+541,0,0,1,1,1,1,1,1,1,1,33,8,m,White European,0,0,family member,1,Toddlers
+542,0,1,0,0,1,0,0,0,0,1,29,3,m,White European,0,0,family member,0,Toddlers
+543,1,0,0,1,0,1,1,1,0,1,23,6,m,White European,1,0,family member,1,Toddlers
+544,1,0,1,1,1,1,1,0,0,1,34,7,m,White European,1,0,family member,1,Toddlers
+545,1,1,0,0,0,1,1,1,1,1,16,7,f,White European,1,0,family member,1,Toddlers
+546,0,1,1,0,0,0,0,0,0,1,35,3,f,Black,1,0,family member,0,Toddlers
+547,1,0,1,1,1,1,1,0,1,0,36,7,m,White European,1,1,family member,1,Toddlers
+548,1,0,0,1,0,0,1,0,1,1,24,5,m,White European,1,1,family member,1,Toddlers
+549,1,1,0,1,0,1,1,1,1,0,35,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+550,1,0,1,1,1,0,1,1,1,1,15,8,m,White European,1,0,family member,1,Toddlers
+551,0,0,1,1,1,0,1,1,1,0,15,6,m,White European,1,0,family member,1,Toddlers
+552,1,0,0,1,0,0,1,0,0,0,27,3,m,Asian,0,0,family member,0,Toddlers
+553,1,1,1,1,1,0,1,0,1,1,12,8,f,White European,0,0,family member,1,Toddlers
+554,1,1,1,1,1,1,1,1,1,1,22,10,m,White European,1,0,family member,1,Toddlers
+555,1,0,0,0,0,1,1,0,1,0,36,4,m,Others,0,1,family member,1,Toddlers
+556,0,1,0,1,0,1,1,0,0,0,30,4,m,Asian,1,0,family member,1,Toddlers
+557,1,1,0,1,1,1,1,0,1,1,36,8,m,White European,0,0,family member,1,Toddlers
+558,1,1,0,1,0,0,0,0,0,0,17,3,m,Middle Eastern ,0,0,family member,0,Toddlers
+559,1,1,0,0,1,1,0,1,1,1,29,7,m,White European,0,0,family member,1,Toddlers
+560,1,1,1,1,1,1,1,1,1,1,26,10,m,Pacifica,0,0,family member,1,Toddlers
+561,1,1,0,0,0,1,1,1,0,1,23,6,m,White European,1,1,family member,1,Toddlers
+562,1,1,1,1,1,1,1,1,1,1,15,10,m,Asian,0,0,family member,1,Toddlers
+563,1,1,0,1,1,1,1,1,1,0,25,8,m,White European,0,0,family member,1,Toddlers
+564,0,0,0,1,1,1,1,1,1,1,33,7,f,Asian,0,0,family member,1,Toddlers
+565,0,0,0,0,1,0,0,0,1,1,12,3,f,White European,0,0,family member,0,Toddlers
+566,0,0,1,1,1,1,1,0,1,1,12,7,f,Middle Eastern ,0,0,family member,1,Toddlers
+567,1,1,0,1,0,1,1,0,0,1,28,6,m,White European,0,0,family member,1,Toddlers
+568,1,1,0,1,1,0,1,1,1,0,36,7,m,Middle Eastern ,0,0,family member,1,Toddlers
+569,1,1,1,1,1,1,0,1,1,1,30,9,m,Asian,0,0,family member,1,Toddlers
+570,1,0,0,0,1,1,0,0,1,1,30,5,m,Asian,0,0,family member,1,Toddlers
+571,1,1,1,1,1,1,1,1,1,0,36,9,f,Middle Eastern ,1,0,family member,1,Toddlers
+572,1,1,1,0,1,1,1,0,0,1,29,7,m,Pacifica,0,1,family member,1,Toddlers
+573,0,0,1,0,1,1,1,1,0,1,34,6,f,Asian,0,0,family member,1,Toddlers
+574,0,1,1,1,1,1,1,1,0,1,36,8,f,White European,0,0,Self,1,Toddlers
+575,1,1,1,1,1,1,1,0,1,1,31,9,m,White European,0,0,family member,1,Toddlers
+576,1,1,1,1,0,1,1,0,0,1,36,7,f,White European,0,0,family member,1,Toddlers
+577,1,0,1,1,1,1,1,0,1,1,36,8,m,Middle Eastern ,0,0,family member,1,Toddlers
+578,1,1,0,1,1,1,1,1,1,1,12,9,m,Hispanic or Latino,1,0,family member,1,Toddlers
+579,1,0,0,0,1,1,1,0,1,0,26,5,m,Asian,0,0,family member,1,Toddlers
+580,0,0,0,0,1,1,1,0,1,0,36,4,f,Hispanic or Latino,0,0,family member,1,Toddlers
+581,1,0,1,1,1,1,1,1,1,0,36,8,m,Asian,1,0,family member,1,Toddlers
+582,1,1,0,0,1,1,1,1,1,0,28,7,m,Asian,0,0,family member,1,Toddlers
+583,1,1,1,1,1,1,0,1,0,1,36,8,f,White European,0,0,family member,1,Toddlers
+584,1,1,1,1,1,1,1,1,1,0,12,9,m,White European,0,1,Health care professional,1,Toddlers
+585,1,0,0,0,0,0,1,1,0,0,36,3,m,White European,0,0,family member,0,Toddlers
+586,0,0,1,1,1,1,1,0,0,0,31,5,m,White European,0,0,family member,1,Toddlers
+587,0,0,1,1,1,1,1,0,0,0,31,5,m,White European,1,0,family member,1,Toddlers
+588,1,1,1,1,1,0,1,1,0,1,22,8,m,Asian,0,0,family member,1,Toddlers
+589,0,0,0,1,0,0,1,0,0,1,36,3,m,Asian,0,0,family member,0,Toddlers
+590,1,1,0,0,1,0,1,1,1,1,36,7,m,White European,0,0,family member,1,Toddlers
+591,1,1,1,1,1,1,1,1,1,1,15,10,f,Middle Eastern ,0,1,family member,1,Toddlers
+592,0,0,1,0,1,1,1,1,0,1,34,6,f,Asian,0,0,family member,1,Toddlers
+593,0,0,1,1,1,1,1,1,1,0,14,7,m,White European,1,0,family member,1,Toddlers
+594,1,0,1,0,0,0,1,1,1,0,27,5,m,Asian,0,0,family member,1,Toddlers
+595,1,1,0,1,1,1,1,1,1,1,28,9,m,White European,0,0,family member,1,Toddlers
+596,0,0,1,1,1,1,1,1,1,0,14,7,m,White European,1,0,family member,1,Toddlers
+597,0,0,1,1,1,0,1,0,0,0,31,4,m,White European,1,0,family member,1,Toddlers
+598,1,1,1,1,1,1,1,1,1,0,28,9,m,Others,0,0,family member,1,Toddlers
+599,1,1,0,1,1,1,1,1,1,0,36,8,f,Asian,0,0,family member,1,Toddlers
+600,1,0,0,0,0,1,1,0,0,1,26,4,f,Others,0,0,family member,1,Toddlers
+601,1,0,1,1,1,1,1,0,1,0,15,7,m,White European,0,0,family member,1,Toddlers
+602,0,1,1,1,0,1,1,1,1,0,12,7,m,Hispanic or Latino,0,0,family member,1,Toddlers
+603,0,1,0,0,0,0,1,1,0,1,16,4,m,White European,1,0,family member,1,Toddlers
+604,1,0,1,1,1,1,1,1,1,1,28,9,m,White European,0,0,family member,1,Toddlers
+605,0,0,1,0,1,1,1,1,0,1,34,6,f,Asian,0,0,family member,1,Toddlers
+606,1,1,1,1,1,1,1,1,1,0,24,9,m,Asian,0,0,family member,1,Toddlers
+607,1,1,1,1,0,1,1,0,0,1,22,7,m,Middle Eastern ,1,1,family member,1,Toddlers
+608,0,0,1,1,0,0,1,0,0,1,36,4,f,Asian,1,0,family member,1,Toddlers
+609,1,1,1,1,1,1,1,1,1,1,29,10,m,White European,0,0,family member,1,Toddlers
+610,0,0,0,0,0,0,1,1,0,1,36,3,m,White European,0,0,family member,0,Toddlers
+611,0,0,1,1,1,1,1,1,1,0,14,7,m,White European,1,0,family member,1,Toddlers
+612,0,0,0,1,1,0,1,1,1,0,36,5,m,Asian,0,0,family member,1,Toddlers
+613,1,1,1,0,1,0,1,0,0,0,35,5,m,Others,0,0,family member,1,Toddlers
+614,1,0,0,0,0,0,1,1,0,1,35,4,f,White European,1,0,family member,1,Toddlers
+615,1,0,0,0,0,1,1,0,0,1,31,4,f,White European,0,1,family member,1,Toddlers
+616,1,1,0,1,1,1,1,0,1,1,36,8,m,Asian,1,0,family member,1,Toddlers
+617,1,0,0,0,0,1,1,0,0,0,36,3,m,Asian,0,0,family member,0,Toddlers
+618,1,1,1,1,1,1,1,0,1,1,15,9,m,Others,0,0,family member,1,Toddlers
+619,1,1,1,1,0,1,1,0,1,1,36,8,f,White European,0,0,family member,1,Toddlers
+620,0,0,1,0,0,1,1,1,1,1,36,6,f,Middle Eastern ,0,1,family member,1,Toddlers
+621,1,1,1,1,1,1,1,1,1,1,36,10,f,Middle Eastern ,1,0,family member,1,Toddlers
+622,1,0,0,0,0,0,1,0,0,1,27,3,m,White European,0,0,family member,0,Toddlers
+623,0,0,0,0,1,0,1,0,1,1,36,4,m,Others,1,0,family member,1,Toddlers
+624,1,1,0,1,1,1,1,1,1,1,24,9,f,Asian,0,0,family member,1,Toddlers
+625,1,1,0,1,1,1,1,0,0,0,24,6,f,Asian,0,0,family member,1,Toddlers
+626,1,0,0,1,0,1,1,0,0,1,23,5,f,Asian,0,0,family member,1,Toddlers
+627,1,0,0,0,1,1,1,1,1,0,34,6,f,Asian,0,0,family member,1,Toddlers
+628,1,0,1,1,1,1,1,1,1,1,13,9,m,Black,1,1,family member,1,Toddlers
+629,1,1,0,0,1,1,1,0,1,1,36,7,m,White European,0,0,family member,1,Toddlers
+630,1,1,0,0,1,1,1,0,1,1,36,7,m,White European,0,1,family member,1,Toddlers
+631,1,1,0,0,1,1,1,0,1,1,36,7,m,White European,0,1,family member,1,Toddlers
+632,1,1,1,1,1,1,1,0,1,1,16,9,m,Middle Eastern ,0,0,family member,1,Toddlers
+633,1,1,1,1,0,1,1,0,1,1,24,8,f,White European,0,0,family member,1,Toddlers
+634,1,1,1,1,0,1,0,0,0,1,20,6,m,White European,1,1,family member,1,Toddlers
+635,1,0,1,1,1,1,1,1,0,1,28,8,m,Middle Eastern ,0,0,family member,1,Toddlers
+636,1,1,1,1,1,1,1,1,1,0,29,9,m,Asian,0,0,family member,1,Toddlers
+637,1,0,0,0,1,0,1,1,1,0,24,5,m,White European,0,0,family member,1,Toddlers
+638,1,1,0,0,0,1,0,0,0,0,36,3,m,Middle Eastern ,0,0,family member,0,Toddlers
+639,1,1,1,1,1,1,1,1,1,0,19,9,m,Middle Eastern ,0,0,Health care professional,1,Toddlers
+640,1,0,0,0,1,1,1,1,1,1,34,7,f,Asian,0,0,family member,1,Toddlers
+641,0,0,0,1,0,1,1,1,1,0,18,5,m,Asian,0,1,family member,1,Toddlers
+642,0,0,1,1,0,0,0,0,1,0,36,3,m,White European,0,0,family member,0,Toddlers
+643,0,0,0,0,0,1,1,0,1,0,24,3,f,Middle Eastern ,0,0,family member,0,Toddlers
+644,1,1,0,0,0,0,1,0,1,1,36,5,f,White European,0,1,family member,1,Toddlers
+645,1,1,1,1,1,1,1,1,1,1,14,10,m,Middle Eastern ,0,0,family member,1,Toddlers
+646,0,0,1,1,1,0,1,1,1,0,14,6,m,White European,1,0,family member,1,Toddlers
+647,0,0,1,1,1,0,0,1,0,0,35,4,m,Asian,0,0,family member,1,Toddlers
+648,1,1,1,1,1,1,1,1,1,1,35,10,m,Asian,0,0,family member,1,Toddlers
+649,1,1,1,1,1,1,1,1,1,0,19,9,f,Hispanic or Latino,0,0,family member,1,Toddlers
+650,1,1,1,1,1,1,1,1,1,1,29,10,m,White European,0,0,family member,1,Toddlers
+651,1,0,0,0,1,1,1,1,1,0,36,6,m,White European,0,0,family member,1,Toddlers
+652,1,0,1,1,0,1,1,0,0,0,26,5,m,White European,0,0,family member,1,Toddlers
+653,1,1,0,0,0,0,1,1,0,0,28,4,m,Middle Eastern ,0,0,family member,1,Toddlers
+654,1,1,1,1,1,1,1,1,1,1,36,10,m,Hispanic or Latino,0,0,family member,1,Toddlers
+655,0,1,0,0,1,1,0,0,1,0,36,4,m,White European,0,0,family member,1,Toddlers
+656,0,0,1,1,1,1,1,1,1,1,18,8,m,Hispanic or Latino,0,0,family member,1,Toddlers
+657,1,0,0,0,0,1,1,0,0,1,21,4,m,Middle Eastern ,1,0,family member,1,Toddlers
+658,1,1,1,1,1,1,1,0,1,1,32,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
+659,0,0,0,0,0,1,1,1,1,0,36,4,m,Asian,0,0,family member,1,Toddlers
+660,1,1,1,0,1,0,1,0,1,1,27,7,m,Asian,1,0,family member,1,Toddlers
+661,1,1,0,1,1,0,1,1,1,0,18,7,m,Black,1,1,family member,1,Toddlers
+662,0,0,0,1,1,1,0,1,0,0,24,4,m,Asian,0,0,family member,1,Toddlers
+663,1,1,0,0,1,1,1,0,0,0,36,5,m,Asian,0,0,family member,1,Toddlers
+664,0,0,1,1,1,1,1,0,1,0,22,6,f,Others,0,0,family member,1,Toddlers
+665,1,1,1,1,1,1,1,1,1,1,30,10,m,White European,1,1,family member,1,Toddlers
+666,1,1,1,1,1,1,1,1,1,1,19,10,m,White European,1,0,family member,1,Toddlers
+667,1,1,1,1,1,1,1,1,1,1,16,10,m,White European,0,0,family member,1,Toddlers
+668,1,1,0,1,1,1,1,1,1,1,26,9,f,Middle Eastern ,0,0,family member,1,Toddlers
+669,1,1,1,1,1,1,0,1,1,1,24,9,f,Hispanic or Latino,0,0,family member,1,Toddlers
+670,0,0,1,0,1,1,1,0,1,1,30,6,f,Others,1,0,family member,1,Toddlers
+671,1,0,0,0,1,0,0,0,0,1,12,3,m,Middle Eastern ,1,0,family member,0,Toddlers
+672,1,1,0,1,1,1,1,0,1,0,26,7,f,White European,0,0,family member,1,Toddlers
+673,1,1,1,1,1,1,1,1,1,1,30,10,m,White European,1,1,family member,1,Toddlers
+674,1,1,1,1,0,0,1,1,0,1,36,7,f,Others,1,0,family member,1,Toddlers
+675,0,1,0,1,0,1,1,1,1,1,36,7,f,Others,1,0,family member,1,Toddlers
+676,1,1,1,1,1,1,1,1,1,1,21,10,m,White European,1,0,family member,1,Toddlers
+677,1,1,0,0,0,1,1,1,1,1,36,7,m,White European,0,0,family member,1,Toddlers
+678,0,0,1,1,0,0,0,1,1,0,31,4,m,Asian,0,0,family member,1,Toddlers
+679,0,0,1,1,1,1,1,0,1,1,30,7,f,Others,1,0,family member,1,Toddlers
+680,1,1,1,1,1,1,1,1,1,1,30,10,f,Others,0,0,family member,1,Toddlers
+681,0,0,0,1,1,1,0,0,1,1,33,5,m,White European,0,0,family member,1,Toddlers
+682,1,1,0,0,1,1,1,1,1,0,26,7,m,White European,0,1,family member,1,Toddlers
+683,1,1,0,0,0,1,1,0,0,1,36,5,m,White European,1,0,family member,1,Toddlers
+684,1,1,0,0,0,0,1,0,0,0,36,3,m,Hispanic or Latino,0,0,family member,0,Toddlers
+685,1,1,1,1,1,0,1,0,1,0,36,7,m,Asian,0,0,family member,1,Toddlers
+686,0,0,0,1,1,1,1,1,0,0,24,5,f,White European,0,0,family member,1,Toddlers
+687,1,1,1,1,1,1,1,1,1,1,24,10,m,Asian,0,0,family member,1,Toddlers
+688,0,0,1,1,1,0,0,1,0,1,36,5,m,Others,0,0,family member,1,Toddlers
+689,0,1,1,0,1,0,1,0,1,0,34,5,f,Black,0,0,family member,1,Toddlers
+690,0,1,1,0,1,0,0,0,0,0,34,3,f,Black,1,0,family member,0,Toddlers
+691,0,1,1,0,1,0,0,0,0,0,34,3,f,Black,0,0,family member,0,Toddlers
+692,1,1,1,1,1,1,1,1,1,1,24,10,m,White European,0,0,Health care professional,1,Toddlers
+693,0,0,0,1,1,1,0,1,0,1,29,5,m,Asian,0,0,family member,1,Toddlers
+694,1,1,1,1,1,1,1,1,1,1,20,10,m,Middle Eastern ,0,1,family member,1,Toddlers
+695,0,0,0,0,1,1,1,1,0,1,30,5,m,Hispanic or Latino,1,0,family member,1,Toddlers
+696,0,1,1,1,0,1,1,1,1,1,36,8,m,Middle Eastern ,0,0,family member,1,Toddlers
+697,1,1,1,1,1,1,1,1,1,1,30,10,m,White European,1,0,family member,1,Toddlers
+698,1,1,1,1,0,1,1,1,1,1,27,9,f,White European,0,0,family member,1,Toddlers
+699,1,0,1,1,1,1,1,1,1,1,23,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
+700,1,0,1,1,0,1,1,1,1,1,23,8,m,Hispanic or Latino,0,0,Health care professional,1,Toddlers
+701,0,0,1,1,1,0,1,0,1,0,36,5,f,Asian,0,0,family member,1,Toddlers
+702,1,1,1,1,0,1,1,0,1,1,22,8,f,Pacifica,1,0,family member,1,Toddlers
+703,1,1,0,1,0,1,1,0,1,1,36,7,f,White European,0,0,family member,1,Toddlers
+704,1,1,0,0,1,0,1,1,1,0,36,6,m,Hispanic or Latino,0,0,family member,1,Toddlers
+705,0,0,0,1,0,1,1,1,1,1,26,6,m,Black,0,0,family member,1,Toddlers
+706,1,1,1,1,1,1,1,1,1,1,21,10,m,Asian,0,0,family member,1,Toddlers
+707,1,1,0,0,0,0,1,0,1,1,25,5,m,White European,1,0,family member,1,Toddlers
+708,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,0,family member,1,Toddlers
+709,1,1,1,0,0,0,1,0,1,0,13,5,f,Hispanic or Latino,0,0,family member,1,Toddlers
+710,0,0,1,1,1,1,1,1,1,0,15,7,m,White European,1,0,family member,1,Toddlers
+711,1,1,0,0,0,1,1,0,0,1,23,5,m,White European,0,0,family member,1,Toddlers
+712,0,0,1,1,0,0,0,0,1,1,24,4,m,Asian,0,0,family member,1,Toddlers
+713,1,0,1,1,1,1,1,0,1,1,36,8,m,Hispanic or Latino,0,1,family member,1,Toddlers
+714,1,0,1,1,1,1,1,1,1,0,29,8,m,White European,1,0,family member,1,Toddlers
+715,0,1,1,1,1,1,1,1,1,0,36,8,m,Middle Eastern ,1,1,family member,1,Toddlers
+716,0,0,0,0,1,0,1,0,0,1,36,3,m,Asian,0,0,family member,0,Toddlers
+717,1,1,1,1,0,0,1,1,0,1,32,7,m,Asian,0,0,family member,1,Toddlers
+718,0,0,0,0,0,1,1,1,0,0,12,3,m,Hispanic or Latino,0,0,family member,0,Toddlers
+719,1,0,0,1,0,1,1,1,1,0,36,6,m,White European,1,0,family member,1,Toddlers
+720,1,0,0,1,0,1,1,0,1,0,36,5,m,Others,1,0,family member,1,Toddlers
+721,1,1,0,0,1,1,1,0,1,1,36,7,m,Asian,0,0,family member,1,Toddlers
+722,1,0,1,1,0,0,0,0,1,0,12,4,m,White European,0,0,family member,1,Toddlers
+723,0,0,1,1,1,0,0,0,0,0,12,3,m,White European,0,0,family member,0,Toddlers
+724,1,0,0,1,0,0,0,0,1,0,12,3,m,White European,0,0,family member,0,Toddlers
+725,0,0,1,1,1,0,0,0,1,0,12,4,m,White European,0,0,family member,1,Toddlers
+726,0,0,1,1,1,0,0,0,0,0,12,3,m,White European,0,0,family member,0,Toddlers
+727,0,0,0,0,0,1,1,0,0,1,20,3,m,Asian,0,0,family member,0,Toddlers
+728,0,0,0,0,0,1,1,0,0,1,36,3,f,Asian,0,0,family member,0,Toddlers
+729,0,0,0,0,0,1,1,0,0,1,36,3,f,Asian,0,0,family member,0,Toddlers
+730,1,1,0,1,1,1,1,0,1,1,32,8,m,Asian,0,0,family member,1,Toddlers
+731,0,0,0,0,1,1,0,1,0,1,35,4,f,Asian,0,0,family member,1,Toddlers
+732,1,0,1,0,0,0,1,0,0,1,20,4,m,Middle Eastern ,0,0,family member,1,Toddlers
+733,1,0,1,0,0,0,0,0,0,1,20,3,m,Middle Eastern ,0,0,family member,0,Toddlers
+734,1,1,1,1,1,1,1,1,1,0,12,9,m,White European,0,0,family member,1,Toddlers
+735,1,1,0,0,0,1,0,0,0,1,36,4,m,Asian,0,0,Health care professional,1,Toddlers
+736,0,0,1,1,1,1,1,1,1,0,15,7,m,White European,1,0,family member,1,Toddlers
+737,1,1,0,0,1,0,1,1,1,1,36,7,m,White European,0,0,family member,1,Toddlers
+738,0,0,0,0,1,1,0,0,1,1,36,4,m,Native Indian,0,0,family member,1,Toddlers
+739,0,0,0,0,1,0,1,0,0,1,36,3,f,White European,0,0,family member,0,Toddlers
+740,1,1,1,1,1,1,1,1,0,1,27,9,m,Black,0,1,family member,1,Toddlers
+741,1,1,1,1,1,1,1,1,0,1,27,9,m,Black,0,1,family member,1,Toddlers
+742,1,1,0,0,1,0,0,1,1,0,36,5,m,Asian,0,0,family member,1,Toddlers
+743,1,0,0,0,1,1,0,1,0,1,35,5,f,Asian,0,0,family member,1,Toddlers
+744,1,1,1,1,1,1,1,1,1,0,36,9,f,White European,0,0,family member,1,Toddlers
+745,1,1,1,1,0,0,0,1,0,0,22,5,f,Hispanic or Latino,0,0,family member,1,Toddlers
+746,1,1,0,1,1,1,1,1,1,1,29,9,m,Asian,1,0,family member,1,Toddlers
+747,0,1,0,0,1,1,1,0,0,0,36,4,m,Asian,0,0,family member,1,Toddlers
+748,1,1,0,1,1,1,1,0,0,0,27,6,m,White European,0,1,family member,1,Toddlers
+749,0,0,1,1,1,0,1,1,1,0,26,6,f,White European,0,0,family member,1,Toddlers
+750,1,1,0,1,0,1,1,1,1,1,26,8,m,Middle Eastern ,1,0,family member,1,Toddlers
+751,1,0,1,1,1,1,1,0,1,0,16,7,m,White European,0,1,family member,1,Toddlers
+752,1,0,1,1,0,1,1,1,0,0,28,6,m,Asian,0,0,family member,1,Toddlers
+753,1,0,1,1,1,1,0,1,1,0,18,7,m,White European,0,0,family member,1,Toddlers
+754,1,0,0,0,0,0,1,0,1,0,36,3,m,Asian,0,0,family member,0,Toddlers
+755,0,0,0,0,1,1,0,1,0,1,35,4,f,Asian,0,0,family member,1,Toddlers
+756,1,0,0,0,0,0,1,0,0,1,30,3,m,Middle Eastern ,0,0,family member,0,Toddlers
+757,1,0,0,0,0,0,1,1,0,1,30,4,m,Middle Eastern ,0,0,family member,1,Toddlers
+758,1,1,0,0,0,1,0,1,0,1,33,5,m,Middle Eastern ,0,0,family member,1,Toddlers
+759,1,1,0,1,1,1,0,1,0,1,36,7,m,White European,1,1,family member,1,Toddlers
+760,1,0,0,0,0,0,1,1,1,1,36,5,m,White European,0,1,family member,1,Toddlers
+761,1,1,1,0,0,0,1,1,0,0,24,5,m,Black,0,0,Others,1,Toddlers
+762,1,1,0,1,0,0,0,0,0,1,16,4,f,Hispanic or Latino,0,0,family member,1,Toddlers
+763,0,0,0,0,0,1,1,0,0,1,24,3,m,White European,0,0,family member,0,Toddlers
+764,1,0,1,1,1,1,0,1,1,0,30,7,m,White European,1,0,family member,1,Toddlers
+765,1,1,1,1,1,1,1,0,0,0,36,7,m,Asian,0,0,family member,1,Toddlers
+766,1,0,1,0,1,1,1,0,1,1,24,7,m,Middle Eastern ,1,0,family member,1,Toddlers
+767,0,0,0,1,1,0,1,1,0,1,36,5,m,Asian,1,0,family member,1,Toddlers
+768,1,1,1,1,1,1,1,0,1,0,36,8,m,Asian,0,0,family member,1,Toddlers
+769,1,1,1,1,1,1,1,1,1,1,34,10,f,White European,0,0,family member,1,Toddlers
+770,1,0,1,1,0,1,1,0,1,0,24,6,m,White European,0,0,family member,1,Toddlers
+771,1,1,1,0,1,1,0,0,1,1,23,7,m,White European,0,0,family member,1,Toddlers
+772,1,1,1,1,1,1,1,0,1,1,30,9,f,Middle Eastern ,0,0,family member,1,Toddlers
+773,0,0,0,0,1,0,1,1,0,1,36,4,m,Asian,1,0,family member,1,Toddlers
+774,1,0,1,1,1,1,1,1,1,1,35,9,f,Middle Eastern ,0,0,family member,1,Toddlers
+775,1,0,1,1,1,1,1,0,1,1,35,8,f,Middle Eastern ,0,0,family member,1,Toddlers
+776,1,1,1,1,1,1,1,0,0,1,33,8,m,White European,0,0,family member,1,Toddlers
+777,1,0,0,1,0,0,1,0,0,1,34,4,m,Asian,1,0,family member,1,Toddlers
+778,1,1,1,1,1,1,1,1,1,1,24,10,f,Hispanic or Latino,0,0,Health care professional,1,Toddlers
+779,1,1,0,0,0,0,0,0,1,1,36,4,m,White European,1,0,family member,1,Toddlers
+780,0,0,0,1,0,0,0,0,1,1,36,3,m,Asian,0,0,family member,0,Toddlers
+781,1,0,1,1,1,0,1,0,1,1,33,7,f,Middle Eastern ,0,0,family member,1,Toddlers
+782,0,1,1,1,0,1,0,0,0,0,23,4,f,Pacifica,1,0,family member,1,Toddlers
+783,1,0,0,0,1,1,0,1,0,1,34,5,f,Asian,0,0,family member,1,Toddlers
+784,0,0,0,0,1,1,1,1,0,0,36,4,m,Black,1,0,Self,1,Toddlers
+785,1,0,0,1,1,0,1,0,1,0,27,5,m,White European,0,0,family member,1,Toddlers
+786,1,1,1,1,1,1,1,1,0,0,36,8,m,Black,0,1,family member,1,Toddlers
+787,1,0,1,1,1,0,1,0,0,1,24,6,m,Asian,0,0,family member,1,Toddlers
+788,1,0,1,1,1,0,1,0,0,1,24,6,m,Asian,0,0,family member,1,Toddlers
+789,0,0,0,1,0,0,1,0,0,1,34,3,f,White European,0,1,family member,0,Toddlers
+790,1,1,1,1,1,1,1,1,1,0,32,9,m,Asian,1,1,family member,1,Toddlers
+791,1,0,1,1,0,0,1,0,0,1,24,5,m,Asian,0,0,family member,1,Toddlers
+792,0,1,1,1,1,1,1,1,1,1,30,9,m,Hispanic or Latino,0,0,family member,1,Toddlers
+793,0,1,0,0,1,1,0,0,1,0,36,4,m,White European,0,1,family member,1,Toddlers
+794,1,1,1,1,1,1,1,1,1,0,30,9,m,Middle Eastern ,0,0,family member,1,Toddlers
+795,1,0,0,0,0,1,1,1,1,0,30,5,f,White European,0,0,family member,1,Toddlers
+796,0,0,1,1,0,0,1,0,1,0,24,4,m,Hispanic or Latino,0,0,family member,1,Toddlers
+797,0,1,0,0,1,0,1,1,0,1,36,5,m,Hispanic or Latino,0,0,family member,1,Toddlers
+798,1,1,0,0,0,1,1,1,0,1,36,6,f,Asian,0,0,family member,1,Toddlers
+799,0,0,1,1,0,0,0,0,1,0,21,3,m,Asian,0,0,family member,0,Toddlers
+800,1,1,0,0,1,1,1,0,0,1,36,6,m,Asian,0,0,family member,1,Toddlers
+801,0,1,1,1,1,1,1,1,0,0,12,7,m,White European,0,0,family member,1,Toddlers
+802,1,1,0,0,0,0,0,1,0,1,36,4,m,White European,0,1,family member,1,Toddlers
+803,0,0,0,0,0,0,1,1,0,1,23,3,m,Asian,1,0,family member,0,Toddlers
+804,0,0,1,1,1,0,0,1,1,0,29,5,m,White European,0,0,family member,1,Toddlers
+805,0,0,1,1,1,1,0,0,1,0,22,5,f,Hispanic or Latino,0,0,family member,1,Toddlers
+806,1,1,0,1,0,1,1,1,1,1,36,8,m,White European,0,1,family member,1,Toddlers
+807,0,0,0,0,1,0,0,1,0,1,36,3,m,Asian,1,0,family member,0,Toddlers
+808,1,1,0,0,0,1,1,1,0,1,36,6,f,Others,0,1,family member,1,Toddlers
+809,1,0,1,1,1,0,1,0,0,0,32,5,m,White European,1,0,family member,1,Toddlers
+810,1,0,0,1,0,1,1,1,0,0,18,5,m,Others,1,0,family member,1,Toddlers
+811,1,1,0,1,0,1,1,1,0,0,14,6,f,Asian,0,0,family member,1,Toddlers
+812,1,1,0,0,0,0,1,0,1,0,26,4,m,Asian,0,1,family member,1,Toddlers
+813,0,0,0,0,1,1,1,0,1,0,26,4,m,Asian,0,1,family member,1,Toddlers
+814,1,1,1,1,0,0,1,1,1,1,30,8,m,Hispanic or Latino,1,0,family member,1,Toddlers
+815,1,1,1,1,1,1,1,1,1,1,25,10,m,Asian,0,1,family member,1,Toddlers
+816,1,1,1,1,1,1,1,1,1,1,25,10,m,Asian,0,1,family member,1,Toddlers
+817,1,1,1,1,1,1,1,1,1,1,30,10,m,Middle Eastern ,0,0,Health care professional,1,Toddlers
+818,0,1,0,1,1,1,1,1,1,0,24,7,f,Middle Eastern ,0,0,family member,1,Toddlers
+819,1,1,0,0,1,1,1,0,0,0,30,5,f,White European,0,0,family member,1,Toddlers
+820,0,0,1,1,1,0,1,0,1,0,12,5,m,Black,1,0,family member,1,Toddlers
+821,1,0,1,1,1,1,1,1,1,1,18,9,m,Middle Eastern ,1,0,family member,1,Toddlers
+822,1,0,0,0,0,0,0,1,0,1,19,3,m,White European,0,1,family member,0,Toddlers
+823,1,1,0,0,1,1,0,1,1,0,24,6,m,Asian,1,1,family member,1,Toddlers
+824,1,1,1,1,0,0,1,1,0,0,28,6,f,White European,0,0,Self,0,Adults
+825,1,1,0,1,0,0,0,1,0,1,28,5,m,Hispanic or Latino,0,1,Self,0,Adolescents
+826,1,1,0,1,1,0,1,1,1,1,28,8,m,Hispanic or Latino,1,1,family member,1,Adults
+827,1,1,0,1,0,0,1,1,0,1,28,6,f,White European,0,1,Self,0,Adults
+828,1,1,1,1,1,0,1,1,1,1,28,9,m,Others,1,0,Self,1,Adults
+829,1,1,1,1,0,0,0,0,1,0,28,5,m,White European,0,0,family member,0,Adults
+830,1,1,0,0,1,0,0,1,1,1,28,6,m,White European,0,0,Self,0,Adults
+831,1,1,1,1,0,1,1,1,1,0,28,8,m,Asian,1,1,Health care professional,1,Adolescents
+832,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,family member,1,Adults
+833,0,1,0,1,1,1,1,0,0,1,28,6,f,Middle Eastern ,0,0,family member,0,Adolescents
+834,0,1,1,1,1,1,0,0,1,0,28,6,f,Others,0,0,Self,0,Adolescents
+835,1,0,0,0,0,0,1,1,0,1,28,4,m,Others,0,0,Self,0,Adolescents
+836,1,0,0,0,0,0,1,1,0,1,28,4,f,Others,0,0,Self,0,Adolescents
+837,1,1,0,1,1,0,0,1,0,1,28,6,m,Middle Eastern ,0,1,family member,0,Adolescents
+838,1,0,0,0,0,0,1,1,1,1,28,5,m,Middle Eastern ,0,0,Self,0,Adults
+839,0,0,1,0,1,1,0,0,0,0,28,3,f,Middle Eastern ,0,1,Self,0,Adults
+840,0,0,0,0,0,0,1,1,0,1,28,3,m,Others,1,0,Self,0,Adults
+841,0,1,1,1,0,0,0,0,0,0,28,3,m,Others,0,0,Self,0,Adults
+842,0,0,0,1,0,0,1,1,1,1,28,5,m,Middle Eastern ,0,0,Self,0,Adults
+843,1,1,1,1,0,0,0,1,0,0,28,5,m,Others,0,0,Self,0,Adults
+844,0,1,1,0,0,0,0,1,0,0,28,3,f,Others,1,0,Self,0,Adolescents
+845,0,1,1,0,0,0,0,0,1,1,28,4,m,Middle Eastern ,0,0,Self,0,Adults
+846,1,0,0,1,1,1,1,1,0,1,28,7,f,White European,0,1,Self,1,Adults
+847,1,1,0,0,0,0,1,0,0,1,28,4,f,Others,0,0,Self,0,Adults
+848,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,0,Self,1,Adolescents
+849,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,0,Self,1,Adolescents
+850,0,1,1,0,1,0,0,1,1,1,28,6,m,Middle Eastern ,0,0,Self,0,Adults
+851,1,0,1,1,1,1,0,0,1,0,28,6,f,White European,0,0,Self,0,Adults
+852,1,0,0,1,1,1,1,0,1,1,28,7,f,White European,0,0,Self,1,Adults
+853,1,0,1,1,0,1,1,1,1,1,28,8,f,White European,0,1,Self,1,Adults
+854,1,0,1,1,1,0,1,1,0,1,28,7,f,Hispanic or Latino,1,0,Self,1,Adolescents
+855,0,0,1,1,0,0,0,0,0,1,28,3,f,Middle Eastern ,0,1,Self,0,Adults
+856,0,1,1,1,0,0,0,0,0,1,28,4,f,White European,1,1,Self,0,Adults
+857,1,1,1,1,1,1,0,1,0,1,28,8,f,White European,0,0,Self,1,Adults
+858,1,0,1,1,1,1,0,1,1,0,28,7,f,White European,0,0,family member,1,Adults
+859,1,1,1,1,0,1,0,0,0,0,28,5,f,Pacifica,0,0,family member,0,Adolescents
+860,0,0,1,1,1,0,1,0,0,0,28,4,m,Pacifica,0,0,family member,0,Adolescents
+861,0,1,1,0,0,1,0,0,0,0,28,3,m,White European,0,0,family member,0,Adults
+862,1,1,0,0,0,1,1,1,0,1,28,6,f,Asian,0,0,Self,0,Adults
+863,1,0,0,1,0,0,0,1,0,0,28,3,f,Hispanic or Latino,0,0,Self,0,Adolescents
+864,1,1,1,1,1,1,1,1,1,1,28,10,f,Black,0,0,family member,1,Adults
+865,1,0,1,1,1,1,1,1,0,1,28,8,m,Hispanic or Latino,0,1,Self,1,Adolescents
+866,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
+867,1,1,1,1,1,1,0,1,1,1,28,9,f,Asian,0,0,Self,1,Adults
+868,1,0,1,1,1,1,0,1,1,1,28,8,f,White European,0,0,Self,1,Adults
+869,1,1,1,1,1,1,0,1,1,1,28,9,f,White European,0,0,Self,1,Adults
+870,1,0,0,0,1,0,0,1,0,0,28,3,f,Asian,0,1,Self,0,Adults
+871,1,1,1,1,0,0,0,1,0,0,28,5,f,White European,0,0,Self,0,Adults
+872,1,0,1,1,1,1,1,1,0,1,28,8,f,Others,0,0,Self,1,Adolescents
+873,1,0,1,1,0,1,1,1,0,1,28,7,f,Others,0,0,Self,1,Adolescents
+874,1,0,0,1,1,0,0,1,1,0,28,5,m,White European,0,0,family member,0,Adolescents
+875,1,1,1,1,1,1,1,1,0,1,28,9,f,White European,0,0,Self,1,Adults
+876,1,0,1,0,0,0,0,1,0,0,28,3,m,Middle Eastern ,0,0,Self,0,Adolescents
+877,1,0,1,0,1,1,1,1,0,0,28,6,m,Hispanic or Latino,0,0,Self,0,Adolescents
+878,1,0,0,0,1,0,1,0,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adults
+879,1,1,0,0,0,0,1,1,0,1,28,5,f,Asian,0,0,Self,0,Adults
+880,0,0,1,1,0,0,0,1,0,0,28,3,m,Asian,0,0,Self,0,Adults
+881,1,0,1,1,0,0,1,1,0,1,28,6,m,Others,0,0,Self,0,Adolescents
+882,1,1,1,0,0,0,0,1,1,1,28,6,m,Others,0,0,Self,0,Adolescents
+883,0,0,1,1,1,0,0,1,1,1,28,6,f,White European,0,1,Self,0,Adults
+884,1,1,0,1,1,1,1,1,0,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
+885,1,0,0,0,0,0,1,1,0,0,28,3,m,Middle Eastern ,0,0,Self,0,Adolescents
+886,1,1,0,1,1,1,1,1,1,0,28,8,f,Black,0,1,Self,1,Adults
+887,1,0,0,1,1,0,0,0,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
+888,0,0,1,1,0,0,1,1,0,1,28,5,m,Others,1,1,Self,0,Adults
+889,1,0,0,0,0,0,1,0,0,1,28,3,m,Others,0,0,Self,0,Adults
+890,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,1,Self,1,Adults
+891,0,0,1,0,1,0,0,1,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adults
+892,1,0,0,0,0,0,0,1,0,1,28,3,f,Middle Eastern ,0,0,Self,0,Adults
+893,1,0,0,1,1,1,1,1,1,1,28,8,f,Middle Eastern ,0,1,family member,1,Adults
+894,1,0,0,0,0,0,0,1,1,1,28,4,f,White European,0,1,Self,0,Adults
+895,1,1,1,1,1,1,0,1,1,1,28,9,f,White European,0,0,Self,1,Adults
+896,1,0,1,1,0,0,0,0,0,1,28,4,f,White European,0,1,Self,0,Adolescents
+897,0,1,0,0,1,0,1,0,0,1,28,4,f,Others,0,0,Self,0,Adults
+898,0,0,0,1,1,1,0,1,0,1,28,5,f,Pacifica,0,0,Self,0,Adolescents
+899,1,1,1,0,1,1,1,0,1,1,28,8,f,Hispanic or Latino,0,1,Self,1,Adolescents
+900,1,1,1,1,1,0,0,1,1,1,28,8,f,White European,0,1,Self,1,Adults
+901,1,1,0,0,0,0,0,1,0,1,28,4,f,White European,0,0,Self,0,Adults
+902,1,0,0,0,1,0,1,1,0,0,28,4,f,White European,0,0,Self,0,Adults
+903,1,0,0,1,1,0,1,0,0,0,28,4,m,Others,0,0,Self,0,Adolescents
+904,1,1,0,0,0,0,0,1,0,0,28,3,f,Pacifica,0,0,Self,0,Adults
+905,0,1,1,0,0,0,0,1,0,0,28,3,f,Asian,0,0,Self,0,Adults
+906,1,0,0,0,0,0,0,0,1,1,28,3,m,Asian,0,0,Self,0,Adults
+907,1,1,0,0,1,0,1,1,0,0,28,5,m,Asian,0,0,Self,0,Adults
+908,0,0,0,0,1,1,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adolescents
+909,0,0,1,0,1,1,1,1,0,1,28,6,m,Asian,0,0,Self,0,Adults
+910,1,1,0,1,1,0,1,1,0,1,28,7,f,White European,0,0,Self,1,Adults
+911,1,0,0,1,1,1,1,0,0,0,28,5,f,Asian,0,0,family member,0,Adolescents
+912,1,0,0,0,0,1,1,0,0,0,28,3,f,Asian,0,0,family member,0,Adolescents
+913,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,1,Self,1,Adolescents
+914,0,0,1,1,0,1,0,1,1,1,28,6,m,White European,0,0,Self,0,Adolescents
+915,1,0,0,0,1,0,0,0,0,1,28,3,m,Asian,0,0,family member,0,Adults
+916,0,1,0,0,0,0,0,1,1,1,28,4,m,Asian,0,0,Self,0,Adults
+917,1,1,0,1,1,1,1,1,0,1,28,8,f,Middle Eastern ,0,0,Self,1,Adults
+918,1,0,1,1,1,1,0,1,1,0,28,7,f,White European,0,0,family member,1,Adults
+919,1,1,1,1,1,1,0,1,0,1,28,8,f,White European,0,0,Self,1,Adolescents
+920,1,1,1,0,1,0,1,1,0,0,28,6,m,White European,0,0,Self,0,Adults
+921,1,1,1,1,1,1,0,1,1,1,28,9,f,White European,0,0,Self,1,Adults
+922,1,1,1,1,1,1,0,0,1,0,28,7,m,White European,0,0,Self,1,Adults
+923,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,Self,1,Adolescents
+924,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,0,Self,1,Adolescents
+925,1,0,0,1,1,1,1,1,0,1,28,7,m,Asian,1,0,Self,1,Adults
+926,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,1,Self,1,Adults
+927,1,1,0,0,1,1,1,1,0,1,28,7,f,White European,0,0,Self,1,Adults
+928,1,0,0,1,1,1,0,1,0,1,28,6,m,Middle Eastern ,0,1,Self,0,Adults
+929,1,0,1,1,0,0,1,0,0,1,28,5,f,White European,0,0,Self,0,Adults
+930,1,0,0,0,1,0,0,0,1,1,28,4,f,White European,0,1,family member,0,Adults
+931,1,1,0,0,0,0,0,1,0,0,28,3,f,White European,0,0,Self,0,Adolescents
+932,1,0,0,0,0,0,0,1,0,1,28,3,m,Black,0,0,Self,0,Adolescents
+933,1,1,0,0,0,0,0,1,0,0,28,3,m,Asian,0,0,Self,0,Adolescents
+934,1,0,1,1,0,0,0,1,0,1,28,5,m,Asian,0,0,Self,0,Adolescents
+935,0,1,0,0,1,1,0,1,1,0,28,5,m,Asian,0,0,Self,0,Adolescents
+936,1,0,1,1,0,0,0,1,1,1,28,6,m,Asian,0,0,Self,0,Adults
+937,0,1,1,0,0,1,0,0,1,1,28,5,m,Asian,0,0,Self,0,Adolescents
+938,1,0,0,0,0,0,1,0,0,1,28,3,m,Asian,0,0,Self,0,Adolescents
+939,0,0,1,1,0,0,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adolescents
+940,1,0,1,0,0,0,0,1,0,0,28,3,m,Asian,0,0,Self,0,Adolescents
+941,1,0,0,1,1,0,0,1,0,0,28,4,m,Asian,0,0,Self,0,Adults
+942,1,0,0,1,1,1,1,1,1,1,28,8,m,White European,0,0,family member,1,Adults
+943,1,0,1,1,1,1,1,1,1,1,28,9,m,White European,0,0,Self,1,Adolescents
+944,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,0,Self,1,Adolescents
+945,1,1,0,0,1,1,1,1,0,1,28,7,f,Others,0,0,Self,1,Adults
+946,1,1,1,1,1,0,1,1,1,0,28,8,m,White European,1,1,Self,1,Adults
+947,0,1,1,1,1,0,1,1,0,1,28,7,m,Asian,0,0,Self,1,Adolescents
+948,1,1,0,0,1,0,0,0,0,1,28,4,f,Asian,0,0,Self,0,Adults
+949,0,0,1,0,1,0,1,0,1,1,28,5,m,Asian,0,0,Self,0,Adults
+950,1,0,0,0,1,0,1,0,0,1,28,4,m,Asian,0,0,Self,0,Adults
+951,0,0,0,0,0,0,1,1,0,1,28,3,f,Asian,0,0,Self,0,Adults
+952,1,0,0,0,0,1,0,1,0,1,28,4,f,Asian,0,0,Self,0,Adults
+953,0,1,0,0,1,0,0,1,0,1,28,4,f,Asian,0,0,Self,0,Adults
+954,1,0,0,1,0,0,0,0,1,1,28,4,f,Asian,0,0,Self,0,Adults
+955,1,0,0,0,0,0,1,1,0,0,28,3,m,Asian,0,0,Self,0,Adults
+956,1,1,0,0,0,0,0,1,0,0,28,3,m,Asian,0,0,Self,0,Adolescents
+957,1,0,1,0,1,0,1,1,0,1,28,6,f,Asian,0,0,Self,0,Adolescents
+958,1,0,0,0,1,0,1,1,0,1,28,5,m,Asian,0,0,Self,0,Adults
+959,0,0,1,0,0,0,0,1,1,1,28,4,f,Others,0,0,Self,0,Adults
+960,1,0,0,0,1,0,1,1,0,0,28,4,f,Asian,0,0,Self,0,Adults
+961,0,0,1,1,1,0,0,1,1,1,28,6,f,Hispanic or Latino,0,1,Self,0,Adults
+962,1,1,1,1,1,0,0,1,1,1,28,8,f,Hispanic or Latino,0,1,Self,1,Adults
+963,1,0,1,1,0,0,1,1,0,1,28,6,m,Hispanic or Latino,0,0,Self,0,Adults
+964,1,1,0,1,0,0,1,0,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
+965,0,0,1,1,1,0,0,0,0,1,28,4,f,Asian,0,0,Self,0,Adolescents
+966,1,0,0,1,0,0,0,1,0,0,28,3,m,White European,0,0,Self,0,Adults
+967,1,1,0,0,0,0,1,1,1,1,28,6,f,Black,0,0,Self,0,Adults
+968,1,1,1,1,1,1,0,1,1,1,28,9,f,Black,0,0,Self,1,Adults
+969,0,0,1,1,1,0,0,1,1,1,28,6,m,Middle Eastern ,0,0,Self,0,Adults
+970,1,0,1,0,1,0,0,1,0,1,28,5,m,Middle Eastern ,0,0,Self,0,Adults
+971,1,0,1,0,1,0,1,0,0,0,28,4,m,White European,0,0,Self,0,Adults
+972,1,0,0,0,1,0,1,0,0,1,28,4,f,White European,0,0,Self,0,Adults
+973,1,1,1,1,1,0,0,0,0,0,28,5,f,Asian,0,0,Self,0,Adolescents
+974,0,1,0,1,1,1,0,1,0,1,28,6,m,White European,0,0,Others,0,Adults
+975,0,0,1,1,1,0,0,0,0,1,28,4,m,Asian,0,0,Self,0,Adults
+976,0,0,1,1,1,0,1,0,0,1,28,5,m,White European,0,0,Self,0,Adolescents
+977,1,0,1,1,1,1,1,0,1,0,28,7,m,Asian,0,0,Self,1,Adults
+978,1,0,0,0,0,0,1,1,0,1,28,4,m,Others,0,1,Self,0,Adults
+979,1,0,0,0,0,0,1,1,0,1,28,4,f,White European,0,0,Self,0,Adults
+980,1,1,0,1,1,1,0,1,1,1,28,8,f,White European,0,1,Self,1,Adults
+981,1,1,1,0,1,0,1,0,0,0,28,5,m,White European,0,0,Self,0,Adults
+982,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,Self,1,Adults
+983,1,1,0,1,0,0,0,1,0,1,28,5,m,Hispanic or Latino,1,1,family member,0,Adults
+984,1,0,0,0,0,0,0,1,0,1,28,3,m,Hispanic or Latino,0,0,Self,0,Adults
+985,0,1,0,1,0,0,0,1,0,0,28,3,m,White European,0,1,Self,0,Adults
+986,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,0,Self,1,Adults
+987,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
+988,1,0,1,1,1,1,1,1,1,1,28,9,m,White European,0,0,Self,1,Adults
+989,1,1,1,0,1,1,0,1,1,0,28,7,m,White European,0,0,Self,1,Adults
+990,1,1,1,1,0,0,0,0,0,0,28,4,f,Pacifica,0,1,Self,0,Adults
+991,1,1,1,1,1,0,1,1,1,1,28,9,f,White European,0,0,Self,1,Adolescents
+992,1,1,0,1,1,0,0,0,1,1,28,6,f,White European,0,0,Self,0,Adolescents
+993,1,1,0,1,1,0,0,1,1,1,28,7,f,White European,0,0,Self,1,Adolescents
+994,1,1,1,1,1,1,1,0,1,1,28,9,f,White European,0,1,family member,1,Adults
+995,1,0,1,1,0,0,0,0,0,0,28,3,m,White European,0,1,Self,0,Adults
+996,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
+997,1,1,1,1,1,1,1,1,1,1,28,10,m,Middle Eastern ,0,1,family member,1,Adolescents
+998,1,1,1,0,1,0,0,1,1,1,28,7,f,White European,0,0,Self,1,Adolescents
+999,1,1,1,1,0,0,1,1,0,0,28,6,m,White European,0,0,Self,0,Adults
+1000,1,0,0,1,1,1,1,1,1,1,28,8,f,White European,0,0,Self,1,Adults
+1001,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,1,Self,1,Adults
+1002,0,0,0,1,0,1,0,1,1,1,28,5,m,Asian,0,1,Self,0,Adults
+1003,1,1,0,0,0,1,1,1,0,1,28,6,f,White European,0,0,Self,0,Adults
+1004,1,0,1,1,0,0,0,0,0,1,28,4,f,White European,0,0,Self,0,Adults
+1005,1,1,1,1,0,0,0,0,0,1,28,5,m,White European,0,0,Self,0,Adults
+1006,1,1,0,0,1,1,1,1,1,1,28,8,f,Black,0,0,Self,1,Adolescents
+1007,1,0,0,0,0,0,1,1,0,1,28,4,f,Others,1,0,Self,0,Adults
+1008,1,1,0,0,0,0,0,1,0,1,28,4,m,White European,0,1,family member,0,Adults
+1009,1,1,0,1,1,0,1,1,0,1,28,7,m,White European,0,0,Self,1,Adolescents
+1010,1,1,0,0,0,0,0,1,0,0,28,3,m,White European,0,0,Self,0,Adults
+1011,1,1,1,1,1,0,0,1,0,0,28,6,m,White European,0,0,Self,0,Adolescents
+1012,1,0,1,1,0,1,1,1,1,1,28,8,m,White European,0,0,Self,1,Adolescents
+1013,1,1,1,1,1,1,1,0,1,1,28,9,f,White European,0,0,Self,1,Adolescents
+1014,0,1,0,1,0,0,0,1,0,1,28,4,f,White European,0,0,Self,0,Adults
+1015,1,1,1,1,1,1,1,0,1,1,28,9,m,Asian,1,0,family member,1,Adolescents
+1016,0,0,0,1,1,0,1,1,0,1,28,5,m,Hispanic or Latino,0,0,Self,0,Adolescents
+1017,1,1,1,1,1,1,1,1,1,1,28,10,f,Asian,0,0,Self,1,Adults
+1018,1,0,0,0,0,0,1,1,0,0,28,3,m,Asian,0,0,Self,0,Adolescents
+1019,1,1,0,0,1,0,0,0,0,0,28,3,m,White European,0,0,Self,0,Adolescents
+1020,0,1,0,0,0,0,0,1,1,1,28,4,m,White European,0,0,Self,0,Adolescents
+1021,1,0,0,0,1,1,1,1,0,1,28,6,m,Asian,0,0,Self,0,Adolescents
+1022,0,1,0,0,0,0,0,1,1,0,28,3,m,Others,0,0,Self,0,Adolescents
+1023,1,0,0,1,1,0,1,1,0,0,28,5,m,Asian,0,0,Self,0,Adolescents
+1024,1,0,0,0,1,0,1,1,1,1,28,6,m,Others,0,0,Self,0,Adolescents
+1025,1,0,0,0,1,0,0,1,0,1,28,4,f,Asian,0,0,Self,0,Adolescents
+1026,0,0,1,0,1,1,0,0,1,1,28,5,m,Others,0,0,Self,0,Adults
+1027,1,0,1,0,1,0,1,1,0,1,28,6,m,Asian,0,0,Self,0,Adults
+1028,1,0,0,0,0,0,1,1,0,1,28,4,f,Asian,0,0,Self,0,Adults
+1029,1,0,0,1,1,0,1,1,0,0,28,5,m,Pacifica,0,0,Self,0,Adolescents
+1030,0,0,1,1,0,1,0,1,1,1,28,6,m,White European,0,0,Self,0,Adolescents
+1031,1,0,0,1,1,1,1,1,1,1,28,8,m,Asian,0,0,Self,1,Adolescents
+1032,1,0,0,0,0,0,1,1,0,0,28,3,m,Asian,0,0,Self,0,Adults
+1033,1,0,0,1,0,0,1,1,0,0,28,4,m,Asian,0,0,Self,0,Adolescents
+1034,1,0,1,0,0,0,1,0,0,0,28,3,m,White European,0,0,Self,0,Adults
+1035,1,1,0,0,1,0,0,1,0,0,28,4,m,Turkish,0,0,Self,0,Adults
+1036,1,0,0,0,0,1,0,1,1,1,28,5,m,Asian,0,0,Self,0,Adolescents
+1037,0,1,1,0,1,0,0,1,0,0,28,4,m,Others,0,0,Self,0,Adolescents
+1038,1,0,0,0,1,1,0,1,0,1,28,5,m,Asian,0,0,Self,0,Adolescents
+1039,1,0,0,0,0,0,1,1,1,1,28,5,m,Asian,0,0,Self,0,Adolescents
+1040,0,0,0,0,0,0,1,1,0,1,28,3,m,Asian,0,0,Self,0,Adolescents
+1041,1,0,1,0,1,0,0,1,0,1,28,5,f,Asian,0,0,Self,0,Adults
+1042,1,0,0,0,0,0,1,1,0,0,28,3,m,Asian,0,0,Self,0,Adults
+1043,1,0,0,0,1,0,0,1,1,0,28,4,f,Asian,0,0,Self,0,Adolescents
+1044,1,1,1,0,1,0,1,1,0,1,28,7,m,Asian,0,0,Self,1,Adults
+1045,1,0,0,1,0,0,0,0,1,0,28,3,m,Asian,0,0,Self,0,Adolescents
+1046,1,0,0,0,0,0,0,1,0,1,28,3,m,Pacifica,0,0,Self,0,Adolescents
+1047,1,0,1,1,1,0,0,1,0,0,28,5,f,White European,0,0,Self,0,Adults
+1048,1,0,0,1,1,0,1,1,0,1,28,6,f,Asian,0,0,Self,0,Adolescents
+1049,1,0,1,1,1,1,0,0,1,1,28,7,f,Others,0,1,Self,1,Adolescents
+1050,1,1,1,1,0,0,0,1,1,1,28,7,f,Black,0,1,family member,1,Adults
+1051,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
+1052,1,1,1,0,0,0,0,1,0,0,28,4,f,White European,0,1,Self,0,Adults
+1053,0,1,1,1,0,0,0,0,1,0,28,4,m,Asian,0,0,Others,0,Adults
+1054,1,0,0,0,1,0,0,0,1,0,28,3,m,Others,0,0,Self,0,Adults
+1055,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,0,0,Self,1,Adults
+1056,0,1,1,0,1,0,0,0,0,0,28,3,m,Hispanic or Latino,1,0,Self,0,Adults
+1057,1,1,1,1,1,0,0,1,1,1,28,8,m,White European,0,0,Self,1,Adults
+1058,0,1,1,0,1,1,1,0,1,1,28,7,f,Black,0,0,family member,1,Adults
+1059,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,0,Self,1,Adults
+1060,0,1,0,0,0,0,1,0,0,1,28,3,f,White European,1,0,Self,0,Adults
+1061,0,0,0,1,1,1,1,0,1,1,28,6,f,Others,0,0,Self,0,Adults
+1062,1,0,0,1,1,0,0,1,0,1,28,5,m,White European,0,0,Self,0,Adults
+1063,1,1,1,0,1,1,1,0,1,1,28,8,m,White European,1,0,Self,1,Adults
+1064,1,1,1,0,1,1,1,0,1,1,28,8,f,White European,0,0,Self,1,Adolescents
+1065,1,1,0,1,1,0,0,1,1,1,28,7,f,Black,0,0,Self,1,Adults
+1066,0,1,1,1,0,0,0,1,0,1,28,5,m,White European,0,1,Self,0,Adults
+1067,1,0,0,0,1,0,1,0,0,1,28,4,f,White European,0,1,Self,0,Adults
+1068,1,0,1,1,1,1,0,0,1,1,28,7,f,White European,0,0,Self,1,Adults
+1069,1,1,1,1,1,1,0,0,1,1,28,8,f,White European,1,0,family member,1,Adolescents
+1070,1,1,1,1,0,1,0,1,1,1,28,8,m,White European,0,1,Others,1,Adults
+1071,1,0,0,1,0,0,1,1,0,1,28,5,f,White European,1,0,Self,0,Adults
+1072,1,1,1,1,1,1,1,0,1,1,28,9,f,White European,1,0,Self,1,Adolescents
+1073,1,0,0,1,0,0,0,1,0,0,28,3,m,White European,0,0,Self,0,Adults
+1074,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,0,Self,1,Adults
+1075,0,0,1,1,1,1,1,1,0,0,28,6,f,White European,0,0,Self,0,Adults
+1076,1,1,1,1,1,0,0,0,1,0,28,6,m,Asian,0,0,Self,0,Adults
+1077,1,1,0,1,0,0,0,0,0,1,28,4,f,White European,0,0,Self,0,Adults
+1078,1,0,0,1,1,0,1,1,1,1,28,7,f,Others,0,0,Self,1,Adults
+1079,1,0,0,1,1,1,1,1,1,1,28,8,f,White European,0,0,Self,1,Adolescents
+1080,1,1,1,1,1,1,0,0,1,1,28,8,f,Others,0,0,Self,1,Adolescents
+1081,1,1,1,1,1,1,0,1,0,0,28,7,f,Middle Eastern ,0,0,Self,1,Adults
+1082,0,0,1,1,1,0,0,1,0,0,28,4,m,White European,1,0,Self,0,Adults
+1083,1,0,1,0,1,1,1,1,1,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
+1084,1,0,1,1,1,1,0,1,1,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
+1085,1,0,0,1,1,0,0,1,0,1,28,5,f,White European,0,0,Self,0,Adolescents
+1086,1,1,0,0,0,0,0,1,0,0,28,3,m,Others,0,0,Self,0,Adolescents
+1087,0,1,0,0,0,0,1,1,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
+1088,0,0,0,1,1,0,0,1,1,0,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
+1089,1,1,1,0,1,0,0,1,0,1,28,6,m,Others,0,0,Self,0,Adolescents
+1090,0,1,1,0,0,0,0,1,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
+1091,1,1,1,0,1,1,1,1,0,1,28,8,m,Middle Eastern ,0,0,Self,1,Adolescents
+1092,1,1,0,1,1,0,0,0,0,0,28,4,f,Asian,0,1,Self,0,Adolescents
+1093,1,1,1,0,1,0,0,1,0,0,28,5,m,Middle Eastern ,0,0,family member,0,Adolescents
+1094,1,1,1,0,1,0,0,1,0,0,28,5,m,Middle Eastern ,0,0,family member,0,Adolescents
+1095,1,1,1,0,0,0,0,1,0,0,28,4,m,Middle Eastern ,0,0,family member,0,Adolescents
+1096,0,1,0,0,0,0,1,1,0,0,28,3,m,Middle Eastern ,0,0,family member,0,Adolescents
+1097,1,1,1,0,0,0,0,1,0,0,28,4,m,Middle Eastern ,0,0,family member,0,Adolescents
+1098,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adolescents
+1099,1,0,0,1,1,1,1,0,1,1,28,7,m,White European,0,0,Self,1,Adults
+1100,1,0,0,0,0,1,1,0,1,1,28,5,f,Asian,0,0,family member,0,Adults
+1101,1,1,0,1,0,0,1,1,0,0,28,5,m,White European,1,0,Self,0,Adults
+1102,1,1,1,1,0,0,1,1,0,0,28,6,m,White European,0,0,Self,0,Adults
+1103,1,0,0,1,1,1,0,0,0,0,28,4,m,Middle Eastern ,0,0,Self,0,Adults
+1104,1,1,0,0,0,0,0,0,0,1,28,3,m,Others,0,0,Self,0,Adolescents
+1105,1,0,1,0,0,0,1,1,0,0,28,4,f,Others,0,0,Self,0,Adolescents
+1106,1,0,1,1,0,0,1,1,1,0,28,6,f,Others,0,0,Self,0,Adolescents
+1107,1,1,1,1,1,0,0,1,0,0,28,6,m,Others,0,0,Self,0,Adolescents
+1108,1,0,1,1,0,0,0,0,0,0,28,3,f,Others,0,0,Self,0,Adolescents
+1109,0,1,0,1,0,1,0,1,0,1,28,5,f,Others,0,0,Self,0,Adolescents
+1110,1,0,0,0,1,0,1,1,1,0,28,5,m,Others,0,0,Self,0,Adolescents
+1111,1,0,1,1,0,1,1,1,1,1,28,8,f,Others,0,0,Self,1,Adolescents
+1112,1,1,1,0,0,0,0,1,0,1,28,5,f,Others,0,0,Self,0,Adolescents
+1113,1,1,1,0,1,0,1,1,1,1,28,8,m,Others,0,0,Self,1,Adolescents
+1114,1,1,0,0,0,0,1,1,0,0,28,4,m,Others,0,0,Self,0,Adolescents
+1115,1,0,1,0,0,0,1,0,0,0,28,3,m,Others,0,1,Self,0,Adults
+1116,1,0,0,1,0,0,0,1,0,1,28,4,m,Middle Eastern ,0,0,family member,0,Adolescents
+1117,1,0,0,1,0,0,1,0,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
+1118,1,0,1,0,1,0,0,1,0,0,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
+1119,0,0,0,0,1,0,0,1,0,1,28,3,m,Middle Eastern ,0,0,family member,0,Adolescents
+1120,0,1,1,0,0,0,0,1,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
+1121,1,0,0,0,0,1,0,1,0,1,28,4,m,Others,0,0,Self,0,Adolescents
+1122,1,0,1,0,1,0,0,1,0,1,28,5,m,Middle Eastern ,0,1,Self,0,Adolescents
+1123,0,0,1,1,0,0,1,0,0,1,28,4,m,Others,0,0,Self,0,Adolescents
+1124,1,0,1,0,1,0,0,1,0,1,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
+1125,1,0,1,0,0,0,0,0,0,1,28,3,f,Others,0,0,Self,0,Adolescents
+1126,1,0,0,1,1,0,0,1,0,1,28,5,f,Asian,0,0,Self,0,Adolescents
+1127,1,0,0,0,0,0,0,1,0,1,28,3,f,Middle Eastern ,0,0,Self,0,Adolescents
+1128,1,0,0,1,1,0,1,0,0,1,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
+1129,1,0,0,0,0,1,0,0,1,0,28,3,m,Middle Eastern ,1,1,family member,0,Adolescents
+1130,1,0,0,0,0,1,1,1,0,1,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
+1131,0,1,0,0,1,1,0,0,0,0,28,3,m,Others,0,0,Self,0,Adolescents
+1132,1,1,1,1,1,0,1,0,1,1,28,8,f,Others,0,0,Self,1,Adolescents
+1133,1,0,0,0,0,0,1,1,0,1,28,4,m,Others,0,0,Self,0,Adolescents
+1134,1,1,0,0,0,0,0,1,0,0,28,3,f,Others,0,0,Self,0,Adolescents
+1135,1,0,1,0,0,0,0,0,0,1,28,3,f,Others,0,0,Self,0,Adolescents
+1136,1,0,1,1,1,0,1,1,0,0,28,6,f,Others,1,0,Self,0,Adolescents
+1137,1,1,0,0,1,0,0,1,0,0,28,4,f,Others,0,0,Self,0,Adolescents
+1138,1,0,0,0,1,0,0,1,0,0,28,3,m,Others,0,0,Self,0,Adolescents
+1139,1,0,1,1,1,0,0,0,1,1,28,6,m,Middle Eastern ,0,0,Self,0,Adolescents
+1140,0,1,0,0,0,1,0,1,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
+1141,1,1,0,0,0,0,0,1,0,0,28,3,f,Turkish,0,0,Self,0,Adolescents
+1142,1,0,0,0,1,1,0,1,0,1,28,5,f,Black,0,0,Self,0,Adolescents
+1143,0,1,1,1,0,1,0,1,0,0,28,5,f,Others,0,0,Self,0,Adolescents
+1144,1,1,1,0,1,0,0,0,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
+1145,0,1,0,0,0,0,0,1,0,1,28,3,f,Others,0,0,Self,0,Adolescents
+1146,0,1,1,0,0,0,0,1,0,0,28,3,m,Middle Eastern ,0,0,Self,0,Adults
+1147,1,0,0,1,0,0,1,1,0,1,28,5,f,Others,0,0,Self,0,Adolescents
+1148,1,0,0,0,0,0,0,1,0,1,28,3,f,Others,0,0,Self,0,Adults
+1149,1,0,0,1,0,0,1,0,0,1,28,4,f,Black,0,0,Self,0,Adolescents
+1150,1,0,0,1,0,0,1,0,0,1,28,4,f,Others,0,0,Self,0,Adults
+1151,0,1,0,1,1,0,0,0,0,0,28,3,f,Middle Eastern ,0,0,Self,0,Adolescents
+1152,1,0,0,0,0,0,1,1,0,0,28,3,f,Middle Eastern ,0,0,Self,0,Adolescents
+1153,0,1,0,0,1,0,1,1,0,1,28,5,f,Black,0,0,Self,0,Adolescents
+1154,1,0,1,1,1,1,1,1,1,0,28,8,m,Asian,0,0,Self,1,Adolescents
+1155,1,0,0,1,1,0,0,1,0,1,28,5,f,Asian,0,0,Self,0,Adolescents
+1156,1,1,0,1,0,0,0,0,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
+1157,0,1,0,1,0,0,0,1,0,0,28,3,m,Middle Eastern ,0,0,Self,0,Adolescents
+1158,0,0,1,1,1,0,0,1,0,0,28,4,f,Others,0,0,Self,0,Adolescents
+1159,0,0,1,1,1,0,0,0,0,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
+1160,1,0,1,1,1,0,1,1,0,1,28,7,f,Middle Eastern ,0,0,Self,1,Adolescents
+1161,1,0,0,0,0,0,1,1,0,1,28,4,m,Middle Eastern ,1,0,Self,0,Adults
+1162,1,1,0,1,0,0,1,1,0,0,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
+1163,1,0,0,0,0,0,1,0,1,1,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
+1164,1,0,0,0,1,0,1,0,0,1,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
+1165,1,0,1,0,1,0,1,1,0,1,28,6,f,Middle Eastern ,0,0,Self,0,Adults
+1166,1,0,1,0,0,1,0,1,0,0,28,4,f,Middle Eastern ,0,0,Self,0,Adolescents
+1167,1,1,1,1,0,0,1,0,0,0,28,5,m,Middle Eastern ,0,0,Self,0,Adolescents
+1168,1,0,0,0,0,0,1,1,0,1,28,4,m,Turkish,0,0,Others,0,Adolescents
+1169,1,0,1,1,1,1,0,1,1,1,28,8,m,Asian,0,1,Self,1,Adolescents
+1170,1,0,0,1,0,0,1,1,0,0,28,4,m,Others,0,0,Self,0,Adolescents
+1171,1,0,1,0,1,0,1,1,1,0,28,6,m,Others,0,0,Self,0,Adolescents
+1172,1,1,1,1,1,1,1,0,1,1,28,9,f,Black,0,0,family member,1,Adults
+1173,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,1,1,Self,1,Adults
+1174,1,0,0,1,1,0,0,0,0,0,28,3,m,Others,0,0,Self,0,Adolescents
+1175,1,1,1,1,1,1,0,1,1,0,28,8,f,White European,0,0,Self,1,Adults
+1176,1,0,0,0,0,1,0,0,0,1,28,3,f,White European,0,0,Self,0,Adults
+1177,1,1,1,1,0,0,0,0,0,1,28,5,f,White European,0,0,Self,0,Adolescents
+1178,1,1,0,0,1,1,0,1,0,1,28,6,f,Others,0,0,family member,0,Adults
+1179,1,1,0,0,0,0,0,1,0,1,28,4,f,Others,0,0,Self,0,Adolescents
+1180,1,0,1,1,1,0,1,0,0,1,28,6,m,Black,0,0,family member,0,Adolescents
+1181,0,1,1,1,1,0,1,0,0,1,28,6,m,White European,0,1,family member,0,Adults
+1182,1,1,1,1,1,0,0,1,0,1,28,7,f,Asian,0,0,Self,1,Adolescents
+1183,0,1,1,1,1,1,0,1,0,1,28,7,f,White European,0,1,Self,1,Adults
+1184,1,0,0,0,0,0,0,1,0,1,28,3,m,White European,0,1,Self,0,Adolescents
+1185,1,0,0,1,1,0,1,1,1,1,28,7,f,White European,0,0,Self,1,Adolescents
+1186,1,1,1,1,1,1,1,0,1,1,28,9,m,White European,0,0,Self,1,Adults
+1187,1,1,1,0,0,0,0,1,0,1,28,5,f,White European,0,0,Self,0,Adolescents
+1188,1,1,0,0,0,0,0,1,0,0,28,3,f,Middle Eastern ,0,0,Self,0,Adolescents
+1189,0,0,1,1,0,0,0,1,0,0,28,3,m,Middle Eastern ,0,0,Self,0,Adolescents
+1190,1,1,1,1,1,0,0,1,1,0,28,7,f,White European,0,0,Self,1,Adults
+1191,0,0,1,1,1,0,0,0,0,1,28,4,f,Others,1,0,Self,0,Adolescents
+1192,1,1,0,0,0,0,1,0,0,0,28,3,f,Black,0,0,Self,0,Adolescents
+1193,1,0,0,0,0,0,0,1,0,1,28,3,m,White European,1,0,Self,0,Adults
+1194,1,1,0,1,1,0,0,0,0,0,28,4,m,Middle Eastern ,0,0,Self,0,Adolescents
+1195,0,1,1,1,1,1,0,1,1,1,28,8,m,Middle Eastern ,1,0,Self,1,Adolescents
+1196,1,1,1,1,1,0,0,1,0,0,28,6,m,Hispanic or Latino,0,0,Self,0,Adults
+1197,0,1,1,1,1,1,0,0,1,0,28,6,f,Others,0,0,Health care professional,0,Adolescents
+1198,0,0,0,1,0,0,1,0,0,1,28,3,f,White European,0,0,Self,0,Adults
+1199,1,1,0,1,1,1,1,1,0,1,28,8,f,White European,1,0,Self,1,Adults
+1200,1,0,0,0,0,1,0,0,0,1,28,3,m,White European,0,1,Self,0,Adolescents
+1201,0,0,1,1,0,1,1,1,1,1,28,7,m,White European,0,0,family member,1,Adolescents
+1202,1,0,1,1,0,1,0,0,0,1,28,5,m,White European,0,0,family member,0,Adolescents
+1203,1,1,1,1,1,1,1,1,1,1,28,10,f,Asian,0,0,Self,1,Adults
+1204,0,0,0,0,0,1,0,1,1,0,28,3,m,Asian,0,0,Self,0,Adolescents
+1205,1,1,1,1,1,0,1,1,0,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
+1206,1,0,1,1,1,0,0,0,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
+1207,1,0,0,0,0,0,0,1,0,1,28,3,m,Asian,0,0,Self,0,Adults
+1208,1,0,0,1,1,0,1,0,0,0,28,4,f,Asian,0,0,Self,0,Adults
+1209,1,0,0,0,0,1,0,1,0,0,28,3,f,Asian,0,0,Self,0,Adults
+1210,1,0,0,0,1,0,0,1,0,1,28,4,f,Asian,0,0,Self,0,Adults
+1211,1,0,0,0,1,0,1,1,0,0,28,4,f,Asian,0,0,Self,0,Adults
+1212,1,1,1,1,0,0,1,1,0,0,28,6,m,Asian,0,0,Self,0,Adolescents
+1213,1,0,1,1,0,0,1,1,0,0,28,5,m,Others,0,0,Self,0,Adolescents
+1214,0,1,0,0,0,0,0,1,1,0,28,3,m,Others,0,0,Self,0,Adolescents
+1215,1,1,1,1,1,1,1,0,1,1,28,9,m,White European,0,0,Self,1,Adults
+1216,1,1,0,1,1,1,0,0,1,1,28,7,f,White European,0,0,Self,1,Adults
+1217,0,1,1,0,0,0,1,0,0,1,28,4,m,Black,0,0,Self,0,Adolescents
+1218,1,1,1,1,0,0,0,1,0,0,28,5,f,White European,0,0,Self,0,Adolescents
+1219,1,1,1,1,0,0,1,1,1,0,28,7,m,Others,0,0,Self,1,Adults
+1220,1,0,0,0,1,0,1,1,0,1,28,5,m,Hispanic or Latino,0,0,Self,0,Adults
+1221,1,1,1,1,1,1,1,1,1,1,28,10,m,Hispanic or Latino,0,0,Self,1,Adults
+1222,1,1,1,1,0,0,1,0,0,1,28,6,m,White European,0,0,Self,0,Adults
+1223,1,0,1,1,0,0,0,0,0,0,28,3,f,White European,0,0,Self,0,Adults
+1224,0,0,0,1,0,0,0,1,0,1,28,3,m,Others,0,0,Self,0,Adults
+1225,0,1,1,1,1,1,1,0,1,1,28,8,m,Asian,0,0,Self,1,Adults
+1226,1,1,1,1,1,0,1,1,0,1,28,8,f,Black,0,0,Self,1,Adults
+1227,1,1,0,0,0,0,0,1,0,0,28,3,m,Black,0,0,family member,0,Adults
+1228,0,1,1,1,1,0,0,0,1,0,28,5,f,Black,0,1,family member,0,Adults
+1229,1,1,0,1,1,1,0,1,1,1,28,8,f,Hispanic or Latino,1,0,Self,1,Adults
+1230,0,1,0,0,1,0,1,1,0,0,28,4,m,White European,0,0,Self,0,Adults
+1231,1,0,1,1,1,0,0,1,0,1,28,6,f,White European,0,1,Self,0,Adolescents
+1232,1,0,1,1,1,0,1,1,1,1,28,8,m,White European,0,1,family member,1,Adolescents
+1233,1,0,1,0,1,0,1,1,0,1,28,6,m,Others,1,1,Self,0,Adults
+1234,1,0,1,0,0,0,1,0,0,1,28,4,m,Asian,0,0,Self,0,Adults
+1235,0,1,1,0,1,0,0,1,0,0,28,4,m,White European,0,0,Self,0,Adults
+1236,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,1,Self,1,Adults
+1237,0,1,1,1,1,1,1,1,0,1,28,8,f,White European,0,0,Self,1,Adolescents
+1238,1,1,1,1,1,1,1,0,1,1,28,9,m,White European,0,0,Self,1,Adults
+1239,1,1,1,0,0,0,0,0,0,1,28,4,f,Asian,0,0,Self,0,Adolescents
+1240,1,0,1,1,0,0,0,0,0,0,28,3,f,White European,0,0,Self,0,Adults
+1241,1,1,1,1,1,0,1,1,1,1,28,9,f,White European,0,0,Self,1,Adults
+1242,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,Self,1,Adults
+1243,1,1,0,1,0,0,1,0,0,0,28,4,f,White European,0,1,family member,0,Adults
+1244,1,0,1,1,1,0,1,0,1,1,28,7,m,Black,0,0,Self,1,Adults
+1245,0,1,0,0,0,0,0,0,1,1,28,3,f,Others,0,0,Self,0,Adults
+1246,0,0,1,1,0,0,0,0,0,1,28,3,m,Middle Eastern ,0,0,Self,0,Adults
+1247,1,1,1,1,1,0,0,1,1,1,28,8,f,White European,0,1,Self,1,Adults
+1248,1,1,1,1,1,0,0,1,0,1,28,7,f,White European,0,0,Self,1,Adults
+1249,1,1,1,1,1,0,1,0,1,0,28,7,f,White European,1,1,Self,1,Adults
+1250,1,1,0,1,1,1,0,0,0,1,28,6,m,Black,1,1,family member,0,Adolescents
+1251,1,1,1,1,0,1,0,1,1,1,28,8,m,White European,0,0,Self,1,Adults
+1252,1,0,0,0,0,0,1,1,0,1,28,4,f,Others,0,0,Self,0,Adolescents
+1253,0,0,0,1,0,0,1,1,0,1,28,4,m,Asian,0,0,Self,0,Adults
+1254,0,0,0,0,1,0,0,1,0,1,28,3,f,Others,0,0,Self,0,Adults
+1255,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,1,1,Self,1,Adults
+1256,1,1,0,0,0,0,1,1,0,0,28,4,f,Hispanic or Latino,0,0,family member,0,Adults
+1257,0,1,1,1,0,0,0,0,0,1,28,4,f,White European,1,0,Self,0,Adults
+1258,0,1,1,1,1,1,1,1,1,1,28,9,m,White European,0,0,Self,1,Adolescents
+1259,0,0,0,1,1,0,1,0,0,1,28,4,f,Others,0,0,Self,0,Adolescents
+1260,0,1,0,0,1,0,0,0,0,1,28,3,m,Others,0,0,Self,0,Adolescents
+1261,0,1,0,0,1,1,0,0,1,1,28,5,m,Others,0,0,Self,0,Adults
+1262,1,0,1,0,0,1,0,1,0,0,28,4,f,White European,0,0,Self,0,Adults
+1263,0,1,1,1,1,1,0,0,0,1,28,6,m,White European,0,0,family member,0,Adolescents
+1264,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,family member,1,Adolescents
+1265,0,1,1,1,1,1,1,1,1,1,28,9,f,Asian,0,0,Self,1,Adults
+1266,0,1,1,1,1,1,1,1,1,1,28,9,f,Asian,0,1,Self,1,Adults
+1267,1,0,1,1,1,1,1,1,1,1,28,9,f,White European,1,0,Self,1,Adults
+1268,1,0,1,1,1,1,1,0,0,1,28,7,f,White European,1,0,Self,1,Adults
+1269,1,0,1,1,0,0,0,0,0,1,28,4,f,White European,0,1,Self,0,Adults
+1270,0,1,1,1,0,0,0,1,0,1,28,5,m,White European,0,0,Self,0,Adults
+1271,1,1,1,1,0,0,1,0,0,1,28,6,m,White European,0,0,Self,0,Adults
+1272,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,1,Self,1,Adults
+1273,1,0,0,0,1,0,0,0,0,1,28,3,f,White European,0,1,Self,0,Adults
+1274,1,1,1,0,1,0,1,0,1,1,28,7,m,Middle Eastern ,0,0,Self,1,Adolescents
+1275,1,1,1,1,1,1,0,1,1,1,28,9,m,White European,0,0,family member,1,Adults
+1276,1,0,0,1,1,0,0,1,0,0,28,4,f,Hispanic or Latino,0,1,Self,0,Adolescents
+1277,1,1,0,0,0,0,0,1,0,0,28,3,m,Others,0,0,Self,0,Adults
+1278,1,1,0,1,1,0,0,0,0,0,28,4,m,Turkish,0,0,Self,0,Adults
+1279,1,1,1,1,1,1,1,1,0,1,28,9,f,White European,0,0,Self,1,Adolescents
+1280,0,1,1,1,1,1,0,0,0,1,28,6,f,White European,1,0,Self,0,Adolescents
+1281,1,1,1,1,1,1,1,0,1,1,28,9,f,White European,0,1,Self,1,Adults
+1282,1,0,0,1,1,1,1,1,1,1,28,8,m,Black,0,0,Self,1,Adolescents
+1283,0,1,0,1,0,1,1,0,1,1,28,6,f,Middle Eastern ,0,0,family member,0,Adolescents
+1284,1,0,0,0,0,0,1,1,1,0,28,4,m,White European,0,0,family member,0,Adolescents
+1285,0,1,0,0,1,1,0,0,1,0,28,4,m,Others,0,0,Self,0,Adolescents
+1286,0,1,0,1,0,1,0,0,0,1,28,4,m,Asian,0,0,Self,0,Adults
+1287,1,1,0,0,0,0,1,1,0,0,28,4,m,White European,0,0,Self,0,Adults
+1288,1,1,1,1,1,1,0,1,1,1,28,9,f,White European,1,1,Self,1,Adults
+1289,1,0,1,1,0,0,0,0,0,0,28,3,f,White European,0,0,Self,0,Adults
+1290,1,1,0,1,0,0,0,0,0,1,28,4,m,White European,0,0,Self,0,Adults
+1291,1,0,0,0,0,0,0,1,0,1,28,3,m,Others,0,0,Self,0,Adults
+1292,1,0,0,1,0,0,0,1,0,0,28,3,m,Others,0,0,Self,0,Adults
+1293,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,1,Self,1,Adults
+1294,1,0,0,0,1,0,1,1,0,0,28,4,f,White European,0,0,Self,0,Adolescents
+1295,1,0,0,0,1,0,1,1,0,0,28,4,f,White European,0,0,Self,0,Adolescents
+1296,1,1,0,0,1,1,1,1,1,1,28,8,m,White European,0,0,Self,1,Adolescents
+1297,1,1,1,1,1,0,1,1,1,1,28,9,m,White European,1,0,Self,1,Adults
+1298,1,1,1,1,1,0,0,1,1,1,28,8,f,White European,0,1,Self,1,Adults
+1299,1,1,0,0,0,0,0,1,0,0,28,3,f,Asian,0,1,Self,0,Adults
+1300,1,1,0,0,1,0,0,0,0,1,28,4,f,Black,0,0,family member,0,Adults
+1301,1,1,0,0,1,1,0,1,1,0,28,6,f,Black,1,0,family member,0,Adults
+1302,1,1,0,1,1,1,0,1,1,0,28,7,f,Black,1,1,family member,1,Adults
+1303,1,1,1,1,1,0,0,1,0,1,28,7,m,Others,0,0,Self,1,Adults
+1304,1,0,1,1,0,0,1,0,0,1,28,5,f,White European,0,0,Self,0,Adults
+1305,1,1,1,1,1,1,1,1,1,1,28,10,m,Black,0,0,Self,1,Adolescents
+1306,1,1,1,1,1,1,0,1,1,1,28,9,m,Black,0,0,Self,1,Adolescents
+1307,1,0,1,1,1,1,1,1,1,1,28,9,f,Others,0,0,Self,1,Adults
+1308,1,1,1,0,0,0,0,0,0,0,28,3,f,Asian,0,0,Self,0,Adolescents
+1309,0,1,1,1,0,0,0,1,1,0,28,5,f,Asian,0,0,Self,0,Adults
+1310,0,1,1,1,1,0,1,0,1,0,28,6,m,Middle Eastern ,0,0,Self,0,Adolescents
+1311,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,1,0,Self,1,Adults
+1312,1,0,0,0,1,0,0,0,1,1,28,4,m,Asian,0,0,Self,0,Adults
+1313,1,1,0,0,0,0,0,1,0,0,28,3,m,Others,0,0,Self,0,Adolescents
+1314,1,1,0,0,0,0,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adolescents
+1315,1,0,0,0,1,0,1,1,0,1,28,5,m,Asian,0,0,Self,0,Adolescents
+1316,1,0,0,0,0,0,0,1,0,1,28,3,f,Asian,0,0,Self,0,Adults
+1317,1,0,1,1,0,0,0,1,1,1,28,6,f,Asian,0,0,family member,0,Adults
+1318,1,0,0,0,0,0,0,1,1,0,28,3,m,Asian,0,0,Self,0,Adolescents
+1319,1,0,1,0,0,0,0,1,0,0,28,3,f,Asian,0,0,Self,0,Adults
+1320,1,0,0,0,0,0,1,0,0,1,28,3,f,Asian,0,0,Self,0,Adults
+1321,1,0,0,0,1,1,0,1,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
+1322,1,0,0,0,0,0,1,1,0,0,28,3,m,Asian,0,0,Self,0,Adolescents
+1323,1,0,0,1,0,0,1,1,0,0,28,4,m,Asian,0,0,Self,0,Adolescents
+1324,0,0,1,0,1,1,0,1,0,1,28,5,m,Asian,0,0,Self,0,Adolescents
+1325,1,0,0,0,1,0,1,1,0,0,28,4,m,Asian,0,0,Self,0,Adolescents
+1326,1,1,1,1,0,0,0,0,0,1,28,5,f,Asian,0,0,Self,0,Adults
+1327,1,1,0,1,0,0,0,1,0,1,28,5,f,Asian,0,0,Self,0,Adolescents
+1328,1,0,1,1,0,1,0,1,0,1,28,6,f,Asian,0,0,Self,0,Adults
+1329,1,0,0,0,1,0,1,0,0,0,28,3,m,Asian,0,0,Self,0,Adolescents
+1330,0,0,0,1,1,0,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adolescents
+1331,1,0,0,1,0,0,0,1,0,1,28,4,m,Asian,0,0,Self,0,Adults
+1332,0,1,0,0,1,0,1,1,0,0,28,4,m,Asian,0,0,Self,0,Adults
+1333,1,0,1,1,1,0,1,1,1,0,28,7,f,Asian,0,0,Self,1,Adolescents
+1334,1,0,0,0,1,0,1,1,0,0,28,4,f,Asian,0,0,Self,0,Adolescents
+1335,1,0,0,1,1,0,1,1,1,1,28,7,m,Asian,0,0,Self,1,Adolescents
+1336,1,0,0,0,0,0,0,1,0,1,28,3,f,Asian,0,0,Self,0,Adults
+1337,1,0,1,0,1,0,1,1,0,1,28,6,f,Asian,0,0,Self,0,Adolescents
+1338,1,0,1,0,0,0,0,1,0,0,28,3,m,Asian,1,0,Self,0,Adolescents
+1339,1,0,0,0,0,0,1,1,0,0,28,3,m,Asian,0,0,Self,0,Adolescents
+1340,1,0,0,0,1,0,1,1,0,1,28,5,f,Others,0,0,Self,0,Adolescents
+1341,1,0,0,0,1,0,1,1,1,1,28,6,f,Asian,0,0,Self,0,Adolescents
+1342,1,1,0,1,1,0,1,1,0,0,28,6,m,Asian,0,0,Self,0,Adults
+1343,1,1,0,0,1,0,0,1,1,1,28,6,f,Middle Eastern ,0,0,Self,0,Adolescents
+1344,1,0,1,0,1,0,1,1,1,1,28,7,m,Black,0,0,Self,1,Adolescents
+1345,0,1,1,0,0,0,1,0,0,1,28,4,m,White European,0,0,Self,0,Adults
+1346,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,0,Self,1,Adolescents
+1347,1,1,0,1,1,0,0,1,0,0,28,5,m,Black,0,0,Self,0,Adolescents
+1348,1,0,0,0,1,1,1,1,1,1,28,7,m,Black,0,0,family member,1,Adults
+1349,1,1,1,0,0,0,0,1,0,0,28,4,m,Asian,0,0,Self,0,Adolescents
+1350,1,0,1,1,1,0,1,1,1,0,28,7,m,Hispanic or Latino,0,0,Self,1,Adults
+1351,1,0,1,1,1,0,0,1,0,1,28,6,m,Middle Eastern ,1,0,family member,0,Adolescents
+1352,1,0,1,1,0,0,1,1,1,1,28,7,m,Others,0,1,Self,1,Adolescents
+1353,1,1,1,1,0,0,0,0,0,0,28,4,f,Middle Eastern ,0,0,Self,0,Adults
+1354,1,0,1,0,0,1,0,1,0,1,28,5,m,White European,1,0,family member,0,Adolescents
+1355,1,0,1,1,1,0,0,0,0,0,28,4,f,Middle Eastern ,0,0,Self,0,Adults
+1356,0,1,1,1,0,0,0,0,0,0,28,3,m,Middle Eastern ,1,0,Self,0,Adults
+1357,1,0,0,0,0,0,1,0,0,1,28,3,m,Others,1,0,Self,0,Adults
+1358,1,1,1,1,1,1,1,1,1,1,28,10,f,White European,0,1,Self,1,Adults
+1359,1,1,1,1,1,0,1,1,1,1,28,9,m,Asian,0,0,Self,1,Adults
+1360,1,0,0,1,1,0,1,0,0,1,28,5,f,White European,0,1,Self,0,Adults
+1361,1,0,0,0,1,0,1,0,1,1,28,5,m,Asian,0,0,Self,0,Adolescents
+1362,1,1,0,0,1,0,1,0,1,0,28,5,m,Others,0,0,Self,0,Adults
+1363,0,0,1,1,0,0,1,0,0,0,28,3,m,Others,0,0,Self,0,Adults
+1364,1,1,1,1,1,1,0,0,1,1,28,8,m,Others,0,0,Self,1,Adults
+1365,1,1,1,0,1,1,0,1,1,1,28,8,f,White European,0,0,Self,1,Adolescents
+1366,1,1,1,1,1,1,0,1,1,1,28,9,f,Others,1,1,Self,1,Adults
+1367,1,0,0,1,1,1,0,0,1,0,28,5,m,White European,0,0,Self,0,Adolescents
+1368,1,0,0,0,0,0,1,1,0,1,28,4,m,White European,0,0,Self,0,Adults
+1369,0,0,0,0,0,0,1,1,0,1,28,3,m,White European,0,0,Self,0,Adolescents
+1370,1,1,1,1,1,1,1,0,1,1,28,9,m,White European,0,0,Self,1,Adults
+1371,0,0,1,0,0,0,1,1,0,0,28,3,f,Middle Eastern ,0,0,family member,0,Adults
+1372,1,0,0,0,0,0,1,1,0,1,28,4,m,White European,0,0,Self,0,Adults
+1373,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,0,Self,1,Adults
+1374,1,1,1,1,1,0,1,1,1,1,28,9,m,Others,0,0,Self,1,Adults
+1375,1,1,1,1,1,0,0,1,0,1,28,7,m,Hispanic or Latino,0,0,Self,1,Adolescents
+1376,1,1,1,1,1,0,1,1,0,1,28,8,m,White European,0,0,Self,1,Adolescents
+1377,1,1,1,0,1,0,1,1,1,1,28,8,m,Hispanic or Latino,0,0,Self,1,Adults
+1378,1,1,0,0,1,1,0,1,0,1,28,6,f,White European,1,0,Self,0,Adults
+1379,1,1,1,1,0,0,0,0,1,0,28,5,f,White European,1,0,Self,0,Adolescents
+1380,1,1,0,0,0,0,1,0,0,1,28,4,m,White European,1,0,family member,0,Adults
+1381,1,0,0,0,0,0,1,0,0,1,28,3,m,Black,0,0,Health care professional,0,Adolescents
+1382,1,1,1,1,1,0,0,1,1,1,28,8,f,Black,0,0,Self,1,Adults
+1383,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,0,1,Self,1,Adults
+1384,1,1,1,1,1,1,1,1,1,1,28,10,m,White European,1,1,family member,1,Adults
+1385,1,1,0,1,1,1,1,1,1,1,28,9,f,Hispanic or Latino,0,0,Self,1,Adults
+1386,1,1,0,0,0,0,0,1,0,0,28,3,m,Hispanic or Latino,0,0,Self,0,Adolescents
+1387,1,1,0,0,0,0,0,1,1,0,28,4,f,White European,1,1,Self,0,Adults
+1388,1,0,1,0,0,0,0,1,0,1,28,4,m,Hispanic or Latino,0,0,family member,0,Adults
+1389,1,0,1,1,1,0,0,1,1,1,28,7,m,White European,0,1,Self,1,Adults
+1390,1,0,0,0,1,0,1,1,0,1,28,5,m,White European,0,0,Self,0,Adults
+1391,1,1,1,0,1,1,1,1,1,1,28,9,m,White European,0,0,Self,1,Adults
+1392,1,0,1,1,1,1,1,0,1,1,28,8,m,Black,0,0,Self,1,Adults
+1393,1,0,0,0,1,1,1,1,1,1,28,7,f,White European,0,0,Self,1,Adults
+1394,1,0,0,1,0,0,1,1,0,0,28,4,m,Black,0,0,Self,0,Adolescents
+1395,1,1,1,0,1,1,1,1,0,1,28,8,m,White European,0,0,Self,1,Adults
+1396,1,0,0,1,0,0,0,1,0,1,28,4,f,White European,0,0,Self,0,Adults
+1397,1,1,1,1,1,0,0,1,0,1,28,7,m,White European,1,0,Self,1,Adults
+1398,1,0,1,1,0,0,1,1,0,0,28,5,m,Hispanic or Latino,0,0,family member,0,Adults
+1399,1,1,1,1,1,1,0,1,1,1,28,9,m,Turkish,0,1,Self,1,Adults
+1400,1,1,1,1,1,0,0,0,0,1,28,6,f,Asian,0,0,Self,0,Adults
+1401,1,1,1,1,1,1,1,1,1,1,28,10,f,Pacifica,0,0,Self,1,Adults
+1402,0,1,0,1,1,0,1,1,1,1,28,7,f,White European,0,0,Self,1,Adolescents
+1403,1,0,0,0,0,0,0,1,0,1,28,3,m,Hispanic or Latino,0,0,family member,0,Adults
+1404,1,0,1,1,1,0,1,1,0,1,28,7,f,Others,0,0,Self,1,Adolescents
+1405,1,0,0,1,1,0,1,0,1,1,28,6,m,Asian,0,0,Self,0,Adults
+1406,1,0,1,1,1,0,1,1,1,1,28,8,f,White European,0,0,Self,1,Adults
