@@ -4,8 +4,8 @@ import pandas as pd
 
 app= Dash(__name__)
 
-df= pd.read_csv("data/data on toddlers.csv")
-df1=pd.read_csv("data/data on adults.csv")
+df= pd.read_csv("https://payelpassionproject.s3.amazonaws.com/dataonautism/inputdata/data+on+toddlers.csv")
+df1=pd.read_csv("https://payelpassionproject.s3.amazonaws.com/dataonautism/inputdata/data+on+adults.csv")
 
 fig= px.bar(df,
                 x="Ethnicity"

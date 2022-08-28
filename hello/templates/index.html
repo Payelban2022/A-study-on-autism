@@ -10,6 +10,21 @@
     </a>
     <h1>It's Okay To Not Be Okay</h1>
     <p>Lets talk about Autism Spectrum Discorder</p>
+    <input type="button" id='script' class="btn btn-lg btn-default"
+           name="AnalysisOnASD" value=" Analysis On ASD " onclick="goPython()">
+
+    <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
+    <script>
+        function goPython(){
+            $.ajax({
+              url: "https://payelpassionproject.s3.amazonaws.com/dataonautism/graphgeneration.py",
+             context: document.body
+            }).done(function() {
+             alert('finished python script');;
+            });
+        }
+    </script>
     <a type="button" class="btn btn-lg btn-default" href="https://devcenter.heroku.com/articles/getting-started-with-python"><span class="glyphicon glyphicon-flash"></span> Analysis on ASD</a>
     <a type="button" class="btn btn-lg btn-primary" href="https://github.com/Payelban2022/A-study-on-autism.git"><span class="glyphicon glyphicon-download"></span> Source on GitHub</a>
   </div>
