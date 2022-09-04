@@ -9,30 +9,15 @@
       <img src="{% static 'autism.jpg'%}">
     </a>
     <h1>It's Okay To Not Be Okay</h1>
-    <p>Lets talk about Autism Spectrum Discorder</p>
-    <input type="button" id='script' class="btn btn-lg btn-default"
-           name="AnalysisOnASD" value=" Analysis On ASD " onclick="goPython()">
-
-    <script src="http://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-
-    <script>
-        function goPython(){
-            $.ajax({
-              url: "https://payelpassionproject.s3.amazonaws.com/dataonautism/graphgeneration.py",
-             context: document.body
-            }).done(function() {
-             alert('finished python script');;
-            });
-        }
-    </script>
-    <a type="button" class="btn btn-lg btn-default" href="https://devcenter.heroku.com/articles/getting-started-with-python"><span class="glyphicon glyphicon-flash"></span> Analysis on ASD</a>
+    <p>Lets talk about Autism Spectrum Disorder</p>
+    <a type="button" class="btn btn-lg btn-default" href="https://peaceful-sands-78229.herokuapp.com/graph"><span class="glyphicon glyphicon-flash"></span> Analysis on ASD</a>
     <a type="button" class="btn btn-lg btn-primary" href="https://github.com/Payelban2022/A-study-on-autism.git"><span class="glyphicon glyphicon-download"></span> Source on GitHub</a>
   </div>
 </div>
 <div class="container">
   <div class="alert alert-info text-center" role="alert">
-    This is a study on Autism Spectrum Discorder(ASD) data across globe in differnt ages and cultures,
-    Data refferences stored in below location
+    This is a study on Autism Spectrum Disorder(ASD) data across globe in different ages and cultures,
+    Data references stored in below location
     <a href="https://payelpassionproject.s3.amazonaws.com/dataonautism/inputdata/data+on+adults.csv"
        class="alert-link">Payel's AWS S3 datastore</a>.
   </div>

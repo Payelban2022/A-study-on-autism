@@ -2,6 +2,7 @@ from django.shortcuts import render
 from django.http import HttpResponse
 import requests
 
+# import graphgeneration
 from .models import Greeting
 
 # Create your views here.
@@ -22,3 +23,7 @@ def db(request):
     greetings = Greeting.objects.all()
 
     return render(request, "db.html", {"greetings": greetings})
+
+def graph(request):
+    # return HttpResponse('Hello from Python!')
+    return render(request, "graph.html")
