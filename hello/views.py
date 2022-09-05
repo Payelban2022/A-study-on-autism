@@ -3,6 +3,8 @@ from django.http import HttpResponse
 import requests
 
 # import graphgeneration
+from .analysisCompletedata import CompleteAnalysis
+from .graphgeneration import Graphgen
 from .models import Greeting
 
 # Create your views here.
@@ -25,5 +27,13 @@ def db(request):
     return render(request, "db.html", {"greetings": greetings})
 
 def graph(request):
-    # return HttpResponse('Hello from Python!')
-    return render(request, "graph.html")
+
+    graphgen=Graphgen()
+    completeana=CompleteAnalysis()
+    graphgen.__init__()
+    completeana.__init__()
+    graphgens=Graphgen.genrateGraph("")
+    completeanalysis=CompleteAnalysis.getCompleteAnalysis("")
+    # return HttpResponse(Graphgen.genrateGraph(''))
+    # exec(open("/Users/payel/Python/A-study-on-autism/hello/"+"graphgeneration.py").read())
+    return render(request,"graph.html",completeanalysis)
