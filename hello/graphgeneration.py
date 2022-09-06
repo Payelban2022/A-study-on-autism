@@ -45,7 +45,7 @@ class Graphgen:
         app.layout = html.Div([
     # Toddler Data in plotting
             html.Div(children=[html.H1(
-            children="Toddeler-Ethnictiy vs ASD Traits",
+            children="Toddler-Ethnicity vs ASD Traits",
             style={
             'textAlign': 'center'
                 }),
@@ -56,7 +56,7 @@ class Graphgen:
                 ,
             # Adult data in plotting
             html.Div(children=[html.H1(
-            children="Adult-Ethnictiy vs ASD Traits",
+            children="Adult-Ethnicity vs ASD Traits",
             style={
                 'textAlign': 'right'
                 }),
