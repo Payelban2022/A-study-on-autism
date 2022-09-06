@@ -53,7 +53,7 @@ class HeredityGraph:
                     'textAlign': 'center'
                 }),
                 dcc.Graph(
-                    id='Jaundice on gender',
+                    id='Heredity on Ethnicities',
                     figure=fig1
                 )])
 
