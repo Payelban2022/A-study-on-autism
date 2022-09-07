@@ -37,7 +37,7 @@ class JaundiceGraph:
         app.layout = html.Div([
             # Ethnicity Data in plotting
             html.Div(children=[html.H1(
-                children="Analysis on Jaundice while birth based on gender(Toddlers)",
+                children="Jaundice while birth vs ASD Traits(Toddlers)",
                 style={
                     'textAlign': 'center'
                 }),
@@ -48,7 +48,7 @@ class JaundiceGraph:
             ,
             # Gender Data in plotting
             html.Div(children=[html.H1(
-                children="Analysis on Jaundice while birth based on gender(Adults)",
+                children="Jaundice while birth vs ASD Traits(Adults)",
                 style={
                     'textAlign': 'center'
                 }),
