@@ -37,7 +37,7 @@ class HeredityGraph:
         app.layout = html.Div([
             # Ethnicity Data in plotting
             html.Div(children=[html.H1(
-                children="Analysis of heredity based on etnicities(Toddlers)",
+                children="Analysis of heredity based on ethnicities(Toddlers)",
                 style={
                     'textAlign': 'center'
                 }),
@@ -48,12 +48,12 @@ class HeredityGraph:
             ,
             # Gender Data in plotting
             html.Div(children=[html.H1(
-                children="Analysis on heredity based on etnicities(Adults)",
+                children="Analysis on heredity based on ethnicities(Adults)",
                 style={
                     'textAlign': 'center'
                 }),
                 dcc.Graph(
-                    id='Heredity on Ethnicities',
+                    id='Heredity on ethnicities',
                     figure=fig1
                 )])
 
