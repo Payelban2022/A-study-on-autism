@@ -6,9 +6,9 @@ app= Dash(__name__)
 
 class CompleteAnalysis:
     def getCompleteAnalysis(self):
-        df= pd.read_csv("/Users/payel/Python/A-study-on-autism/Complete analysis on ASD.csv")
+        df = pd.read_csv("Complete analysis on ASD.csv")
 
-        fig= px.bar(df,
+        fig = px.bar(df,
                 x="age-group"
                 # , y="Ethnicity"
                 ,color="Ethnicity"
@@ -33,20 +33,20 @@ class CompleteAnalysis:
             paper_bgcolor='#111111',
             font_color='#7FDBFF'
 
-            )
+            ),
 
         app.layout= html.Div([
-            # Ethnicity Data in plotting
             html.Div(children=[html.H1(
-                     children="Analysis on Ethnictiy vs ASD Traits on All Ages",
-                     style={
-                         'textAlign': 'center'
-                     }),
-            dcc.Graph(
-                id='Ethnicity-vs-Traits',
-                figure= fig
-            )])
-            ,
+                children="Analysis on Age and ethnicity vs ASD Traits",
+                style={
+                    'textAlign': 'center'
+                }),
+                dcc.Graph(
+                    id='Gender,ethnicity-vs-Traits',
+                    figure=fig)]),
+
+
+
             # Gender Data in plotting
             html.Div(children=[html.H1(
                 children="Analysis on Age vs ASD Traits",
